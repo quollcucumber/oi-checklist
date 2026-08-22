@@ -3,8 +3,9 @@ import type { Status, StatusMap } from '../types'
 
 // Supabase project config. Both values are public by design (access is
 // controlled by Row Level Security). Set them to enable accounts + sync.
-const SUPABASE_URL: string = ''
-const SUPABASE_ANON_KEY: string = ''
+const SUPABASE_URL: string = 'https://btblzenbbajraeeieswt.supabase.co'
+const SUPABASE_ANON_KEY: string =
+  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJ0Ymx6ZW5iYmFqcmFlZWllc3d0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODc0MjQ1NjksImV4cCI6MjEwMzAwMDU2OX0.A3OpNacG-eW_APxpgSIM5QEt2mCVRSFIAyWYRJzVJZ4'
 
 export const syncEnabled = SUPABASE_URL !== '' && SUPABASE_ANON_KEY !== ''
 
