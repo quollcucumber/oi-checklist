@@ -1,0 +1,3307 @@
+[
+ {
+  "id": "APIO26_ancient",
+  "title": "Ancient Ruins Excursion",
+  "olympiad": "APIO",
+  "year": 2026,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/APIO26_ancient"
+ },
+ {
+  "id": "APIO26_apio",
+  "title": "This is APIO, not APOI",
+  "olympiad": "APIO",
+  "year": 2026,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/APIO26_apio"
+ },
+ {
+  "id": "APIO26_bike",
+  "title": "APIOBike",
+  "olympiad": "APIO",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO26_bike"
+ },
+ {
+  "id": "APIO26_game",
+  "title": "Communication Game",
+  "olympiad": "APIO",
+  "year": 2026,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/APIO26_game"
+ },
+ {
+  "id": "APIO26_navigation",
+  "title": "Navigation",
+  "olympiad": "APIO",
+  "year": 2026,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/APIO26_navigation"
+ },
+ {
+  "id": "APIO26_nightmarket",
+  "title": "Night Market",
+  "olympiad": "APIO",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO26_nightmarket"
+ },
+ {
+  "id": "APIO26_party",
+  "title": "Scallion Pancake Party",
+  "olympiad": "APIO",
+  "year": 2026,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/APIO26_party"
+ },
+ {
+  "id": "APIO25_hack",
+  "title": "Hack",
+  "olympiad": "APIO",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO25_hack"
+ },
+ {
+  "id": "APIO25_permgame",
+  "title": "Permutation Game",
+  "olympiad": "APIO",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO25_permgame"
+ },
+ {
+  "id": "APIO25_rotate",
+  "title": "Rotating Lines",
+  "olympiad": "APIO",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO25_rotate"
+ },
+ {
+  "id": "APIO24_september",
+  "title": "September",
+  "olympiad": "APIO",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO24_september"
+ },
+ {
+  "id": "APIO24_show",
+  "title": "Magic Show",
+  "olympiad": "APIO",
+  "year": 2024,
+  "type": "Two steps",
+  "url": "https://oj.uz/problem/view/APIO24_show"
+ },
+ {
+  "id": "APIO24_train",
+  "title": "Train",
+  "olympiad": "APIO",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO24_train"
+ },
+ {
+  "id": "APIO23_abc",
+  "title": "Alice, Bob, and Circuit",
+  "olympiad": "APIO",
+  "year": 2023,
+  "type": "Two steps",
+  "url": "https://oj.uz/problem/view/APIO23_abc"
+ },
+ {
+  "id": "APIO23_cyberland",
+  "title": "Cyberland",
+  "olympiad": "APIO",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO23_cyberland"
+ },
+ {
+  "id": "APIO23_sequence",
+  "title": "Sequence",
+  "olympiad": "APIO",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO23_sequence"
+ },
+ {
+  "id": "APIO22_game",
+  "title": "Game",
+  "olympiad": "APIO",
+  "year": 2022,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/APIO22_game"
+ },
+ {
+  "id": "APIO22_mars",
+  "title": "Mars",
+  "olympiad": "APIO",
+  "year": 2022,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/APIO22_mars"
+ },
+ {
+  "id": "APIO22_perm",
+  "title": "Permutation",
+  "olympiad": "APIO",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO22_perm"
+ },
+ {
+  "id": "APIO21_hexagon",
+  "title": "Hexagonal Territory",
+  "olympiad": "APIO",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO21_hexagon"
+ },
+ {
+  "id": "APIO21_jumps",
+  "title": "Rainforest Jumps",
+  "olympiad": "APIO",
+  "year": 2021,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/APIO21_jumps"
+ },
+ {
+  "id": "APIO21_roads",
+  "title": "Road Closures",
+  "olympiad": "APIO",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO21_roads"
+ },
+ {
+  "id": "APIO20_fun",
+  "title": "Fun Tour",
+  "olympiad": "APIO",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO20_fun"
+ },
+ {
+  "id": "APIO20_paint",
+  "title": "Painting Walls",
+  "olympiad": "APIO",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO20_paint"
+ },
+ {
+  "id": "APIO20_swap",
+  "title": "Swapping Cities",
+  "olympiad": "APIO",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO20_swap"
+ },
+ {
+  "id": "APIO19_bridges",
+  "title": "Bridges",
+  "olympiad": "APIO",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO19_bridges"
+ },
+ {
+  "id": "APIO19_strange_device",
+  "title": "Strange Device",
+  "olympiad": "APIO",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO19_strange_device"
+ },
+ {
+  "id": "APIO19_street_lamps",
+  "title": "Street Lamps",
+  "olympiad": "APIO",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO19_street_lamps"
+ },
+ {
+  "id": "APIO18_circle_selection",
+  "title": "Circle selection",
+  "olympiad": "APIO",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO18_circle_selection"
+ },
+ {
+  "id": "APIO18_duathlon",
+  "title": "Duathlon",
+  "olympiad": "APIO",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO18_duathlon"
+ },
+ {
+  "id": "APIO18_new_home",
+  "title": "New Home",
+  "olympiad": "APIO",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO18_new_home"
+ },
+ {
+  "id": "APIO17_koala",
+  "title": "Koala Game",
+  "olympiad": "APIO",
+  "year": 2017,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/APIO17_koala"
+ },
+ {
+  "id": "APIO17_merchant",
+  "title": "Travelling Merchant",
+  "olympiad": "APIO",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO17_merchant"
+ },
+ {
+  "id": "APIO17_rainbow",
+  "title": "Land of the Rainbow Gold",
+  "olympiad": "APIO",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO17_rainbow"
+ },
+ {
+  "id": "APIO16_boat",
+  "title": "Boat",
+  "olympiad": "APIO",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO16_boat"
+ },
+ {
+  "id": "APIO16_fireworks",
+  "title": "Fireworks",
+  "olympiad": "APIO",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO16_fireworks"
+ },
+ {
+  "id": "APIO16_gap",
+  "title": "Gap",
+  "olympiad": "APIO",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO16_gap"
+ },
+ {
+  "id": "APIO15_bridge",
+  "title": "Palembang Bridges",
+  "olympiad": "APIO",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO15_bridge"
+ },
+ {
+  "id": "APIO15_sculpture",
+  "title": "Bali Sculptures",
+  "olympiad": "APIO",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO15_sculpture"
+ },
+ {
+  "id": "APIO15_skyscraper",
+  "title": "Jakarta Skyscrapers",
+  "olympiad": "APIO",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO15_skyscraper"
+ },
+ {
+  "id": "APIO14_beads",
+  "title": "Beads and wires",
+  "olympiad": "APIO",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO14_beads"
+ },
+ {
+  "id": "APIO14_palindrome",
+  "title": "Palindromes",
+  "olympiad": "APIO",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO14_palindrome"
+ },
+ {
+  "id": "APIO14_sequence",
+  "title": "Split the sequence",
+  "olympiad": "APIO",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO14_sequence"
+ },
+ {
+  "id": "APIO13_interference",
+  "title": "Interference",
+  "olympiad": "APIO",
+  "year": 2013,
+  "type": "Output Only",
+  "url": "https://oj.uz/problem/view/APIO13_interference"
+ },
+ {
+  "id": "APIO13_robots",
+  "title": "Robots",
+  "olympiad": "APIO",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO13_robots"
+ },
+ {
+  "id": "APIO13_toll",
+  "title": "Toll",
+  "olympiad": "APIO",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/APIO13_toll"
+ },
+ {
+  "id": "BOI26_blocks",
+  "title": "Blocks",
+  "olympiad": "Baltic OI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI26_blocks"
+ },
+ {
+  "id": "BOI26_distances",
+  "title": "Distances",
+  "olympiad": "Baltic OI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI26_distances"
+ },
+ {
+  "id": "BOI26_hamilton",
+  "title": "Hamilton",
+  "olympiad": "Baltic OI",
+  "year": 2026,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/BOI26_hamilton"
+ },
+ {
+  "id": "BOI26_island",
+  "title": "Island",
+  "olympiad": "Baltic OI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI26_island"
+ },
+ {
+  "id": "BOI26_journey",
+  "title": "Tourist's Journey",
+  "olympiad": "Baltic OI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI26_journey"
+ },
+ {
+  "id": "BOI26_sort",
+  "title": "Sort",
+  "olympiad": "Baltic OI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI26_sort"
+ },
+ {
+  "id": "BOI25_boi",
+  "title": "BOI Acronym",
+  "olympiad": "Baltic OI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI25_boi"
+ },
+ {
+  "id": "BOI25_dev",
+  "title": "Developer",
+  "olympiad": "Baltic OI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI25_dev"
+ },
+ {
+  "id": "BOI25_exp",
+  "title": "Exponents",
+  "olympiad": "Baltic OI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI25_exp"
+ },
+ {
+  "id": "BOI25_gcd",
+  "title": "Gingerbread",
+  "olympiad": "Baltic OI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI25_gcd"
+ },
+ {
+  "id": "BOI25_tou",
+  "title": "Tour",
+  "olympiad": "Baltic OI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI25_tou"
+ },
+ {
+  "id": "BOI25_tow",
+  "title": "Tower",
+  "olympiad": "Baltic OI",
+  "year": 2025,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/BOI25_tow"
+ },
+ {
+  "id": "BOI24_drivers",
+  "title": "Drivers",
+  "olympiad": "Baltic OI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI24_drivers"
+ },
+ {
+  "id": "BOI24_fire",
+  "title": "Fire",
+  "olympiad": "Baltic OI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI24_fire"
+ },
+ {
+  "id": "BOI24_jobs",
+  "title": "Jobs",
+  "olympiad": "Baltic OI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI24_jobs"
+ },
+ {
+  "id": "BOI24_multiplication",
+  "title": "Multiplication",
+  "olympiad": "Baltic OI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI24_multiplication"
+ },
+ {
+  "id": "BOI24_portal",
+  "title": "Portal",
+  "olympiad": "Baltic OI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI24_portal"
+ },
+ {
+  "id": "BOI24_rectangle",
+  "title": "Cutting a Rectangle",
+  "olympiad": "Baltic OI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI24_rectangle"
+ },
+ {
+  "id": "BOI24_tiles",
+  "title": "Tiles",
+  "olympiad": "Baltic OI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI24_tiles"
+ },
+ {
+  "id": "BOI24_trains",
+  "title": "Trains",
+  "olympiad": "Baltic OI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI24_trains"
+ },
+ {
+  "id": "BOI24_wall",
+  "title": "Flooding Wall",
+  "olympiad": "Baltic OI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI24_wall"
+ },
+ {
+  "id": "BOI23_astronomer",
+  "title": "Astronomer",
+  "olympiad": "Baltic OI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI23_astronomer"
+ },
+ {
+  "id": "BOI23_minequake",
+  "title": "Minequake",
+  "olympiad": "Baltic OI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI23_minequake"
+ },
+ {
+  "id": "BOI23_mineraldeposits",
+  "title": "Mineral deposits",
+  "olympiad": "Baltic OI",
+  "year": 2023,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/BOI23_mineraldeposits"
+ },
+ {
+  "id": "BOI23_sequence",
+  "title": "Sequence",
+  "olympiad": "Baltic OI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI23_sequence"
+ },
+ {
+  "id": "BOI23_staringcontest",
+  "title": "Staring Contest",
+  "olympiad": "Baltic OI",
+  "year": 2023,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/BOI23_staringcontest"
+ },
+ {
+  "id": "BOI23_tycho",
+  "title": "Tycho",
+  "olympiad": "Baltic OI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI23_tycho"
+ },
+ {
+  "id": "BOI22_art",
+  "title": "Art Collections",
+  "olympiad": "Baltic OI",
+  "year": 2022,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/BOI22_art"
+ },
+ {
+  "id": "BOI22_communication",
+  "title": "Flight to the Ford",
+  "olympiad": "Baltic OI",
+  "year": 2022,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/BOI22_communication"
+ },
+ {
+  "id": "BOI22_events",
+  "title": "Event Hopping",
+  "olympiad": "Baltic OI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI22_events"
+ },
+ {
+  "id": "BOI22_island",
+  "title": "Stranded Far From Home",
+  "olympiad": "Baltic OI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI22_island"
+ },
+ {
+  "id": "BOI22_passes",
+  "title": "Boarding Passes",
+  "olympiad": "Baltic OI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI22_passes"
+ },
+ {
+  "id": "BOI22_vault",
+  "title": "Uplifting Excursion",
+  "olympiad": "Baltic OI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI22_vault"
+ },
+ {
+  "id": "BOI21_books",
+  "title": "A Difficult(y) Choice",
+  "olympiad": "Baltic OI",
+  "year": 2021,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/BOI21_books"
+ },
+ {
+  "id": "BOI21_prison",
+  "title": "The short shank; Redemption",
+  "olympiad": "Baltic OI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI21_prison"
+ },
+ {
+  "id": "BOI21_servers",
+  "title": "Inside information",
+  "olympiad": "Baltic OI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI21_servers"
+ },
+ {
+  "id": "BOI21_swaps",
+  "title": "The Collection Game",
+  "olympiad": "Baltic OI",
+  "year": 2021,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/BOI21_swaps"
+ },
+ {
+  "id": "BOI21_watchmen",
+  "title": "From Hacks to Snitches",
+  "olympiad": "Baltic OI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI21_watchmen"
+ },
+ {
+  "id": "BOI21_xanadu",
+  "title": "The Xana coup",
+  "olympiad": "Baltic OI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI21_xanadu"
+ },
+ {
+  "id": "BOI20_colors",
+  "title": "Colors",
+  "olympiad": "Baltic OI",
+  "year": 2020,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/BOI20_colors",
+  "cf": "1386/A"
+ },
+ {
+  "id": "BOI20_graph",
+  "title": "Graph",
+  "olympiad": "Baltic OI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI20_graph",
+  "cf": "1387/A"
+ },
+ {
+  "id": "BOI20_guess",
+  "title": "Guess the number",
+  "olympiad": "Baltic OI",
+  "year": 2020,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/BOI20_guess"
+ },
+ {
+  "id": "BOI20_joker",
+  "title": "Joker",
+  "olympiad": "Baltic OI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI20_joker",
+  "cf": "1386/C"
+ },
+ {
+  "id": "BOI20_mixture",
+  "title": "Mixture",
+  "olympiad": "Baltic OI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI20_mixture",
+  "cf": "1386/B"
+ },
+ {
+  "id": "BOI20_roses",
+  "title": "Roses",
+  "olympiad": "Baltic OI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI20_roses"
+ },
+ {
+  "id": "BOI20_village",
+  "title": "Village",
+  "olympiad": "Baltic OI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI20_village"
+ },
+ {
+  "id": "BOI20_viruses",
+  "title": "Viruses",
+  "olympiad": "Baltic OI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI20_viruses",
+  "cf": "1387/C"
+ },
+ {
+  "id": "BOI19_kitchen",
+  "title": "Kitchen",
+  "olympiad": "Baltic OI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI19_kitchen"
+ },
+ {
+  "id": "BOI19_nautilus",
+  "title": "Nautilus",
+  "olympiad": "Baltic OI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI19_nautilus"
+ },
+ {
+  "id": "BOI19_necklace1",
+  "title": "Necklace (Subtask 1-3)",
+  "olympiad": "Baltic OI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI19_necklace1"
+ },
+ {
+  "id": "BOI19_necklace4",
+  "title": "Necklace (Subtask 4)",
+  "olympiad": "Baltic OI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI19_necklace4"
+ },
+ {
+  "id": "BOI19_olympiads",
+  "title": "Olympiads",
+  "olympiad": "Baltic OI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI19_olympiads"
+ },
+ {
+  "id": "BOI19_valley",
+  "title": "Valley",
+  "olympiad": "Baltic OI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI19_valley"
+ },
+ {
+  "id": "BOI18_alternating",
+  "title": "Alternating Current",
+  "olympiad": "Baltic OI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI18_alternating"
+ },
+ {
+  "id": "BOI18_dna",
+  "title": " Martian DNA",
+  "olympiad": "Baltic OI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI18_dna"
+ },
+ {
+  "id": "BOI18_election",
+  "title": "Election",
+  "olympiad": "Baltic OI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI18_election"
+ },
+ {
+  "id": "BOI18_genetics",
+  "title": "Genetics",
+  "olympiad": "Baltic OI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI18_genetics"
+ },
+ {
+  "id": "BOI18_homecoming",
+  "title": "Homecoming",
+  "olympiad": "Baltic OI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI18_homecoming"
+ },
+ {
+  "id": "BOI18_minmaxtree",
+  "title": "Min-max tree",
+  "olympiad": "Baltic OI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI18_minmaxtree"
+ },
+ {
+  "id": "BOI18_parentrises",
+  "title": "parentrises",
+  "olympiad": "Baltic OI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI18_parentrises"
+ },
+ {
+  "id": "BOI18_paths",
+  "title": "Paths",
+  "olympiad": "Baltic OI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI18_paths"
+ },
+ {
+  "id": "BOI18_polygon",
+  "title": "Love Polygon",
+  "olympiad": "Baltic OI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI18_polygon"
+ },
+ {
+  "id": "BOI18_popa",
+  "title": "popa",
+  "olympiad": "Baltic OI",
+  "year": 2018,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/BOI18_popa"
+ },
+ {
+  "id": "BOI18_worm",
+  "title": "Worm Worries",
+  "olympiad": "Baltic OI",
+  "year": 2018,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/BOI18_worm"
+ },
+ {
+  "id": "BOI18_zalmoxis",
+  "title": "Zalmoxis",
+  "olympiad": "Baltic OI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI18_zalmoxis"
+ },
+ {
+  "id": "BOI17_catinatree",
+  "title": "Cat in a tree",
+  "olympiad": "Baltic OI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI17_catinatree"
+ },
+ {
+  "id": "BOI17_friends",
+  "title": "Friends",
+  "olympiad": "Baltic OI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI17_friends"
+ },
+ {
+  "id": "BOI17_plusminus",
+  "title": "Plus Minus",
+  "olympiad": "Baltic OI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI17_plusminus"
+ },
+ {
+  "id": "BOI17_politicaldevelopment",
+  "title": "Political Development",
+  "olympiad": "Baltic OI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI17_politicaldevelopment"
+ },
+ {
+  "id": "BOI17_railway",
+  "title": "Railway",
+  "olympiad": "Baltic OI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI17_railway"
+ },
+ {
+  "id": "BOI17_toll",
+  "title": "Toll",
+  "olympiad": "Baltic OI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI17_toll"
+ },
+ {
+  "id": "BOI16_bosses",
+  "title": "Bosses",
+  "olympiad": "Baltic OI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI16_bosses"
+ },
+ {
+  "id": "BOI16_cities",
+  "title": "Cities",
+  "olympiad": "Baltic OI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI16_cities"
+ },
+ {
+  "id": "BOI16_park",
+  "title": "Park",
+  "olympiad": "Baltic OI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI16_park"
+ },
+ {
+  "id": "BOI16_spiral",
+  "title": "Spiral",
+  "olympiad": "Baltic OI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI16_spiral"
+ },
+ {
+  "id": "BOI16_swap",
+  "title": "Swap",
+  "olympiad": "Baltic OI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI16_swap"
+ },
+ {
+  "id": "BOI15_bow",
+  "title": "Bowling",
+  "olympiad": "Baltic OI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI15_bow"
+ },
+ {
+  "id": "BOI15_edi",
+  "title": "Editor",
+  "olympiad": "Baltic OI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI15_edi"
+ },
+ {
+  "id": "BOI15_fil",
+  "title": "File Paths",
+  "olympiad": "Baltic OI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI15_fil"
+ },
+ {
+  "id": "BOI15_hac",
+  "title": "Hacker",
+  "olympiad": "Baltic OI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI15_hac"
+ },
+ {
+  "id": "BOI15_net",
+  "title": "Network",
+  "olympiad": "Baltic OI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI15_net"
+ },
+ {
+  "id": "BOI15_tug",
+  "title": "Tug of War",
+  "olympiad": "Baltic OI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI15_tug"
+ },
+ {
+  "id": "BOI14_coprobber",
+  "title": "Cop and Robber",
+  "olympiad": "Baltic OI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI14_coprobber"
+ },
+ {
+  "id": "BOI14_demarcation",
+  "title": "Demarcation",
+  "olympiad": "Baltic OI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI14_demarcation"
+ },
+ {
+  "id": "BOI14_friends",
+  "title": "Three Friends",
+  "olympiad": "Baltic OI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI14_friends"
+ },
+ {
+  "id": "BOI14_network",
+  "title": "Computer Network",
+  "olympiad": "Baltic OI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI14_network"
+ },
+ {
+  "id": "BOI14_portals",
+  "title": "Portals",
+  "olympiad": "Baltic OI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI14_portals"
+ },
+ {
+  "id": "BOI14_postmen",
+  "title": "Senior Postmen",
+  "olympiad": "Baltic OI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI14_postmen"
+ },
+ {
+  "id": "BOI14_sequence",
+  "title": "Sequence",
+  "olympiad": "Baltic OI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI14_sequence"
+ },
+ {
+  "id": "BOI13_ballmachine",
+  "title": "Ball Machine",
+  "olympiad": "Baltic OI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI13_ballmachine"
+ },
+ {
+  "id": "BOI13_brunhilda",
+  "title": "Brunhilda’s Birthday",
+  "olympiad": "Baltic OI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI13_brunhilda"
+ },
+ {
+  "id": "BOI13_numbers",
+  "title": "Palindrome-Free Numbers",
+  "olympiad": "Baltic OI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI13_numbers"
+ },
+ {
+  "id": "BOI13_pipes",
+  "title": "Pipes",
+  "olympiad": "Baltic OI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI13_pipes"
+ },
+ {
+  "id": "BOI13_tracks",
+  "title": "Tracks in the Snow",
+  "olympiad": "Baltic OI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI13_tracks"
+ },
+ {
+  "id": "BOI13_vim",
+  "title": "Vim",
+  "olympiad": "Baltic OI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI13_vim"
+ },
+ {
+  "id": "BOI12_mobile",
+  "title": "Mobile",
+  "olympiad": "Baltic OI",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI12_mobile"
+ },
+ {
+  "id": "BOI11_grow",
+  "title": "Growing Trees",
+  "olympiad": "Baltic OI",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI11_grow"
+ },
+ {
+  "id": "BOI07_sorting",
+  "title": "Ranklist Sorting",
+  "olympiad": "Baltic OI",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI07_sorting"
+ },
+ {
+  "id": "BOI06_bitwise",
+  "title": "Bitwise",
+  "olympiad": "Baltic OI",
+  "year": 2006,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI06_bitwise"
+ },
+ {
+  "id": "BOI06_city",
+  "title": "City",
+  "olympiad": "Baltic OI",
+  "year": 2006,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI06_city"
+ },
+ {
+  "id": "BOI06_coins",
+  "title": "Coins",
+  "olympiad": "Baltic OI",
+  "year": 2006,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI06_coins"
+ },
+ {
+  "id": "BOI06_countries",
+  "title": "Countries",
+  "olympiad": "Baltic OI",
+  "year": 2006,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI06_countries"
+ },
+ {
+  "id": "BOI06_jump",
+  "title": "Jump",
+  "olympiad": "Baltic OI",
+  "year": 2006,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI06_jump"
+ },
+ {
+  "id": "BOI06_rle",
+  "title": "RLE",
+  "olympiad": "Baltic OI",
+  "year": 2006,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/BOI06_rle"
+ },
+ {
+  "id": "CEOI26_birdwatchers",
+  "title": "Birdwatchers",
+  "olympiad": "CEOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI26_birdwatchers"
+ },
+ {
+  "id": "CEOI26_dfs",
+  "title": "DFS",
+  "olympiad": "CEOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI26_dfs"
+ },
+ {
+  "id": "CEOI26_flowers",
+  "title": "Flower Cutting",
+  "olympiad": "CEOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI26_flowers"
+ },
+ {
+  "id": "CEOI26_hunt",
+  "title": "Treasure Hunt",
+  "olympiad": "CEOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI26_hunt"
+ },
+ {
+  "id": "CEOI26_towers",
+  "title": "Towers",
+  "olympiad": "CEOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI26_towers"
+ },
+ {
+  "id": "CEOI26_vim",
+  "title": "Vim",
+  "olympiad": "CEOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI26_vim"
+ },
+ {
+  "id": "CEOI25_boardgames",
+  "title": "Boardgames",
+  "olympiad": "CEOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI25_boardgames"
+ },
+ {
+  "id": "CEOI25_equalmex",
+  "title": "Equalmex",
+  "olympiad": "CEOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI25_equalmex"
+ },
+ {
+  "id": "CEOI25_highest",
+  "title": "Highest",
+  "olympiad": "CEOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI25_highest"
+ },
+ {
+  "id": "CEOI25_lawnmower",
+  "title": "Lawn Mower",
+  "olympiad": "CEOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI25_lawnmower"
+ },
+ {
+  "id": "CEOI25_splits",
+  "title": "Splits",
+  "olympiad": "CEOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI25_splits"
+ },
+ {
+  "id": "CEOI25_theseus",
+  "title": "Theseus",
+  "olympiad": "CEOI",
+  "year": 2025,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/CEOI25_theseus"
+ },
+ {
+  "id": "CEOI24_battle",
+  "title": "Naval battle",
+  "olympiad": "CEOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI24_battle"
+ },
+ {
+  "id": "CEOI24_covid",
+  "title": "COVID tests",
+  "olympiad": "CEOI",
+  "year": 2024,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/CEOI24_covid"
+ },
+ {
+  "id": "CEOI24_editor",
+  "title": "Text editor",
+  "olympiad": "CEOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI24_editor"
+ },
+ {
+  "id": "CEOI24_sprinklers",
+  "title": "Sprinklers",
+  "olympiad": "CEOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI24_sprinklers"
+ },
+ {
+  "id": "CEOI24_stations",
+  "title": "Petrol stations",
+  "olympiad": "CEOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI24_stations"
+ },
+ {
+  "id": "CEOI24_toy",
+  "title": "Toy",
+  "olympiad": "CEOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI24_toy"
+ },
+ {
+  "id": "CEOI23_avoid",
+  "title": "How to Avoid Disqualification in 75 Easy Steps ",
+  "olympiad": "CEOI",
+  "year": 2023,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/CEOI23_avoid"
+ },
+ {
+  "id": "CEOI23_balance",
+  "title": "Brought Down the Grading Server?",
+  "olympiad": "CEOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI23_balance"
+ },
+ {
+  "id": "CEOI23_gradingserver",
+  "title": "Bring Down the Grading Server",
+  "olympiad": "CEOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI23_gradingserver"
+ },
+ {
+  "id": "CEOI23_incursion",
+  "title": "The Ties That Guide Us",
+  "olympiad": "CEOI",
+  "year": 2023,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/CEOI23_incursion"
+ },
+ {
+  "id": "CEOI23_light",
+  "title": "A Light Inconvenience",
+  "olympiad": "CEOI",
+  "year": 2023,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/CEOI23_light"
+ },
+ {
+  "id": "CEOI23_trade",
+  "title": "Tricks of the Trade",
+  "olympiad": "CEOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI23_trade"
+ },
+ {
+  "id": "CEOI22_abracadabra",
+  "title": "Abracadabra",
+  "olympiad": "CEOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI22_abracadabra"
+ },
+ {
+  "id": "CEOI22_drawing",
+  "title": "Drawing",
+  "olympiad": "CEOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI22_drawing"
+ },
+ {
+  "id": "CEOI22_homework",
+  "title": "Homework",
+  "olympiad": "CEOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI22_homework"
+ },
+ {
+  "id": "CEOI22_measures",
+  "title": "Measures",
+  "olympiad": "CEOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI22_measures"
+ },
+ {
+  "id": "CEOI22_parking",
+  "title": "Parking",
+  "olympiad": "CEOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI22_parking"
+ },
+ {
+  "id": "CEOI22_prize",
+  "title": "Prize",
+  "olympiad": "CEOI",
+  "year": 2022,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/CEOI22_prize"
+ },
+ {
+  "id": "CEOI21_diversity",
+  "title": "Diversity",
+  "olympiad": "CEOI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI21_diversity"
+ },
+ {
+  "id": "CEOI21_ltriominoes",
+  "title": "L-triominoes",
+  "olympiad": "CEOI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI21_ltriominoes"
+ },
+ {
+  "id": "CEOI21_newspapers",
+  "title": "Newspapers",
+  "olympiad": "CEOI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI21_newspapers"
+ },
+ {
+  "id": "CEOI21_tortoise",
+  "title": "Tortoise",
+  "olympiad": "CEOI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI21_tortoise"
+ },
+ {
+  "id": "CEOI21_wells",
+  "title": "Wells",
+  "olympiad": "CEOI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI21_wells"
+ },
+ {
+  "id": "CEOI20_chessrush",
+  "title": "Chess Rush",
+  "olympiad": "CEOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI20_chessrush",
+  "cf": "1403/C"
+ },
+ {
+  "id": "CEOI20_cleaning",
+  "title": "Spring cleaning",
+  "olympiad": "CEOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI20_cleaning",
+  "cf": "1403/B"
+ },
+ {
+  "id": "CEOI20_fancyfence",
+  "title": "Fancy Fence",
+  "olympiad": "CEOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI20_fancyfence",
+  "cf": "1402/A"
+ },
+ {
+  "id": "CEOI20_potion",
+  "title": "The Potion of Great Power",
+  "olympiad": "CEOI",
+  "year": 2020,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/CEOI20_potion",
+  "cf": "1403/A"
+ },
+ {
+  "id": "CEOI20_roads",
+  "title": "Roads",
+  "olympiad": "CEOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI20_roads",
+  "cf": "1402/B"
+ },
+ {
+  "id": "CEOI20_startrek",
+  "title": "Star Trek",
+  "olympiad": "CEOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI20_startrek",
+  "cf": "1402/C"
+ },
+ {
+  "id": "CEOI19_amusementpark",
+  "title": "Amusement Park",
+  "olympiad": "CEOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI19_amusementpark",
+  "cf": "1193/A"
+ },
+ {
+  "id": "CEOI19_countsquares",
+  "title": "Count Squares",
+  "olympiad": "CEOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI19_countsquares"
+ },
+ {
+  "id": "CEOI19_cubeword",
+  "title": "Cubeword",
+  "olympiad": "CEOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI19_cubeword",
+  "cf": "1192/C"
+ },
+ {
+  "id": "CEOI19_diameter",
+  "title": "Dynamic Diameter",
+  "olympiad": "CEOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI19_diameter",
+  "cf": "1192/B"
+ },
+ {
+  "id": "CEOI19_magictree",
+  "title": "Magic Tree",
+  "olympiad": "CEOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI19_magictree",
+  "cf": "1193/B"
+ },
+ {
+  "id": "CEOI19_scissors",
+  "title": "Scissors and Tape",
+  "olympiad": "CEOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI19_scissors",
+  "cf": "1193/C"
+ },
+ {
+  "id": "CEOI19_separator",
+  "title": "Separator",
+  "olympiad": "CEOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI19_separator"
+ },
+ {
+  "id": "CEOI19_skyscrapers",
+  "title": "Building Skyscrapers",
+  "olympiad": "CEOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI19_skyscrapers",
+  "cf": "1192/A"
+ },
+ {
+  "id": "CEOI19_towerdefense",
+  "title": "Tower Defense",
+  "olympiad": "CEOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI19_towerdefense"
+ },
+ {
+  "id": "CEOI18_clo",
+  "title": "Cloud Computing",
+  "olympiad": "CEOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI18_clo"
+ },
+ {
+  "id": "CEOI18_fib",
+  "title": "Fibonacci representations",
+  "olympiad": "CEOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI18_fib"
+ },
+ {
+  "id": "CEOI18_glo",
+  "title": "Global Warming",
+  "olympiad": "CEOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI18_glo"
+ },
+ {
+  "id": "CEOI18_lot",
+  "title": "Lottery",
+  "olympiad": "CEOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI18_lot"
+ },
+ {
+  "id": "CEOI18_toy",
+  "title": "Toys",
+  "olympiad": "CEOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI18_toy"
+ },
+ {
+  "id": "CEOI18_tri",
+  "title": "Triangles",
+  "olympiad": "CEOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI18_tri"
+ },
+ {
+  "id": "CEOI17_building",
+  "title": "Building Bridges",
+  "olympiad": "CEOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI17_building"
+ },
+ {
+  "id": "CEOI17_chase",
+  "title": "Chase",
+  "olympiad": "CEOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI17_chase"
+ },
+ {
+  "id": "CEOI17_mousetrap",
+  "title": "Mousetrap",
+  "olympiad": "CEOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI17_mousetrap"
+ },
+ {
+  "id": "CEOI17_mul",
+  "title": "Multiply",
+  "olympiad": "CEOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI17_mul"
+ },
+ {
+  "id": "CEOI17_museum",
+  "title": "Museum",
+  "olympiad": "CEOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI17_museum"
+ },
+ {
+  "id": "CEOI17_oneway",
+  "title": "One-Way Streets",
+  "olympiad": "CEOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI17_oneway"
+ },
+ {
+  "id": "CEOI17_palindromic",
+  "title": "Palindromic Partitions",
+  "olympiad": "CEOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI17_palindromic"
+ },
+ {
+  "id": "CEOI17_sure",
+  "title": "Sure Bet",
+  "olympiad": "CEOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI17_sure"
+ },
+ {
+  "id": "CEOI16_icc",
+  "title": "ICC",
+  "olympiad": "CEOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI16_icc"
+ },
+ {
+  "id": "CEOI16_kangaroo",
+  "title": "Kangaroo",
+  "olympiad": "CEOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI16_kangaroo"
+ },
+ {
+  "id": "CEOI16_match",
+  "title": "Match",
+  "olympiad": "CEOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI16_match"
+ },
+ {
+  "id": "CEOI16_popeala",
+  "title": "Popeala",
+  "olympiad": "CEOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI16_popeala"
+ },
+ {
+  "id": "CEOI16_router",
+  "title": "Router",
+  "olympiad": "CEOI",
+  "year": 2016,
+  "type": "Output Only",
+  "url": "https://oj.uz/problem/view/CEOI16_router"
+ },
+ {
+  "id": "CEOI15_bobek",
+  "title": "Ice Hockey World Championship",
+  "olympiad": "CEOI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI15_bobek"
+ },
+ {
+  "id": "CEOI15_indcyc",
+  "title": "Potemkin cycle",
+  "olympiad": "CEOI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI15_indcyc"
+ },
+ {
+  "id": "CEOI15_nuclearia",
+  "title": "Nuclearia",
+  "olympiad": "CEOI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI15_nuclearia"
+ },
+ {
+  "id": "CEOI15_pipes",
+  "title": "Pipes",
+  "olympiad": "CEOI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI15_pipes"
+ },
+ {
+  "id": "CEOI15_teams",
+  "title": "Calvinball championship",
+  "olympiad": "CEOI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI15_teams"
+ },
+ {
+  "id": "CEOI14_007",
+  "title": "007",
+  "olympiad": "CEOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI14_007"
+ },
+ {
+  "id": "CEOI14_cake",
+  "title": "Cake",
+  "olympiad": "CEOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI14_cake"
+ },
+ {
+  "id": "CEOI14_carnival",
+  "title": "Carnival",
+  "olympiad": "CEOI",
+  "year": 2014,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/CEOI14_carnival"
+ },
+ {
+  "id": "CEOI14_fangorn",
+  "title": "The Forest of Fangorn",
+  "olympiad": "CEOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI14_fangorn"
+ },
+ {
+  "id": "CEOI14_question_grader",
+  "title": "Question (Grader is different from the original contest)",
+  "olympiad": "CEOI",
+  "year": 2014,
+  "type": "Two steps",
+  "url": "https://oj.uz/problem/view/CEOI14_question_grader"
+ },
+ {
+  "id": "CEOI14_wall",
+  "title": "Wall",
+  "olympiad": "CEOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI14_wall"
+ },
+ {
+  "id": "CEOI13_adriatic",
+  "title": "Adriatic",
+  "olympiad": "CEOI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI13_adriatic"
+ },
+ {
+  "id": "CEOI13_board",
+  "title": "Board",
+  "olympiad": "CEOI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI13_board"
+ },
+ {
+  "id": "CEOI13_tram",
+  "title": "Tram",
+  "olympiad": "CEOI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI13_tram"
+ },
+ {
+  "id": "CEOI13_treasure2",
+  "title": "Treasure (different grader from official contest)",
+  "olympiad": "CEOI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI13_treasure2"
+ },
+ {
+  "id": "CEOI12_circuit",
+  "title": "Printed Circuit Board",
+  "olympiad": "CEOI",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI12_circuit"
+ },
+ {
+  "id": "CEOI12_highway",
+  "title": "Highway design",
+  "olympiad": "CEOI",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI12_highway"
+ },
+ {
+  "id": "CEOI12_jobs",
+  "title": "Job Scheduling",
+  "olympiad": "CEOI",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI12_jobs"
+ },
+ {
+  "id": "CEOI12_race",
+  "title": "Sailing Race",
+  "olympiad": "CEOI",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI12_race"
+ },
+ {
+  "id": "CEOI11_bal",
+  "title": "Balloons",
+  "olympiad": "CEOI",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI11_bal"
+ },
+ {
+  "id": "CEOI11_hot",
+  "title": "Hotel",
+  "olympiad": "CEOI",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI11_hot"
+ },
+ {
+  "id": "CEOI11_mat",
+  "title": "Matching",
+  "olympiad": "CEOI",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI11_mat"
+ },
+ {
+  "id": "CEOI11_tea",
+  "title": "Teams",
+  "olympiad": "CEOI",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI11_tea"
+ },
+ {
+  "id": "CEOI11_tra",
+  "title": "Traffic",
+  "olympiad": "CEOI",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI11_tra"
+ },
+ {
+  "id": "CEOI11_tre",
+  "title": "Treasure Hunt",
+  "olympiad": "CEOI",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI11_tre"
+ },
+ {
+  "id": "CEOI10_bodyguards",
+  "title": "Bodyguards",
+  "olympiad": "CEOI",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI10_bodyguards"
+ },
+ {
+  "id": "CEOI10_mp3player",
+  "title": "MP3 Player",
+  "olympiad": "CEOI",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI10_mp3player"
+ },
+ {
+  "id": "CEOI10_pin",
+  "title": "PIN",
+  "olympiad": "CEOI",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI10_pin"
+ },
+ {
+  "id": "CEOI10_tower",
+  "title": "A Huge Tower",
+  "olympiad": "CEOI",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI10_tower"
+ },
+ {
+  "id": "CEOI09_harbingers",
+  "title": "Harbingers",
+  "olympiad": "CEOI",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI09_harbingers"
+ },
+ {
+  "id": "CEOI09_tri",
+  "title": "Tri",
+  "olympiad": "CEOI",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI09_tri"
+ },
+ {
+  "id": "CEOI08_dominance",
+  "title": "Dominance",
+  "olympiad": "CEOI",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI08_dominance"
+ },
+ {
+  "id": "CEOI08_fence",
+  "title": "Fence",
+  "olympiad": "CEOI",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI08_fence"
+ },
+ {
+  "id": "CEOI08_information",
+  "title": "Information",
+  "olympiad": "CEOI",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI08_information"
+ },
+ {
+  "id": "CEOI08_snake",
+  "title": "Snake",
+  "olympiad": "CEOI",
+  "year": 2008,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/CEOI08_snake"
+ },
+ {
+  "id": "CEOI06_connect",
+  "title": "Connect",
+  "olympiad": "CEOI",
+  "year": 2006,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI06_connect"
+ },
+ {
+  "id": "CEOI06_link",
+  "title": "Link",
+  "olympiad": "CEOI",
+  "year": 2006,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI06_link"
+ },
+ {
+  "id": "CEOI06_meandian",
+  "title": "Meandian",
+  "olympiad": "CEOI",
+  "year": 2006,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/CEOI06_meandian"
+ },
+ {
+  "id": "CEOI06_queue",
+  "title": "Queue",
+  "olympiad": "CEOI",
+  "year": 2006,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI06_queue"
+ },
+ {
+  "id": "CEOI06_walk",
+  "title": "Walk",
+  "olympiad": "CEOI",
+  "year": 2006,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/CEOI06_walk"
+ },
+ {
+  "id": "IOI26_aplusb",
+  "title": "A + B Queries",
+  "olympiad": "IOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI26_aplusb"
+ },
+ {
+  "id": "IOI26_ballmachine",
+  "title": "Ball Machine",
+  "olympiad": "IOI",
+  "year": 2026,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI26_ballmachine"
+ },
+ {
+  "id": "IOI26_bitstrings",
+  "title": "Duplicated Binary Strings",
+  "olympiad": "IOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI26_bitstrings"
+ },
+ {
+  "id": "IOI26_boringgame",
+  "title": "Boring Game",
+  "olympiad": "IOI",
+  "year": 2026,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI26_boringgame"
+ },
+ {
+  "id": "IOI26_classroom",
+  "title": "Classroom Game",
+  "olympiad": "IOI",
+  "year": 2026,
+  "type": "Two steps",
+  "url": "https://oj.uz/problem/view/IOI26_classroom"
+ },
+ {
+  "id": "IOI26_magic",
+  "title": "Magic Trick",
+  "olympiad": "IOI",
+  "year": 2026,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI26_magic"
+ },
+ {
+  "id": "IOI26_magiccity",
+  "title": "Magic City",
+  "olympiad": "IOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI26_magiccity"
+ },
+ {
+  "id": "IOI26_monuments",
+  "title": "Monuments",
+  "olympiad": "IOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI26_monuments"
+ },
+ {
+  "id": "IOI26_partition",
+  "title": "Partition",
+  "olympiad": "IOI",
+  "year": 2026,
+  "type": "Two steps",
+  "url": "https://oj.uz/problem/view/IOI26_partition"
+ },
+ {
+  "id": "IOI26_tiling",
+  "title": "Tiling Game",
+  "olympiad": "IOI",
+  "year": 2026,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI26_tiling"
+ },
+ {
+  "id": "IOI25_festival",
+  "title": "Festival",
+  "olympiad": "IOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI25_festival"
+ },
+ {
+  "id": "IOI25_migrations",
+  "title": "Migrations",
+  "olympiad": "IOI",
+  "year": 2025,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI25_migrations"
+ },
+ {
+  "id": "IOI25_obstacles",
+  "title": "Obstacles for a Llama",
+  "olympiad": "IOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI25_obstacles"
+ },
+ {
+  "id": "IOI25_souvenirs",
+  "title": "Souvenirs",
+  "olympiad": "IOI",
+  "year": 2025,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI25_souvenirs"
+ },
+ {
+  "id": "IOI25_triples",
+  "title": "Triple Peaks",
+  "olympiad": "IOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI25_triples"
+ },
+ {
+  "id": "IOI25_worldmap",
+  "title": "World Map",
+  "olympiad": "IOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI25_worldmap"
+ },
+ {
+  "id": "IOI24_aplusb",
+  "title": "A + B",
+  "olympiad": "IOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI24_aplusb"
+ },
+ {
+  "id": "IOI24_hieroglyphs",
+  "title": "Hieroglyphs",
+  "olympiad": "IOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI24_hieroglyphs"
+ },
+ {
+  "id": "IOI24_machine",
+  "title": "Machine",
+  "olympiad": "IOI",
+  "year": 2024,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI24_machine"
+ },
+ {
+  "id": "IOI24_message",
+  "title": "Message",
+  "olympiad": "IOI",
+  "year": 2024,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI24_message"
+ },
+ {
+  "id": "IOI24_mosaic",
+  "title": "Mosaic",
+  "olympiad": "IOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI24_mosaic"
+ },
+ {
+  "id": "IOI24_nile",
+  "title": "Nile",
+  "olympiad": "IOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI24_nile"
+ },
+ {
+  "id": "IOI24_pyramids",
+  "title": "Pyramids",
+  "olympiad": "IOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI24_pyramids"
+ },
+ {
+  "id": "IOI24_sphinx",
+  "title": "Sphinx's Riddle",
+  "olympiad": "IOI",
+  "year": 2024,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI24_sphinx"
+ },
+ {
+  "id": "IOI24_treasure",
+  "title": "Treasure",
+  "olympiad": "IOI",
+  "year": 2024,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI24_treasure"
+ },
+ {
+  "id": "IOI24_tree",
+  "title": "Tree",
+  "olympiad": "IOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI24_tree"
+ },
+ {
+  "id": "IOI23_aplusb",
+  "title": "A Plus B",
+  "olympiad": "IOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI23_aplusb"
+ },
+ {
+  "id": "IOI23_beechtree",
+  "title": "Beech Tree",
+  "olympiad": "IOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI23_beechtree"
+ },
+ {
+  "id": "IOI23_choreography",
+  "title": "Choreography",
+  "olympiad": "IOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI23_choreography"
+ },
+ {
+  "id": "IOI23_closing",
+  "title": "Closing Time",
+  "olympiad": "IOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI23_closing"
+ },
+ {
+  "id": "IOI23_coreputer",
+  "title": "Coreputer",
+  "olympiad": "IOI",
+  "year": 2023,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI23_coreputer"
+ },
+ {
+  "id": "IOI23_deliveries",
+  "title": "Truck Driver",
+  "olympiad": "IOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI23_deliveries"
+ },
+ {
+  "id": "IOI23_lockpicking",
+  "title": "Lockpicking",
+  "olympiad": "IOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI23_lockpicking"
+ },
+ {
+  "id": "IOI23_longesttrip",
+  "title": "Longest Trip",
+  "olympiad": "IOI",
+  "year": 2023,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI23_longesttrip"
+ },
+ {
+  "id": "IOI23_overtaking",
+  "title": "Overtaking",
+  "olympiad": "IOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI23_overtaking"
+ },
+ {
+  "id": "IOI23_robot",
+  "title": "Robot Contest",
+  "olympiad": "IOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI23_robot"
+ },
+ {
+  "id": "IOI23_soccer",
+  "title": "Soccer Stadium",
+  "olympiad": "IOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI23_soccer"
+ },
+ {
+  "id": "IOI22_circuit",
+  "title": "Digital Circuit",
+  "olympiad": "IOI",
+  "year": 2022,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI22_circuit"
+ },
+ {
+  "id": "IOI22_fish",
+  "title": "Catfish Farm",
+  "olympiad": "IOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI22_fish"
+ },
+ {
+  "id": "IOI22_insects",
+  "title": "Rarest Insects",
+  "olympiad": "IOI",
+  "year": 2022,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI22_insects"
+ },
+ {
+  "id": "IOI22_islands",
+  "title": "Thousands Islands",
+  "olympiad": "IOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI22_islands"
+ },
+ {
+  "id": "IOI22_prison",
+  "title": "Prisoner Challenge",
+  "olympiad": "IOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI22_prison"
+ },
+ {
+  "id": "IOI22_towers",
+  "title": "Radio Towers",
+  "olympiad": "IOI",
+  "year": 2022,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI22_towers"
+ },
+ {
+  "id": "IOI21_candies",
+  "title": "Distributing Candies",
+  "olympiad": "IOI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI21_candies"
+ },
+ {
+  "id": "IOI21_dna",
+  "title": "Mutating DNA",
+  "olympiad": "IOI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI21_dna"
+ },
+ {
+  "id": "IOI21_dungeons",
+  "title": "Dungeons Game",
+  "olympiad": "IOI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI21_dungeons"
+ },
+ {
+  "id": "IOI21_keys",
+  "title": "Keys",
+  "olympiad": "IOI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI21_keys"
+ },
+ {
+  "id": "IOI21_parks",
+  "title": "Fountain Parks",
+  "olympiad": "IOI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI21_parks"
+ },
+ {
+  "id": "IOI21_registers",
+  "title": "Bit Shift Registers",
+  "olympiad": "IOI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI21_registers"
+ },
+ {
+  "id": "IOI20_biscuits",
+  "title": "Packing Biscuits",
+  "olympiad": "IOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI20_biscuits"
+ },
+ {
+  "id": "IOI20_gift",
+  "title": "Handcrafted Gift ",
+  "olympiad": "IOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI20_gift"
+ },
+ {
+  "id": "IOI20_jelly",
+  "title": "Jelly Flavours",
+  "olympiad": "IOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI20_jelly"
+ },
+ {
+  "id": "IOI20_mushrooms",
+  "title": "Counting Mushrooms",
+  "olympiad": "IOI",
+  "year": 2020,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI20_mushrooms"
+ },
+ {
+  "id": "IOI20_plants",
+  "title": "Comparing Plants",
+  "olympiad": "IOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI20_plants"
+ },
+ {
+  "id": "IOI20_routers",
+  "title": "Finding Routers",
+  "olympiad": "IOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI20_routers"
+ },
+ {
+  "id": "IOI20_squares",
+  "title": "Painting Squares",
+  "olympiad": "IOI",
+  "year": 2020,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI20_squares"
+ },
+ {
+  "id": "IOI20_stations",
+  "title": "Stations",
+  "olympiad": "IOI",
+  "year": 2020,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI20_stations"
+ },
+ {
+  "id": "IOI20_supertrees",
+  "title": "Connecting Supertrees",
+  "olympiad": "IOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI20_supertrees"
+ },
+ {
+  "id": "IOI20_tickets",
+  "title": "Carnival Tickets ",
+  "olympiad": "IOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI20_tickets"
+ },
+ {
+  "id": "IOI19_cycle",
+  "title": "Lost in the cycle",
+  "olympiad": "IOI",
+  "year": 2019,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI19_cycle"
+ },
+ {
+  "id": "IOI19_job",
+  "title": "Job Scheduling",
+  "olympiad": "IOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI19_job"
+ },
+ {
+  "id": "IOI19_line",
+  "title": "Broken Line",
+  "olympiad": "IOI",
+  "year": 2019,
+  "type": "Output Only",
+  "url": "https://oj.uz/problem/view/IOI19_line"
+ },
+ {
+  "id": "IOI19_packing",
+  "title": "Packing",
+  "olympiad": "IOI",
+  "year": 2019,
+  "type": "Output Only",
+  "url": "https://oj.uz/problem/view/IOI19_packing"
+ },
+ {
+  "id": "IOI19_rect",
+  "title": "Rectangles",
+  "olympiad": "IOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI19_rect"
+ },
+ {
+  "id": "IOI19_shoes",
+  "title": "Arranging Shoes",
+  "olympiad": "IOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI19_shoes"
+ },
+ {
+  "id": "IOI19_split",
+  "title": "Split the Attractions",
+  "olympiad": "IOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI19_split"
+ },
+ {
+  "id": "IOI19_transfer",
+  "title": "Data Transfer",
+  "olympiad": "IOI",
+  "year": 2019,
+  "type": "Two steps",
+  "url": "https://oj.uz/problem/view/IOI19_transfer"
+ },
+ {
+  "id": "IOI19_vision",
+  "title": "Vision Program",
+  "olympiad": "IOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI19_vision"
+ },
+ {
+  "id": "IOI19_walk",
+  "title": "Sky Walking",
+  "olympiad": "IOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI19_walk"
+ },
+ {
+  "id": "IOI18_combo",
+  "title": "Combo",
+  "olympiad": "IOI",
+  "year": 2018,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI18_combo"
+ },
+ {
+  "id": "IOI18_doll",
+  "title": "Mechanical Doll",
+  "olympiad": "IOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI18_doll"
+ },
+ {
+  "id": "IOI18_highway",
+  "title": "Highway Tolls",
+  "olympiad": "IOI",
+  "year": 2018,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI18_highway"
+ },
+ {
+  "id": "IOI18_meetings",
+  "title": "Meetings",
+  "olympiad": "IOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI18_meetings"
+ },
+ {
+  "id": "IOI18_seats",
+  "title": "Seats",
+  "olympiad": "IOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI18_seats"
+ },
+ {
+  "id": "IOI18_werewolf",
+  "title": "Werewolf",
+  "olympiad": "IOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI18_werewolf"
+ },
+ {
+  "id": "IOI17_books",
+  "title": "Ancient Books",
+  "olympiad": "IOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI17_books"
+ },
+ {
+  "id": "IOI17_coins",
+  "title": "Coins",
+  "olympiad": "IOI",
+  "year": 2017,
+  "type": "Two steps",
+  "url": "https://oj.uz/problem/view/IOI17_coins"
+ },
+ {
+  "id": "IOI17_cup",
+  "title": "Cup of Jamshid",
+  "olympiad": "IOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI17_cup"
+ },
+ {
+  "id": "IOI17_mountains",
+  "title": "Mountains",
+  "olympiad": "IOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI17_mountains"
+ },
+ {
+  "id": "IOI17_nowruz",
+  "title": "Nowruz",
+  "olympiad": "IOI",
+  "year": 2017,
+  "type": "Output Only",
+  "url": "https://oj.uz/problem/view/IOI17_nowruz"
+ },
+ {
+  "id": "IOI17_prize",
+  "title": "The Big Prize",
+  "olympiad": "IOI",
+  "year": 2017,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI17_prize"
+ },
+ {
+  "id": "IOI17_simurgh",
+  "title": "Simurgh",
+  "olympiad": "IOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI17_simurgh"
+ },
+ {
+  "id": "IOI17_train",
+  "title": "Toy Train",
+  "olympiad": "IOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI17_train"
+ },
+ {
+  "id": "IOI17_wiring",
+  "title": "Wiring",
+  "olympiad": "IOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI17_wiring"
+ },
+ {
+  "id": "IOI16_aliens",
+  "title": "Aliens",
+  "olympiad": "IOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI16_aliens"
+ },
+ {
+  "id": "IOI16_dna",
+  "title": "Martian DNA",
+  "olympiad": "IOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI16_dna"
+ },
+ {
+  "id": "IOI16_laugh",
+  "title": "Laugh Analysis",
+  "olympiad": "IOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI16_laugh"
+ },
+ {
+  "id": "IOI16_messy",
+  "title": "Unscrambling a Messy Bug",
+  "olympiad": "IOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI16_messy"
+ },
+ {
+  "id": "IOI16_molecules",
+  "title": "Detecting Molecules",
+  "olympiad": "IOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI16_molecules"
+ },
+ {
+  "id": "IOI16_paint",
+  "title": "Paint By Numbers",
+  "olympiad": "IOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI16_paint"
+ },
+ {
+  "id": "IOI16_railroad",
+  "title": "Roller Coaster Railroad",
+  "olympiad": "IOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI16_railroad"
+ },
+ {
+  "id": "IOI16_reverse",
+  "title": "Reversing a Sequence",
+  "olympiad": "IOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI16_reverse"
+ },
+ {
+  "id": "IOI16_shortcut",
+  "title": "Shortcut",
+  "olympiad": "IOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI16_shortcut"
+ },
+ {
+  "id": "IOI16_tetris",
+  "title": "Mini tetris",
+  "olympiad": "IOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI16_tetris"
+ },
+ {
+  "id": "IOI15_boxes",
+  "title": "Boxes with souvenirs",
+  "olympiad": "IOI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI15_boxes"
+ },
+ {
+  "id": "IOI15_horses",
+  "title": "Horses",
+  "olympiad": "IOI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI15_horses"
+ },
+ {
+  "id": "IOI15_scales",
+  "title": "Scales",
+  "olympiad": "IOI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI15_scales"
+ },
+ {
+  "id": "IOI15_sorting",
+  "title": "Sorting",
+  "olympiad": "IOI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI15_sorting"
+ },
+ {
+  "id": "IOI15_teams",
+  "title": "Teams",
+  "olympiad": "IOI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI15_teams"
+ },
+ {
+  "id": "IOI15_towns",
+  "title": "Towns",
+  "olympiad": "IOI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI15_towns"
+ },
+ {
+  "id": "IOI14_friend",
+  "title": "Friend",
+  "olympiad": "IOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI14_friend"
+ },
+ {
+  "id": "IOI14_game",
+  "title": "Game",
+  "olympiad": "IOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI14_game"
+ },
+ {
+  "id": "IOI14_gondola",
+  "title": "Gondola",
+  "olympiad": "IOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI14_gondola"
+ },
+ {
+  "id": "IOI14_holiday",
+  "title": "Holiday",
+  "olympiad": "IOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI14_holiday"
+ },
+ {
+  "id": "IOI14_rail",
+  "title": "Rail",
+  "olympiad": "IOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI14_rail"
+ },
+ {
+  "id": "IOI14_wall",
+  "title": "Wall",
+  "olympiad": "IOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI14_wall"
+ },
+ {
+  "id": "IOI13_artclass",
+  "title": "Art Class",
+  "olympiad": "IOI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI13_artclass"
+ },
+ {
+  "id": "IOI13_cave",
+  "title": "Cave",
+  "olympiad": "IOI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI13_cave"
+ },
+ {
+  "id": "IOI13_dreaming",
+  "title": "Dreaming",
+  "olympiad": "IOI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI13_dreaming"
+ },
+ {
+  "id": "IOI13_game",
+  "title": "Game",
+  "olympiad": "IOI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI13_game"
+ },
+ {
+  "id": "IOI13_robots",
+  "title": "Robots",
+  "olympiad": "IOI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI13_robots"
+ },
+ {
+  "id": "IOI13_wombats",
+  "title": "Wombats",
+  "olympiad": "IOI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI13_wombats"
+ },
+ {
+  "id": "IOI12_city",
+  "title": "Ideal city",
+  "olympiad": "IOI",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI12_city"
+ },
+ {
+  "id": "IOI12_rings",
+  "title": "Parachute rings",
+  "olympiad": "IOI",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI12_rings"
+ },
+ {
+  "id": "IOI12_scrivener",
+  "title": "Crayfish scrivener",
+  "olympiad": "IOI",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI12_scrivener"
+ },
+ {
+  "id": "IOI12_supper",
+  "title": "Last supper",
+  "olympiad": "IOI",
+  "year": 2012,
+  "type": "Two steps",
+  "url": "https://oj.uz/problem/view/IOI12_supper"
+ },
+ {
+  "id": "IOI12_tournament",
+  "title": "Jousting tournament",
+  "olympiad": "IOI",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI12_tournament"
+ },
+ {
+  "id": "IOI11_crocodile",
+  "title": "Crocodile's Underground City",
+  "olympiad": "IOI",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI11_crocodile"
+ },
+ {
+  "id": "IOI11_elephants",
+  "title": "Dancing Elephants",
+  "olympiad": "IOI",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI11_elephants"
+ },
+ {
+  "id": "IOI11_garden",
+  "title": "Tropical Garden",
+  "olympiad": "IOI",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI11_garden"
+ },
+ {
+  "id": "IOI11_parrots",
+  "title": "Parrots",
+  "olympiad": "IOI",
+  "year": 2011,
+  "type": "Two steps",
+  "url": "https://oj.uz/problem/view/IOI11_parrots"
+ },
+ {
+  "id": "IOI11_race",
+  "title": "Race",
+  "olympiad": "IOI",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI11_race"
+ },
+ {
+  "id": "IOI11_ricehub",
+  "title": "Rice Hub",
+  "olympiad": "IOI",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI11_ricehub"
+ },
+ {
+  "id": "IOI10_cluedo",
+  "title": "Cluedo",
+  "olympiad": "IOI",
+  "year": 2010,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI10_cluedo"
+ },
+ {
+  "id": "IOI10_hottercolder",
+  "title": "Hotter Colder",
+  "olympiad": "IOI",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI10_hottercolder"
+ },
+ {
+  "id": "IOI10_languages",
+  "title": "Languages",
+  "olympiad": "IOI",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI10_languages"
+ },
+ {
+  "id": "IOI10_maze",
+  "title": "Maze",
+  "olympiad": "IOI",
+  "year": 2010,
+  "type": "Output Only",
+  "url": "https://oj.uz/problem/view/IOI10_maze"
+ },
+ {
+  "id": "IOI10_memory",
+  "title": "Memory",
+  "olympiad": "IOI",
+  "year": 2010,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI10_memory"
+ },
+ {
+  "id": "IOI10_quality",
+  "title": "Quality Of Living",
+  "olympiad": "IOI",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI10_quality"
+ },
+ {
+  "id": "IOI10_saveit",
+  "title": "Saveit",
+  "olympiad": "IOI",
+  "year": 2010,
+  "type": "Two steps",
+  "url": "https://oj.uz/problem/view/IOI10_saveit"
+ },
+ {
+  "id": "IOI10_traffic",
+  "title": "Traffic",
+  "olympiad": "IOI",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI10_traffic"
+ },
+ {
+  "id": "IOI09_archery",
+  "title": "Archery",
+  "olympiad": "IOI",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI09_archery"
+ },
+ {
+  "id": "IOI09_garage",
+  "title": "Garage",
+  "olympiad": "IOI",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI09_garage"
+ },
+ {
+  "id": "IOI09_hiring",
+  "title": "Hiring",
+  "olympiad": "IOI",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI09_hiring"
+ },
+ {
+  "id": "IOI09_mecho",
+  "title": "Mecho",
+  "olympiad": "IOI",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI09_mecho"
+ },
+ {
+  "id": "IOI09_poi",
+  "title": "Poi",
+  "olympiad": "IOI",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI09_poi"
+ },
+ {
+  "id": "IOI09_raisins",
+  "title": "Raisins",
+  "olympiad": "IOI",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI09_raisins"
+ },
+ {
+  "id": "IOI09_regions",
+  "title": "Regions",
+  "olympiad": "IOI",
+  "year": 2009,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI09_regions"
+ },
+ {
+  "id": "IOI09_salesman",
+  "title": "Salesman",
+  "olympiad": "IOI",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI09_salesman"
+ },
+ {
+  "id": "IOI08_fish",
+  "title": "Fish",
+  "olympiad": "IOI",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI08_fish"
+ },
+ {
+  "id": "IOI08_islands",
+  "title": "Islands",
+  "olympiad": "IOI",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI08_islands"
+ },
+ {
+  "id": "IOI08_linear_garden",
+  "title": "Linear Garden",
+  "olympiad": "IOI",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI08_linear_garden"
+ },
+ {
+  "id": "IOI08_printer",
+  "title": "Type Printer",
+  "olympiad": "IOI",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI08_printer"
+ },
+ {
+  "id": "IOI08_pyramid_base",
+  "title": "Pyramid Base",
+  "olympiad": "IOI",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI08_pyramid_base"
+ },
+ {
+  "id": "IOI08_teleporters",
+  "title": "Teleporters",
+  "olympiad": "IOI",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI08_teleporters"
+ },
+ {
+  "id": "IOI07_aliens",
+  "title": "Aliens",
+  "olympiad": "IOI",
+  "year": 2007,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IOI07_aliens"
+ },
+ {
+  "id": "IOI07_flood",
+  "title": "Flood",
+  "olympiad": "IOI",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI07_flood"
+ },
+ {
+  "id": "IOI07_miners",
+  "title": "Miners",
+  "olympiad": "IOI",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI07_miners"
+ },
+ {
+  "id": "IOI07_pairs",
+  "title": "Pairs",
+  "olympiad": "IOI",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI07_pairs"
+ },
+ {
+  "id": "IOI07_sails",
+  "title": "Sails",
+  "olympiad": "IOI",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI07_sails"
+ },
+ {
+  "id": "IOI07_training",
+  "title": "Training",
+  "olympiad": "IOI",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IOI07_training"
+ },
+ {
+  "id": "IOI03_reverse",
+  "title": "Reverse",
+  "olympiad": "IOI",
+  "year": 2003,
+  "type": "Output Only",
+  "url": "https://oj.uz/problem/view/IOI03_reverse"
+ }
+]
