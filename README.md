@@ -3,8 +3,8 @@
 A checklist for tracking your progress on Olympiad in Informatics problems, inspired by
 [checklist.spoi.org.in](https://checklist.spoi.org.in/).
 
-Covers **IOI**, **APIO**, **CEOI**, and **Baltic OI** (411 problems), with data sourced from
-[oj.uz](https://oj.uz).
+Covers **IOI**, **APIO**, **CEOI**, **Baltic OI**, **JOI**, **eJOI**, **COI**, and **COCI**
+(976 problems), with data sourced from [oj.uz](https://oj.uz).
 
 ## Features
 

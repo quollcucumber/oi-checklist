@@ -13,6 +13,10 @@ const SOURCES = [
   { search: "APIO", olympiad: "APIO", name: "Asia-Pacific Informatics Olympiad", re: /^APIO(\d{2})_/ },
   { search: "CEOI", olympiad: "CEOI", name: "Central European Olympiad in Informatics", re: /^CEOI(\d{2})_/ },
   { search: "BOI", olympiad: "Baltic OI", name: "Baltic Olympiad in Informatics", re: /^BOI(\d{2})_/ },
+  { search: "JOI", olympiad: "JOI", name: "Japanese Olympiad in Informatics", re: /^JOI(\d{2})_/ },
+  { search: "eJOI", olympiad: "eJOI", name: "European Junior Olympiad in Informatics", re: /^eJOI(\d{2})_/ },
+  { search: "COI", olympiad: "COI", name: "Croatian Olympiad in Informatics", re: /^COI(\d{2})_/ },
+  { search: "COCI", olympiad: "COCI", name: "Croatian Open Competition in Informatics", re: /^COCI(\d{2})_/ },
 ];
 
 // Codeforces mirror contests of olympiads in our dataset (contest id -> olympiad/year).

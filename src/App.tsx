@@ -23,6 +23,10 @@ const OLYMPIADS: { key: string; fullName: string }[] = [
   { key: 'APIO', fullName: 'Asia-Pacific Informatics Olympiad' },
   { key: 'CEOI', fullName: 'Central European Olympiad in Informatics' },
   { key: 'Baltic OI', fullName: 'Baltic Olympiad in Informatics' },
+  { key: 'JOI', fullName: 'Japanese Olympiad in Informatics' },
+  { key: 'eJOI', fullName: 'European Junior Olympiad in Informatics' },
+  { key: 'COI', fullName: 'Croatian Olympiad in Informatics' },
+  { key: 'COCI', fullName: 'Croatian Open Competition in Informatics' },
 ]
 
 export default function App() {
