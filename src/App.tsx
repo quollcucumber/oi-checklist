@@ -27,6 +27,9 @@ const OLYMPIADS: { key: string; fullName: string }[] = [
   { key: 'eJOI', fullName: 'European Junior Olympiad in Informatics' },
   { key: 'COI', fullName: 'Croatian Olympiad in Informatics' },
   { key: 'COCI', fullName: 'Croatian Open Competition in Informatics' },
+  { key: 'EGOI', fullName: "European Girls' Olympiad in Informatics" },
+  { key: 'USACO', fullName: 'USA Computing Olympiad' },
+  { key: 'CNOI', fullName: 'China National Olympiad in Informatics' },
 ]
 
 export default function App() {
@@ -206,6 +209,19 @@ export default function App() {
           Problem data from{' '}
           <a href="https://oj.uz" target="_blank" rel="noreferrer" className="underline hover:text-gray-600">
             oj.uz
+          </a>
+          ,{' '}
+          <a
+            href="https://usaco.org"
+            target="_blank"
+            rel="noreferrer"
+            className="underline hover:text-gray-600"
+          >
+            usaco.org
+          </a>
+          , and{' '}
+          <a href="https://loj.ac" target="_blank" rel="noreferrer" className="underline hover:text-gray-600">
+            loj.ac
           </a>
           {' · '}Inspired by{' '}
           <a

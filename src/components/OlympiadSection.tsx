@@ -45,18 +45,35 @@ export default function OlympiadSection({ olympiad, fullName, problems, statuses
       {!collapsed && (
         <div className="border-t border-gray-100 px-5 py-4 dark:border-gray-800">
           <div className="space-y-3">
-            {byYear.map(([year, yearProblems]) => (
-              <div key={year} className="flex items-start gap-4">
-                <div className="w-12 shrink-0 pt-1.5 text-sm font-semibold tabular-nums text-gray-500 dark:text-gray-400">
-                  {year}
+            {byYear.map(([year, yearProblems]) => {
+              const groups: { group?: string; items: Problem[] }[] = []
+              for (const p of yearProblems) {
+                const last = groups[groups.length - 1]
+                if (last && last.group === p.group) last.items.push(p)
+                else groups.push({ group: p.group, items: [p] })
+              }
+              return (
+                <div key={year} className="flex items-start gap-4">
+                  <div className="w-12 shrink-0 pt-1.5 text-sm font-semibold tabular-nums text-gray-500 dark:text-gray-400">
+                    {year}
+                  </div>
+                  <div className="flex flex-1 flex-col gap-2">
+                    {groups.map(({ group, items }, i) => (
+                      <div key={group ?? i} className="flex flex-wrap items-center gap-2">
+                        {group && (
+                          <span className="w-16 shrink-0 text-xs font-medium uppercase tracking-wide text-gray-400 dark:text-gray-500">
+                            {group}
+                          </span>
+                        )}
+                        {items.map((p) => (
+                          <ProblemChip key={p.id} problem={p} status={statusOf(p)} onToggle={() => onToggle(p.id)} />
+                        ))}
+                      </div>
+                    ))}
+                  </div>
                 </div>
-                <div className="flex flex-wrap gap-2">
-                  {yearProblems.map((p) => (
-                    <ProblemChip key={p.id} problem={p} status={statusOf(p)} onToggle={() => onToggle(p.id)} />
-                  ))}
-                </div>
-              </div>
-            ))}
+              )
+            })}
           </div>
         </div>
       )}

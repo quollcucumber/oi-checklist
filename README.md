@@ -3,8 +3,10 @@
 A checklist for tracking your progress on Olympiad in Informatics problems, inspired by
 [checklist.spoi.org.in](https://checklist.spoi.org.in/).
 
-Covers **IOI**, **APIO**, **CEOI**, **Baltic OI**, **JOI**, **eJOI**, **COI**, and **COCI**
-(976 problems), with data sourced from [oj.uz](https://oj.uz).
+Covers **IOI**, **APIO**, **CEOI**, **Baltic OI**, **JOI**, **eJOI**, **COI**, **COCI**,
+**EGOI**, **USACO**, and **CNOI** (1809 problems), with data sourced from
+[oj.uz](https://oj.uz), [usaco.org](https://usaco.org) (via
+[usaco-problems](https://github.com/cpinitiative/usaco-problems)), and [loj.ac](https://loj.ac).
 
 ## Features
 

@@ -2089,6 +2089,894 @@
   "url": "https://oj.uz/problem/view/CEOI06_walk"
  },
  {
+  "id": "CNOI_5761",
+  "title": "线段",
+  "olympiad": "CNOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://loj.ac/p/5761"
+ },
+ {
+  "id": "CNOI_5762",
+  "title": "传送",
+  "olympiad": "CNOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://loj.ac/p/5762"
+ },
+ {
+  "id": "CNOI_5763",
+  "title": "布丁",
+  "olympiad": "CNOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://loj.ac/p/5763"
+ },
+ {
+  "id": "CNOI_5764",
+  "title": "中位数",
+  "olympiad": "CNOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://loj.ac/p/5764"
+ },
+ {
+  "id": "CNOI_5765",
+  "title": "木棉",
+  "olympiad": "CNOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://loj.ac/p/5765"
+ },
+ {
+  "id": "CNOI_5766",
+  "title": "彩虹树",
+  "olympiad": "CNOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://loj.ac/p/5766"
+ },
+ {
+  "id": "CNOI_5302",
+  "title": "机器人",
+  "olympiad": "CNOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://loj.ac/p/5302"
+ },
+ {
+  "id": "CNOI_5303",
+  "title": "序列变换",
+  "olympiad": "CNOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://loj.ac/p/5303"
+ },
+ {
+  "id": "CNOI_5304",
+  "title": "数字树",
+  "olympiad": "CNOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://loj.ac/p/5304"
+ },
+ {
+  "id": "CNOI_5305",
+  "title": "三目运算符",
+  "olympiad": "CNOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://loj.ac/p/5305"
+ },
+ {
+  "id": "CNOI_5306",
+  "title": "集合",
+  "olympiad": "CNOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://loj.ac/p/5306"
+ },
+ {
+  "id": "CNOI_5307",
+  "title": "绝对防御",
+  "olympiad": "CNOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://loj.ac/p/5307"
+ },
+ {
+  "id": "CNOI_4206",
+  "title": "集合",
+  "olympiad": "CNOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://loj.ac/p/4206"
+ },
+ {
+  "id": "CNOI_4207",
+  "title": "百万富翁",
+  "olympiad": "CNOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://loj.ac/p/4207"
+ },
+ {
+  "id": "CNOI_4208",
+  "title": "树的定向",
+  "olympiad": "CNOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://loj.ac/p/4208"
+ },
+ {
+  "id": "CNOI_4209",
+  "title": "分数",
+  "olympiad": "CNOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://loj.ac/p/4209"
+ },
+ {
+  "id": "CNOI_4210",
+  "title": "登山",
+  "olympiad": "CNOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://loj.ac/p/4210"
+ },
+ {
+  "id": "CNOI_4211",
+  "title": "树形图",
+  "olympiad": "CNOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://loj.ac/p/4211"
+ },
+ {
+  "id": "CNOI_3979",
+  "title": "方格染色",
+  "olympiad": "CNOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3979"
+ },
+ {
+  "id": "CNOI_3980",
+  "title": "桂花树",
+  "olympiad": "CNOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3980"
+ },
+ {
+  "id": "CNOI_3981",
+  "title": "深搜",
+  "olympiad": "CNOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3981"
+ },
+ {
+  "id": "CNOI_3982",
+  "title": "贸易",
+  "olympiad": "CNOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3982"
+ },
+ {
+  "id": "CNOI_3983",
+  "title": "字符串",
+  "olympiad": "CNOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3983"
+ },
+ {
+  "id": "CNOI_3984",
+  "title": "合并书本",
+  "olympiad": "CNOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3984"
+ },
+ {
+  "id": "CNOI_3847",
+  "title": "Majority element",
+  "olympiad": "CNOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3847"
+ },
+ {
+  "id": "CNOI_3848",
+  "title": "移除石子",
+  "olympiad": "CNOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3848"
+ },
+ {
+  "id": "CNOI_3849",
+  "title": "树上邻域数点",
+  "olympiad": "CNOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3849"
+ },
+ {
+  "id": "CNOI_3850",
+  "title": "挑战 NPC Ⅱ",
+  "olympiad": "CNOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3850"
+ },
+ {
+  "id": "CNOI_3851",
+  "title": "冒泡排序",
+  "olympiad": "CNOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3851"
+ },
+ {
+  "id": "CNOI_3852",
+  "title": "二次整数规划问题",
+  "olympiad": "CNOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3852"
+ },
+ {
+  "id": "CNOI_3532",
+  "title": "轻重边",
+  "olympiad": "CNOI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3532"
+ },
+ {
+  "id": "CNOI_3533",
+  "title": "路径交点",
+  "olympiad": "CNOI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3533"
+ },
+ {
+  "id": "CNOI_3534",
+  "title": "庆典",
+  "olympiad": "CNOI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3534"
+ },
+ {
+  "id": "CNOI_3535",
+  "title": "量子通信",
+  "olympiad": "CNOI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3535"
+ },
+ {
+  "id": "CNOI_3536",
+  "title": "密码箱",
+  "olympiad": "CNOI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3536"
+ },
+ {
+  "id": "CNOI_3537",
+  "title": "机器人游戏",
+  "olympiad": "CNOI",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3537"
+ },
+ {
+  "id": "CNOI_3339",
+  "title": "美食家",
+  "olympiad": "CNOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3339"
+ },
+ {
+  "id": "CNOI_3340",
+  "title": "命运",
+  "olympiad": "CNOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3340"
+ },
+ {
+  "id": "CNOI_3341",
+  "title": "时代的眼泪",
+  "olympiad": "CNOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3341"
+ },
+ {
+  "id": "CNOI_3342",
+  "title": "制作菜品",
+  "olympiad": "CNOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3342"
+ },
+ {
+  "id": "CNOI_3343",
+  "title": "超现实树",
+  "olympiad": "CNOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3343"
+ },
+ {
+  "id": "CNOI_3344",
+  "title": "翻修道路",
+  "olympiad": "CNOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3344"
+ },
+ {
+  "id": "CNOI_3156",
+  "title": "Route to Home",
+  "olympiad": "CNOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3156"
+ },
+ {
+  "id": "CNOI_3157",
+  "title": "Robots",
+  "olympiad": "CNOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3157"
+ },
+ {
+  "id": "CNOI_3158",
+  "title": "Sequence",
+  "olympiad": "CNOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3158"
+ },
+ {
+  "id": "CNOI_3159",
+  "title": "Jump",
+  "olympiad": "CNOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3159"
+ },
+ {
+  "id": "CNOI_3160",
+  "title": "Landdrol",
+  "olympiad": "CNOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3160"
+ },
+ {
+  "id": "CNOI_3161",
+  "title": "I 君的探险",
+  "olympiad": "CNOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3161"
+ },
+ {
+  "id": "CNOI_2718",
+  "title": "归程",
+  "olympiad": "CNOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2718"
+ },
+ {
+  "id": "CNOI_2719",
+  "title": "冒泡排序",
+  "olympiad": "CNOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2719"
+ },
+ {
+  "id": "CNOI_2720",
+  "title": "你的名字",
+  "olympiad": "CNOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2720"
+ },
+ {
+  "id": "CNOI_2721",
+  "title": "屠龙勇士",
+  "olympiad": "CNOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2721"
+ },
+ {
+  "id": "CNOI_2722",
+  "title": "情报中心",
+  "olympiad": "CNOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2722"
+ },
+ {
+  "id": "CNOI_2723",
+  "title": "多边形",
+  "olympiad": "CNOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2723"
+ },
+ {
+  "id": "CNOI_2302",
+  "title": "整数",
+  "olympiad": "CNOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2302"
+ },
+ {
+  "id": "CNOI_2303",
+  "title": "蚯蚓排队",
+  "olympiad": "CNOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2303"
+ },
+ {
+  "id": "CNOI_2304",
+  "title": "泳池",
+  "olympiad": "CNOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2304"
+ },
+ {
+  "id": "CNOI_2305",
+  "title": "游戏",
+  "olympiad": "CNOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2305"
+ },
+ {
+  "id": "CNOI_2306",
+  "title": "蔬菜",
+  "olympiad": "CNOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2306"
+ },
+ {
+  "id": "CNOI_2307",
+  "title": "分身术",
+  "olympiad": "CNOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2307"
+ },
+ {
+  "id": "CNOI_2083",
+  "title": "优秀的拆分",
+  "olympiad": "CNOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2083"
+ },
+ {
+  "id": "CNOI_2084",
+  "title": "网格",
+  "olympiad": "CNOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2084"
+ },
+ {
+  "id": "CNOI_2085",
+  "title": "循环之美",
+  "olympiad": "CNOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2085"
+ },
+ {
+  "id": "CNOI_2086",
+  "title": "区间",
+  "olympiad": "CNOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2086"
+ },
+ {
+  "id": "CNOI_2087",
+  "title": "国王饮水记",
+  "olympiad": "CNOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2087"
+ },
+ {
+  "id": "CNOI_2088",
+  "title": "旷野大计算",
+  "olympiad": "CNOI",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2088"
+ },
+ {
+  "id": "CNOI_2129",
+  "title": "程序自动分析",
+  "olympiad": "CNOI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2129"
+ },
+ {
+  "id": "CNOI_2130",
+  "title": "软件包管理器",
+  "olympiad": "CNOI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2130"
+ },
+ {
+  "id": "CNOI_2131",
+  "title": "寿司晚宴",
+  "olympiad": "CNOI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2131"
+ },
+ {
+  "id": "CNOI_2132",
+  "title": "荷马史诗",
+  "olympiad": "CNOI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2132"
+ },
+ {
+  "id": "CNOI_2133",
+  "title": "品酒大会",
+  "olympiad": "CNOI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2133"
+ },
+ {
+  "id": "CNOI_2134",
+  "title": "小园丁与老司机",
+  "olympiad": "CNOI",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2134"
+ },
+ {
+  "id": "CNOI_2244",
+  "title": "起床困难综合症",
+  "olympiad": "CNOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2244"
+ },
+ {
+  "id": "CNOI_2245",
+  "title": "魔法森林",
+  "olympiad": "CNOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2245"
+ },
+ {
+  "id": "CNOI_2246",
+  "title": "动物园",
+  "olympiad": "CNOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2246"
+ },
+ {
+  "id": "CNOI_2247",
+  "title": "消除游戏",
+  "olympiad": "CNOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2247"
+ },
+ {
+  "id": "CNOI_2248",
+  "title": "随机数生成器",
+  "olympiad": "CNOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2248"
+ },
+ {
+  "id": "CNOI_2249",
+  "title": "购票",
+  "olympiad": "CNOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2249"
+ },
+ {
+  "id": "CNOI_2664",
+  "title": "向量内积",
+  "olympiad": "CNOI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2664"
+ },
+ {
+  "id": "CNOI_2665",
+  "title": "树的计数",
+  "olympiad": "CNOI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2665"
+ },
+ {
+  "id": "CNOI_2666",
+  "title": "小 Q 的修炼",
+  "olympiad": "CNOI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2666"
+ },
+ {
+  "id": "CNOI_2667",
+  "title": "矩阵游戏",
+  "olympiad": "CNOI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2667"
+ },
+ {
+  "id": "CNOI_2668",
+  "title": "书法家",
+  "olympiad": "CNOI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2668"
+ },
+ {
+  "id": "CNOI_2669",
+  "title": "快餐店",
+  "olympiad": "CNOI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2669"
+ },
+ {
+  "id": "CNOI_2670",
+  "title": "随机数生成器",
+  "olympiad": "CNOI",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2670"
+ },
+ {
+  "id": "CNOI_2671",
+  "title": "骑行川藏",
+  "olympiad": "CNOI",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2671"
+ },
+ {
+  "id": "CNOI_2672",
+  "title": "魔幻棋盘",
+  "olympiad": "CNOI",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2672"
+ },
+ {
+  "id": "CNOI_2673",
+  "title": "迷失游乐园",
+  "olympiad": "CNOI",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2673"
+ },
+ {
+  "id": "CNOI_2674",
+  "title": "美食节",
+  "olympiad": "CNOI",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2674"
+ },
+ {
+  "id": "CNOI_2675",
+  "title": "三重镇",
+  "olympiad": "CNOI",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2675"
+ },
+ {
+  "id": "CNOI_2442",
+  "title": "兔农",
+  "olympiad": "CNOI",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2442"
+ },
+ {
+  "id": "CNOI_2443",
+  "title": "智能车比赛",
+  "olympiad": "CNOI",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2443"
+ },
+ {
+  "id": "CNOI_2444",
+  "title": "阿狸的打字机",
+  "olympiad": "CNOI",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2444"
+ },
+ {
+  "id": "CNOI_2445",
+  "title": "道路修建",
+  "olympiad": "CNOI",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2445"
+ },
+ {
+  "id": "CNOI_2446",
+  "title": "NOI 嘉年华",
+  "olympiad": "CNOI",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2446"
+ },
+ {
+  "id": "CNOI_2447",
+  "title": "兔兔与蛋蛋的游戏",
+  "olympiad": "CNOI",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2447"
+ },
+ {
+  "id": "CNOI_3757",
+  "title": "海拔",
+  "olympiad": "CNOI",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3757"
+ },
+ {
+  "id": "CNOI_3758",
+  "title": "能量采集",
+  "olympiad": "CNOI",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3758"
+ },
+ {
+  "id": "CNOI_3760",
+  "title": "航空管制",
+  "olympiad": "CNOI",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3760"
+ },
+ {
+  "id": "CNOI_3761",
+  "title": "超级钢琴",
+  "olympiad": "CNOI",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3761"
+ },
+ {
+  "id": "CNOI_3762",
+  "title": "旅行路线",
+  "olympiad": "CNOI",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://loj.ac/p/3762"
+ },
+ {
+  "id": "CNOI_2352",
+  "title": "社交网络",
+  "olympiad": "CNOI",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2352"
+ },
+ {
+  "id": "CNOI_2353",
+  "title": "货币兑换",
+  "olympiad": "CNOI",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2353"
+ },
+ {
+  "id": "CNOI_2354",
+  "title": "调兵遣将",
+  "olympiad": "CNOI",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2354"
+ },
+ {
+  "id": "CNOI_2355",
+  "title": "项链工厂",
+  "olympiad": "CNOI",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2355"
+ },
+ {
+  "id": "CNOI_2356",
+  "title": "生成树计数",
+  "olympiad": "CNOI",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2356"
+ },
+ {
+  "id": "CNOI_2357",
+  "title": "追捕盗贼",
+  "olympiad": "CNOI",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2357"
+ },
+ {
+  "id": "CNOI_2294",
+  "title": "银河英雄传说",
+  "olympiad": "CNOI",
+  "year": 2002,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2294"
+ },
+ {
+  "id": "CNOI_2296",
+  "title": "贪吃的九头龙",
+  "olympiad": "CNOI",
+  "year": 2002,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2296"
+ },
+ {
+  "id": "CNOI_2297",
+  "title": "荒岛野人",
+  "olympiad": "CNOI",
+  "year": 2002,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2297"
+ },
+ {
+  "id": "CNOI_2299",
+  "title": "机器人 M 号",
+  "olympiad": "CNOI",
+  "year": 2002,
+  "type": "Batch",
+  "url": "https://loj.ac/p/2299"
+ },
+ {
   "id": "COCI26_magija",
   "title": "Magija",
   "olympiad": "COCI",
@@ -4471,6 +5359,310 @@
   "year": 2014,
   "type": "Interactive",
   "url": "https://oj.uz/problem/view/COI14_nizovi"
+ },
+ {
+  "id": "EGOI26_biscuits",
+  "title": "Biscuits",
+  "olympiad": "EGOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI26_biscuits"
+ },
+ {
+  "id": "EGOI26_cakes",
+  "title": "Cakes",
+  "olympiad": "EGOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI26_cakes"
+ },
+ {
+  "id": "EGOI26_ferriswheel",
+  "title": "Ferris Wheel",
+  "olympiad": "EGOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI26_ferriswheel"
+ },
+ {
+  "id": "EGOI26_foxfamilies",
+  "title": "Fox Families",
+  "olympiad": "EGOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI26_foxfamilies"
+ },
+ {
+  "id": "EGOI26_ovenmasters",
+  "title": "Ovenmasters",
+  "olympiad": "EGOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI26_ovenmasters"
+ },
+ {
+  "id": "EGOI26_seatingplan",
+  "title": "Seating Plan",
+  "olympiad": "EGOI",
+  "year": 2026,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/EGOI26_seatingplan"
+ },
+ {
+  "id": "EGOI26_wateringplants",
+  "title": "Watering Plants",
+  "olympiad": "EGOI",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI26_wateringplants"
+ },
+ {
+  "id": "EGOI25_currents",
+  "title": "Currents",
+  "olympiad": "EGOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI25_currents"
+ },
+ {
+  "id": "EGOI25_darkride",
+  "title": "Dark Ride",
+  "olympiad": "EGOI",
+  "year": 2025,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/EGOI25_darkride"
+ },
+ {
+  "id": "EGOI25_giftboxes",
+  "title": "Gift Boxes",
+  "olympiad": "EGOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI25_giftboxes"
+ },
+ {
+  "id": "EGOI25_imo",
+  "title": "IMO",
+  "olympiad": "EGOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI25_imo"
+ },
+ {
+  "id": "EGOI25_laserstrike",
+  "title": "Laser Strike",
+  "olympiad": "EGOI",
+  "year": 2025,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/EGOI25_laserstrike"
+ },
+ {
+  "id": "EGOI25_monstergo",
+  "title": "Monster-Go",
+  "olympiad": "EGOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI25_monstergo"
+ },
+ {
+  "id": "EGOI25_stringproblem",
+  "title": "A String Problem",
+  "olympiad": "EGOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI25_stringproblem"
+ },
+ {
+  "id": "EGOI25_windturbines",
+  "title": "Wind Turbines",
+  "olympiad": "EGOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI25_windturbines"
+ },
+ {
+  "id": "EGOI24_bikeparking",
+  "title": "Bikeparking",
+  "olympiad": "EGOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI24_bikeparking"
+ },
+ {
+  "id": "EGOI24_bouquet",
+  "title": "Bouquet",
+  "olympiad": "EGOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI24_bouquet"
+ },
+ {
+  "id": "EGOI24_circlepassing",
+  "title": "Circle Passing",
+  "olympiad": "EGOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI24_circlepassing"
+ },
+ {
+  "id": "EGOI24_infiniterace2",
+  "title": "Infinite Race",
+  "olympiad": "EGOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI24_infiniterace2"
+ },
+ {
+  "id": "EGOI24_lightbulbs",
+  "title": "Light Bulbs",
+  "olympiad": "EGOI",
+  "year": 2024,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/EGOI24_lightbulbs"
+ },
+ {
+  "id": "EGOI24_makethemmeet",
+  "title": "Make them Meet",
+  "olympiad": "EGOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI24_makethemmeet"
+ },
+ {
+  "id": "EGOI24_teamcoding",
+  "title": "Team Coding",
+  "olympiad": "EGOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI24_teamcoding"
+ },
+ {
+  "id": "EGOI23_bikesvscars",
+  "title": "Bikes vs Cars",
+  "olympiad": "EGOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI23_bikesvscars"
+ },
+ {
+  "id": "EGOI23_candy",
+  "title": "Candy",
+  "olympiad": "EGOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI23_candy"
+ },
+ {
+  "id": "EGOI23_carnival",
+  "title": "Carnival",
+  "olympiad": "EGOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI23_carnival"
+ },
+ {
+  "id": "EGOI23_findthebox",
+  "title": "Find the Box",
+  "olympiad": "EGOI",
+  "year": 2023,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/EGOI23_findthebox"
+ },
+ {
+  "id": "EGOI23_guessinggame",
+  "title": "Guessing Game",
+  "olympiad": "EGOI",
+  "year": 2023,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/EGOI23_guessinggame"
+ },
+ {
+  "id": "EGOI23_inflation",
+  "title": "Inflation",
+  "olympiad": "EGOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI23_inflation"
+ },
+ {
+  "id": "EGOI23_ppp",
+  "title": "PPP",
+  "olympiad": "EGOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI23_ppp"
+ },
+ {
+  "id": "EGOI23_sopsug",
+  "title": "Sopsug",
+  "olympiad": "EGOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI23_sopsug"
+ },
+ {
+  "id": "EGOI22_cheat",
+  "title": "Chika Wants to Cheat",
+  "olympiad": "EGOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI22_cheat"
+ },
+ {
+  "id": "EGOI22_datacenters",
+  "title": "Data Centers",
+  "olympiad": "EGOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI22_datacenters"
+ },
+ {
+  "id": "EGOI22_legowall",
+  "title": "Lego Wall",
+  "olympiad": "EGOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI22_legowall"
+ },
+ {
+  "id": "EGOI22_socialengineering",
+  "title": "Social Engineering",
+  "olympiad": "EGOI",
+  "year": 2022,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/EGOI22_socialengineering"
+ },
+ {
+  "id": "EGOI22_subsetmex",
+  "title": "Subset Mex",
+  "olympiad": "EGOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI22_subsetmex"
+ },
+ {
+  "id": "EGOI22_superpiece",
+  "title": "Superpiece",
+  "olympiad": "EGOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI22_superpiece"
+ },
+ {
+  "id": "EGOI22_tourists",
+  "title": "Tourists",
+  "olympiad": "EGOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/EGOI22_tourists"
+ },
+ {
+  "id": "EGOI22_toydesign",
+  "title": "Toy Design",
+  "olympiad": "EGOI",
+  "year": 2022,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/EGOI22_toydesign"
  },
  {
   "id": "eJOI21_addk",
@@ -7823,5 +9015,6161 @@
   "year": 2012,
   "type": "Batch",
   "url": "https://oj.uz/problem/view/JOI12_rotate"
+ },
+ {
+  "id": "USACO_1467",
+  "title": "Astral Superposition",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 January Bronze",
+  "group": "Bronze",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1467"
+ },
+ {
+  "id": "USACO_1468",
+  "title": "It's Mooin' Time II",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 January Bronze",
+  "group": "Bronze",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1468"
+ },
+ {
+  "id": "USACO_1469",
+  "title": "Cow Checkups",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 January Bronze",
+  "group": "Bronze",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1469"
+ },
+ {
+  "id": "USACO_1491",
+  "title": "Reflection",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 February Bronze",
+  "group": "Bronze",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1491"
+ },
+ {
+  "id": "USACO_1492",
+  "title": "Making Mexes",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 February Bronze",
+  "group": "Bronze",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1492"
+ },
+ {
+  "id": "USACO_1493",
+  "title": "Printing Sequences",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 February Bronze",
+  "group": "Bronze",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1493"
+ },
+ {
+  "id": "USACO_1515",
+  "title": "Hoof Paper Scissors Minus One",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 US Open Bronze",
+  "group": "Bronze",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1515"
+ },
+ {
+  "id": "USACO_1516",
+  "title": "More Cow Photos",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 US Open Bronze",
+  "group": "Bronze",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1516"
+ },
+ {
+  "id": "USACO_1517",
+  "title": "It's Mooin' Time III",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 US Open Bronze",
+  "group": "Bronze",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1517"
+ },
+ {
+  "id": "USACO_1470",
+  "title": "Cow Checkups",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 January Silver",
+  "group": "Silver",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1470"
+ },
+ {
+  "id": "USACO_1471",
+  "title": "Farmer John's Favorite Operation",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 January Silver",
+  "group": "Silver",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1471"
+ },
+ {
+  "id": "USACO_1472",
+  "title": "Table Recovery",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 January Silver",
+  "group": "Silver",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1472"
+ },
+ {
+  "id": "USACO_1494",
+  "title": "The Best Lineup",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 February Silver",
+  "group": "Silver",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1494"
+ },
+ {
+  "id": "USACO_1495",
+  "title": "Vocabulary Quiz",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 February Silver",
+  "group": "Silver",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1495"
+ },
+ {
+  "id": "USACO_1496",
+  "title": "Transforming Pairs",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 February Silver",
+  "group": "Silver",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1496"
+ },
+ {
+  "id": "USACO_1518",
+  "title": "Sequence Construction",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 US Open Silver",
+  "group": "Silver",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1518"
+ },
+ {
+  "id": "USACO_1519",
+  "title": "Compatible Pairs",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 US Open Silver",
+  "group": "Silver",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1519"
+ },
+ {
+  "id": "USACO_1520",
+  "title": "Ski Slope",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 US Open Silver",
+  "group": "Silver",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1520"
+ },
+ {
+  "id": "USACO_1473",
+  "title": "Median Heap",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 January Gold",
+  "group": "Gold",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1473"
+ },
+ {
+  "id": "USACO_1474",
+  "title": "Reachable Pairs",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 January Gold",
+  "group": "Gold",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1474"
+ },
+ {
+  "id": "USACO_1475",
+  "title": "Photo Op",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 January Gold",
+  "group": "Gold",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1475"
+ },
+ {
+  "id": "USACO_1497",
+  "title": "Bessie's Function",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 February Gold",
+  "group": "Gold",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1497"
+ },
+ {
+  "id": "USACO_1498",
+  "title": "The Best Subsequence",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 February Gold",
+  "group": "Gold",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1498"
+ },
+ {
+  "id": "USACO_1499",
+  "title": "Friendship Editing",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 February Gold",
+  "group": "Gold",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1499"
+ },
+ {
+  "id": "USACO_1521",
+  "title": "Moo Decomposition",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 US Open Gold",
+  "group": "Gold",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1521"
+ },
+ {
+  "id": "USACO_1522",
+  "title": "Election Queries",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 US Open Gold",
+  "group": "Gold",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1522"
+ },
+ {
+  "id": "USACO_1523",
+  "title": "OohMoo Milk",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 US Open Gold",
+  "group": "Gold",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1523"
+ },
+ {
+  "id": "USACO_1476",
+  "title": "DFS Order",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 January Platinum",
+  "group": "Platinum",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1476"
+ },
+ {
+  "id": "USACO_1477",
+  "title": "Shock Wave",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 January Platinum",
+  "group": "Platinum",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1477"
+ },
+ {
+  "id": "USACO_1478",
+  "title": "Watering the Plants",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 January Platinum",
+  "group": "Platinum",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1478"
+ },
+ {
+  "id": "USACO_1500",
+  "title": "Min Max Subarrays",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 February Platinum",
+  "group": "Platinum",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1500"
+ },
+ {
+  "id": "USACO_1501",
+  "title": "Transforming Pairs",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 February Platinum",
+  "group": "Platinum",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1501"
+ },
+ {
+  "id": "USACO_1502",
+  "title": "True or False Test",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 February Platinum",
+  "group": "Platinum",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1502"
+ },
+ {
+  "id": "USACO_1524",
+  "title": "Forklift Certified",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 US Open Platinum",
+  "group": "Platinum",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1524"
+ },
+ {
+  "id": "USACO_1525",
+  "title": "Lazy Sort",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 US Open Platinum",
+  "group": "Platinum",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1525"
+ },
+ {
+  "id": "USACO_1526",
+  "title": "Package Pickup",
+  "olympiad": "USACO",
+  "year": 2025,
+  "type": "2025 US Open Platinum",
+  "group": "Platinum",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1526"
+ },
+ {
+  "id": "USACO_1371",
+  "title": "Majority Opinion",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1371"
+ },
+ {
+  "id": "USACO_1372",
+  "title": "Cannonball",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1372"
+ },
+ {
+  "id": "USACO_1373",
+  "title": "Balancing Bacteria",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1373"
+ },
+ {
+  "id": "USACO_1395",
+  "title": "Palindrome Game",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 February Bronze",
+  "group": "Bronze",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1395"
+ },
+ {
+  "id": "USACO_1396",
+  "title": "Milk Exchange",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 February Bronze",
+  "group": "Bronze",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1396"
+ },
+ {
+  "id": "USACO_1397",
+  "title": "Maximizing Productivity",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 February Bronze",
+  "group": "Bronze",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1397"
+ },
+ {
+  "id": "USACO_1419",
+  "title": "Logical Moos",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 US Open Bronze",
+  "group": "Bronze",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1419"
+ },
+ {
+  "id": "USACO_1420",
+  "title": "Walking Along a Fence",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 US Open Bronze",
+  "group": "Bronze",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1420"
+ },
+ {
+  "id": "USACO_1421",
+  "title": "Farmer John's Favorite Permutation",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 US Open Bronze",
+  "group": "Bronze",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1421"
+ },
+ {
+  "id": "USACO_1443",
+  "title": "Roundabout Rounding",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 December Bronze",
+  "group": "Bronze",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1443"
+ },
+ {
+  "id": "USACO_1444",
+  "title": "Farmer John's Cheese Block",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 December Bronze",
+  "group": "Bronze",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1444"
+ },
+ {
+  "id": "USACO_1445",
+  "title": "It's Mooin' Time",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 December Bronze",
+  "group": "Bronze",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1445"
+ },
+ {
+  "id": "USACO_1374",
+  "title": "Cowmpetency",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1374"
+ },
+ {
+  "id": "USACO_1375",
+  "title": "Potion Farming",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1375"
+ },
+ {
+  "id": "USACO_1376",
+  "title": "Cowlendar",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1376"
+ },
+ {
+  "id": "USACO_1398",
+  "title": "Target Practice II",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 February Silver",
+  "group": "Silver",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1398"
+ },
+ {
+  "id": "USACO_1399",
+  "title": "Test Tubes",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 February Silver",
+  "group": "Silver",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1399"
+ },
+ {
+  "id": "USACO_1400",
+  "title": "Moorbles",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 February Silver",
+  "group": "Silver",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1400"
+ },
+ {
+  "id": "USACO_1422",
+  "title": "Bessie's Interview",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 US Open Silver",
+  "group": "Silver",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1422"
+ },
+ {
+  "id": "USACO_1423",
+  "title": "Painting Fence Posts",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 US Open Silver",
+  "group": "Silver",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1423"
+ },
+ {
+  "id": "USACO_1424",
+  "title": "The 'Winning' Gene",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 US Open Silver",
+  "group": "Silver",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1424"
+ },
+ {
+  "id": "USACO_1446",
+  "title": "Cake Game",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 December Silver",
+  "group": "Silver",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1446"
+ },
+ {
+  "id": "USACO_1447",
+  "title": "Deforestation",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 December Silver",
+  "group": "Silver",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1447"
+ },
+ {
+  "id": "USACO_1448",
+  "title": "2D Conveyor Belt",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 December Silver",
+  "group": "Silver",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1448"
+ },
+ {
+  "id": "USACO_1377",
+  "title": "Walking in Manhattan",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1377"
+ },
+ {
+  "id": "USACO_1378",
+  "title": "Cowmpetency",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1378"
+ },
+ {
+  "id": "USACO_1379",
+  "title": "Nap Sort",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1379"
+ },
+ {
+  "id": "USACO_1401",
+  "title": "Bessla Motors",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 February Gold",
+  "group": "Gold",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1401"
+ },
+ {
+  "id": "USACO_1402",
+  "title": "Milk Exchange",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 February Gold",
+  "group": "Gold",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1402"
+ },
+ {
+  "id": "USACO_1403",
+  "title": "Quantum Moochanics",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 February Gold",
+  "group": "Gold",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1403"
+ },
+ {
+  "id": "USACO_1425",
+  "title": "Cowreography",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 US Open Gold",
+  "group": "Gold",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1425"
+ },
+ {
+  "id": "USACO_1426",
+  "title": "Grass Segments",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 US Open Gold",
+  "group": "Gold",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1426"
+ },
+ {
+  "id": "USACO_1427",
+  "title": "Smaller Averages",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 US Open Gold",
+  "group": "Gold",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1427"
+ },
+ {
+  "id": "USACO_1449",
+  "title": "Cowdependence",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 December Gold",
+  "group": "Gold",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1449"
+ },
+ {
+  "id": "USACO_1450",
+  "title": "Interstellar Intervals",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 December Gold",
+  "group": "Gold",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1450"
+ },
+ {
+  "id": "USACO_1451",
+  "title": "Job Completion",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 December Gold",
+  "group": "Gold",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1451"
+ },
+ {
+  "id": "USACO_1380",
+  "title": "Island Vacation",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1380"
+ },
+ {
+  "id": "USACO_1381",
+  "title": "Merging Cells",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1381"
+ },
+ {
+  "id": "USACO_1382",
+  "title": "Mooball Teams III",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1382"
+ },
+ {
+  "id": "USACO_1404",
+  "title": "Lazy Cow",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 February Platinum",
+  "group": "Platinum",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1404"
+ },
+ {
+  "id": "USACO_1405",
+  "title": "Minimum Sum of Maximums",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 February Platinum",
+  "group": "Platinum",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1405"
+ },
+ {
+  "id": "USACO_1406",
+  "title": "Infinite Adventure",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 February Platinum",
+  "group": "Platinum",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1406"
+ },
+ {
+  "id": "USACO_1428",
+  "title": "Identity Theft",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 US Open Platinum",
+  "group": "Platinum",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1428"
+ },
+ {
+  "id": "USACO_1429",
+  "title": "Splitting Haybales",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 US Open Platinum",
+  "group": "Platinum",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1429"
+ },
+ {
+  "id": "USACO_1430",
+  "title": "Activating Robots",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 US Open Platinum",
+  "group": "Platinum",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1430"
+ },
+ {
+  "id": "USACO_1452",
+  "title": "All Pairs Similarity",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 December Platinum",
+  "group": "Platinum",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1452"
+ },
+ {
+  "id": "USACO_1453",
+  "title": "It's Mooin' Time",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 December Platinum",
+  "group": "Platinum",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1453"
+ },
+ {
+  "id": "USACO_1454",
+  "title": "Maximize Minimum Difference",
+  "olympiad": "USACO",
+  "year": 2024,
+  "type": "2024 December Platinum",
+  "group": "Platinum",
+  "url": "https://usaco.org/index.php?page=viewproblem2&cpid=1454"
+ },
+ {
+  "id": "USACO_1275",
+  "title": "Leaders",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1275"
+ },
+ {
+  "id": "USACO_1276",
+  "title": "Air Cownditioning II",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1276"
+ },
+ {
+  "id": "USACO_1277",
+  "title": "Moo Operations",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1277"
+ },
+ {
+  "id": "USACO_1299",
+  "title": "Hungry Cow",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1299"
+ },
+ {
+  "id": "USACO_1300",
+  "title": "Stamp Grid",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1300"
+ },
+ {
+  "id": "USACO_1301",
+  "title": "Watching Mooloo",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1301"
+ },
+ {
+  "id": "USACO_1323",
+  "title": "FEB",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1323"
+ },
+ {
+  "id": "USACO_1324",
+  "title": "Moo Language",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1324"
+ },
+ {
+  "id": "USACO_1325",
+  "title": "Rotate and Shift",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1325"
+ },
+ {
+  "id": "USACO_1347",
+  "title": "Candy Cane Feast",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1347"
+ },
+ {
+  "id": "USACO_1348",
+  "title": "Cowntact Tracing 2",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1348"
+ },
+ {
+  "id": "USACO_1349",
+  "title": "Farmer John Actually Farms",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1349"
+ },
+ {
+  "id": "USACO_1278",
+  "title": "Find and Replace",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1278"
+ },
+ {
+  "id": "USACO_1279",
+  "title": "Following Directions",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1279"
+ },
+ {
+  "id": "USACO_1280",
+  "title": "Moo Route",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1280"
+ },
+ {
+  "id": "USACO_1302",
+  "title": "Bakery",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1302"
+ },
+ {
+  "id": "USACO_1303",
+  "title": "Cow-libi",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1303"
+ },
+ {
+  "id": "USACO_1304",
+  "title": "Moo Route II",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1304"
+ },
+ {
+  "id": "USACO_1326",
+  "title": "Milk Sum",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1326"
+ },
+ {
+  "id": "USACO_1327",
+  "title": "Field Day",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1327"
+ },
+ {
+  "id": "USACO_1328",
+  "title": "Pareidolia",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1328"
+ },
+ {
+  "id": "USACO_1350",
+  "title": "Bovine Acrobatics",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1350"
+ },
+ {
+  "id": "USACO_1351",
+  "title": "Cycle Correspondence",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1351"
+ },
+ {
+  "id": "USACO_1352",
+  "title": "Target Practice",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1352"
+ },
+ {
+  "id": "USACO_1281",
+  "title": "Find and Replace",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1281"
+ },
+ {
+  "id": "USACO_1282",
+  "title": "Lights Off",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1282"
+ },
+ {
+  "id": "USACO_1283",
+  "title": "Moo Route",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1283"
+ },
+ {
+  "id": "USACO_1305",
+  "title": "Equal Sum Subarrays",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1305"
+ },
+ {
+  "id": "USACO_1306",
+  "title": "Fertilizing Pastures",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1306"
+ },
+ {
+  "id": "USACO_1307",
+  "title": "Piling Papers",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1307"
+ },
+ {
+  "id": "USACO_1329",
+  "title": "Custodial Cleanup",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1329"
+ },
+ {
+  "id": "USACO_1330",
+  "title": "Pareidolia",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1330"
+ },
+ {
+  "id": "USACO_1331",
+  "title": "Tree Merging",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1331"
+ },
+ {
+  "id": "USACO_1353",
+  "title": "Flight Routes",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1353"
+ },
+ {
+  "id": "USACO_1354",
+  "title": "Minimum Longest Trip",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1354"
+ },
+ {
+  "id": "USACO_1355",
+  "title": "Haybale Distribution",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1355"
+ },
+ {
+  "id": "USACO_1284",
+  "title": "Tractor Paths",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1284"
+ },
+ {
+  "id": "USACO_1285",
+  "title": "Mana Collection",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1285"
+ },
+ {
+  "id": "USACO_1286",
+  "title": "Subtree Activation",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1286"
+ },
+ {
+  "id": "USACO_1308",
+  "title": "Hungry Cow",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1308"
+ },
+ {
+  "id": "USACO_1309",
+  "title": "Problem Setting",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1309"
+ },
+ {
+  "id": "USACO_1310",
+  "title": "Watching Cowflix",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1310"
+ },
+ {
+  "id": "USACO_1332",
+  "title": "Pareidolia",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1332"
+ },
+ {
+  "id": "USACO_1333",
+  "title": "Good Bitstrings",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1333"
+ },
+ {
+  "id": "USACO_1334",
+  "title": "Triples of Cows",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1334"
+ },
+ {
+  "id": "USACO_1356",
+  "title": "Cowntact Tracing",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1356"
+ },
+ {
+  "id": "USACO_1357",
+  "title": "A Graph Problem",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1357"
+ },
+ {
+  "id": "USACO_1358",
+  "title": "Train Scheduling",
+  "olympiad": "USACO",
+  "year": 2023,
+  "type": "2023 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1358"
+ },
+ {
+  "id": "USACO_1179",
+  "title": "Herdle",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1179"
+ },
+ {
+  "id": "USACO_1180",
+  "title": "Non-Transitive Dice",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1180"
+ },
+ {
+  "id": "USACO_1181",
+  "title": "Drought",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1181"
+ },
+ {
+  "id": "USACO_1203",
+  "title": "Sleeping in Class",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1203"
+ },
+ {
+  "id": "USACO_1204",
+  "title": "Photoshoot 2",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1204"
+ },
+ {
+  "id": "USACO_1205",
+  "title": "Blocks",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1205"
+ },
+ {
+  "id": "USACO_1227",
+  "title": "Photoshoot",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1227"
+ },
+ {
+  "id": "USACO_1228",
+  "title": "Counting Liars",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1228"
+ },
+ {
+  "id": "USACO_1229",
+  "title": "Alchemy",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1229"
+ },
+ {
+  "id": "USACO_1251",
+  "title": "Cow College",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1251"
+ },
+ {
+  "id": "USACO_1252",
+  "title": "Feeding the Cows",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1252"
+ },
+ {
+  "id": "USACO_1253",
+  "title": "Reverse Engineering",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1253"
+ },
+ {
+  "id": "USACO_1182",
+  "title": "Searching for Soulmates",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1182"
+ },
+ {
+  "id": "USACO_1183",
+  "title": "Cow Frisbee",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1183"
+ },
+ {
+  "id": "USACO_1184",
+  "title": "Cereal 2",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1184"
+ },
+ {
+  "id": "USACO_1206",
+  "title": "Redistributing Gifts",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1206"
+ },
+ {
+  "id": "USACO_1207",
+  "title": "Robot Instructions",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1207"
+ },
+ {
+  "id": "USACO_1208",
+  "title": "Email Filing",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1208"
+ },
+ {
+  "id": "USACO_1230",
+  "title": "Visits",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1230"
+ },
+ {
+  "id": "USACO_1231",
+  "title": "Subset Equality",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1231"
+ },
+ {
+  "id": "USACO_1232",
+  "title": "COW Operations",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1232"
+ },
+ {
+  "id": "USACO_1254",
+  "title": "Barn Tree",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1254"
+ },
+ {
+  "id": "USACO_1255",
+  "title": "Circular Barn",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1255"
+ },
+ {
+  "id": "USACO_1256",
+  "title": "Range Reconstruction",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1256"
+ },
+ {
+  "id": "USACO_1185",
+  "title": "Drought",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1185"
+ },
+ {
+  "id": "USACO_1186",
+  "title": "Farm Updates",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1186"
+ },
+ {
+  "id": "USACO_1187",
+  "title": "Tests for Haybales",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1187"
+ },
+ {
+  "id": "USACO_1209",
+  "title": "Redistributing Gifts",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1209"
+ },
+ {
+  "id": "USACO_1210",
+  "title": "Cow Camp",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1210"
+ },
+ {
+  "id": "USACO_1211",
+  "title": "Moo Network",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1211"
+ },
+ {
+  "id": "USACO_1233",
+  "title": "Apple Catching",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1233"
+ },
+ {
+  "id": "USACO_1234",
+  "title": "Pair Programming",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1234"
+ },
+ {
+  "id": "USACO_1235",
+  "title": "Balancing a Tree",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1235"
+ },
+ {
+  "id": "USACO_1257",
+  "title": "Bribing Friends",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1257"
+ },
+ {
+  "id": "USACO_1258",
+  "title": "Mountains",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1258"
+ },
+ {
+  "id": "USACO_1259",
+  "title": "Strongest Friendship Group",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1259"
+ },
+ {
+  "id": "USACO_1188",
+  "title": "Minimizing Haybales",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1188"
+ },
+ {
+  "id": "USACO_1189",
+  "title": "Counting Haybales",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1189"
+ },
+ {
+  "id": "USACO_1190",
+  "title": "Multiple Choice Test",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1190"
+ },
+ {
+  "id": "USACO_1212",
+  "title": "Paint by Rectangles",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1212"
+ },
+ {
+  "id": "USACO_1213",
+  "title": "Sleeping in Class",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1213"
+ },
+ {
+  "id": "USACO_1214",
+  "title": "Phone Numbers",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1214"
+ },
+ {
+  "id": "USACO_1236",
+  "title": "262144 Revisited",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1236"
+ },
+ {
+  "id": "USACO_1237",
+  "title": "Hoof and Brain",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1237"
+ },
+ {
+  "id": "USACO_1238",
+  "title": "Up Down Subsequence",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1238"
+ },
+ {
+  "id": "USACO_1260",
+  "title": "Breakdown",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1260"
+ },
+ {
+  "id": "USACO_1261",
+  "title": "Making Friends",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1261"
+ },
+ {
+  "id": "USACO_1262",
+  "title": "Palindromes",
+  "olympiad": "USACO",
+  "year": 2022,
+  "type": "2022 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1262"
+ },
+ {
+  "id": "USACO_1083",
+  "title": "Uddered but not Herd",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1083"
+ },
+ {
+  "id": "USACO_1084",
+  "title": "Even More Odd Photos",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1084"
+ },
+ {
+  "id": "USACO_1085",
+  "title": "Just Stalling",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1085"
+ },
+ {
+  "id": "USACO_1107",
+  "title": "Year of the Cow",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1107"
+ },
+ {
+  "id": "USACO_1108",
+  "title": "Comfortable Cows",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1108"
+ },
+ {
+  "id": "USACO_1109",
+  "title": "Clockwise Fence",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1109"
+ },
+ {
+  "id": "USACO_1131",
+  "title": "Acowdemia I",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1131"
+ },
+ {
+  "id": "USACO_1132",
+  "title": "Acowdemia II",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1132"
+ },
+ {
+  "id": "USACO_1133",
+  "title": "Acowdemia III",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1133"
+ },
+ {
+  "id": "USACO_1155",
+  "title": "Lonely Photo",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1155"
+ },
+ {
+  "id": "USACO_1156",
+  "title": "Air Cownditioning",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1156"
+ },
+ {
+  "id": "USACO_1157",
+  "title": "Walking Home",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1157"
+ },
+ {
+  "id": "USACO_1086",
+  "title": "Dance Mooves",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1086"
+ },
+ {
+  "id": "USACO_1087",
+  "title": "No Time to Paint",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1087"
+ },
+ {
+  "id": "USACO_1088",
+  "title": "Spaced Out",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1088"
+ },
+ {
+  "id": "USACO_1110",
+  "title": "Comfortable Cows",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1110"
+ },
+ {
+  "id": "USACO_1111",
+  "title": "Year of the Cow",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1111"
+ },
+ {
+  "id": "USACO_1112",
+  "title": "Just Green Enough",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1112"
+ },
+ {
+  "id": "USACO_1134",
+  "title": "Maze Tac Toe",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1134"
+ },
+ {
+  "id": "USACO_1135",
+  "title": "Do You Know Your ABCs?",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1135"
+ },
+ {
+  "id": "USACO_1136",
+  "title": "Acowdemia",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1136"
+ },
+ {
+  "id": "USACO_1158",
+  "title": "Closest Cow Wins",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1158"
+ },
+ {
+  "id": "USACO_1159",
+  "title": "Connecting Two Barns",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1159"
+ },
+ {
+  "id": "USACO_1160",
+  "title": "Convoluted Intervals",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1160"
+ },
+ {
+  "id": "USACO_1089",
+  "title": "Uddered but not Herd",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1089"
+ },
+ {
+  "id": "USACO_1090",
+  "title": "Telephone",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1090"
+ },
+ {
+  "id": "USACO_1091",
+  "title": "Dance Mooves",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1091"
+ },
+ {
+  "id": "USACO_1113",
+  "title": "Stone Game",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1113"
+ },
+ {
+  "id": "USACO_1114",
+  "title": "Modern Art 3",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1114"
+ },
+ {
+  "id": "USACO_1115",
+  "title": "Count the Cows",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1115"
+ },
+ {
+  "id": "USACO_1137",
+  "title": "United Cows of Farmer John",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1137"
+ },
+ {
+  "id": "USACO_1138",
+  "title": "Portals",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1138"
+ },
+ {
+  "id": "USACO_1139",
+  "title": "Permutation",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1139"
+ },
+ {
+  "id": "USACO_1161",
+  "title": "Paired Up",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1161"
+ },
+ {
+  "id": "USACO_1162",
+  "title": "HILO",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1162"
+ },
+ {
+  "id": "USACO_1163",
+  "title": "Bracelet Crossings",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1163"
+ },
+ {
+  "id": "USACO_1092",
+  "title": "Sum of Distances",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1092"
+ },
+ {
+  "id": "USACO_1093",
+  "title": "Minimum Cost Paths",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1093"
+ },
+ {
+  "id": "USACO_1094",
+  "title": "Paint by Letters",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1094"
+ },
+ {
+  "id": "USACO_1116",
+  "title": "No Time to Dry",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1116"
+ },
+ {
+  "id": "USACO_1117",
+  "title": "Minimizing Edges",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1117"
+ },
+ {
+  "id": "USACO_1118",
+  "title": "Counting Graphs",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1118"
+ },
+ {
+  "id": "USACO_1140",
+  "title": "United Cows of Farmer John",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1140"
+ },
+ {
+  "id": "USACO_1141",
+  "title": "Routing Schemes",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1141"
+ },
+ {
+  "id": "USACO_1142",
+  "title": "Balanced Subsets",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1142"
+ },
+ {
+  "id": "USACO_1164",
+  "title": "Tickets",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1164"
+ },
+ {
+  "id": "USACO_1165",
+  "title": "Paired Up",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1165"
+ },
+ {
+  "id": "USACO_1166",
+  "title": "HILO",
+  "olympiad": "USACO",
+  "year": 2021,
+  "type": "2021 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1166"
+ },
+ {
+  "id": "USACO_987",
+  "title": "Word Processor",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=987"
+ },
+ {
+  "id": "USACO_988",
+  "title": "Photoshoot",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=988"
+ },
+ {
+  "id": "USACO_989",
+  "title": "Race",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=989"
+ },
+ {
+  "id": "USACO_1011",
+  "title": "Triangles",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1011"
+ },
+ {
+  "id": "USACO_1012",
+  "title": "Mad Scientist",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1012"
+ },
+ {
+  "id": "USACO_1013",
+  "title": "Swapity Swap",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1013"
+ },
+ {
+  "id": "USACO_1035",
+  "title": "Social Distancing I",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1035"
+ },
+ {
+  "id": "USACO_1036",
+  "title": "Social Distancing II",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1036"
+ },
+ {
+  "id": "USACO_1037",
+  "title": "Cowntact Tracing",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1037"
+ },
+ {
+  "id": "USACO_1059",
+  "title": "Do You Know Your ABCs?",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1059"
+ },
+ {
+  "id": "USACO_1060",
+  "title": "Daisy Chains",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1060"
+ },
+ {
+  "id": "USACO_1061",
+  "title": "Stuck in a Rut",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1061"
+ },
+ {
+  "id": "USACO_990",
+  "title": "Berry Picking",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=990"
+ },
+ {
+  "id": "USACO_991",
+  "title": "Loan Repayment",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=991"
+ },
+ {
+  "id": "USACO_992",
+  "title": "Wormhole Sort",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=992"
+ },
+ {
+  "id": "USACO_1014",
+  "title": "Swapity Swapity Swap",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1014"
+ },
+ {
+  "id": "USACO_1015",
+  "title": "Triangles",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1015"
+ },
+ {
+  "id": "USACO_1016",
+  "title": "Clock Tree",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1016"
+ },
+ {
+  "id": "USACO_1038",
+  "title": "Social Distancing",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1038"
+ },
+ {
+  "id": "USACO_1039",
+  "title": "Cereal",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1039"
+ },
+ {
+  "id": "USACO_1040",
+  "title": "The Moo Particle",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1040"
+ },
+ {
+  "id": "USACO_1062",
+  "title": "Cowntagion",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1062"
+ },
+ {
+  "id": "USACO_1063",
+  "title": "Rectangular Pasture",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1063"
+ },
+ {
+  "id": "USACO_1064",
+  "title": "Stuck in a Rut",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1064"
+ },
+ {
+  "id": "USACO_993",
+  "title": "Time is Mooney",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=993"
+ },
+ {
+  "id": "USACO_994",
+  "title": "Farmer John Solves 3SUM",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=994"
+ },
+ {
+  "id": "USACO_995",
+  "title": "Springboards",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=995"
+ },
+ {
+  "id": "USACO_1017",
+  "title": "Timeline",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1017"
+ },
+ {
+  "id": "USACO_1018",
+  "title": "Help Yourself",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1018"
+ },
+ {
+  "id": "USACO_1019",
+  "title": "Delegation",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1019"
+ },
+ {
+  "id": "USACO_1041",
+  "title": "Haircut",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1041"
+ },
+ {
+  "id": "USACO_1042",
+  "title": "Favorite Colors",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1042"
+ },
+ {
+  "id": "USACO_1043",
+  "title": "Exercise",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1043"
+ },
+ {
+  "id": "USACO_1065",
+  "title": "Replication",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1065"
+ },
+ {
+  "id": "USACO_1066",
+  "title": "Bovine Genetics",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1066"
+ },
+ {
+  "id": "USACO_1067",
+  "title": "Square Pasture",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1067"
+ },
+ {
+  "id": "USACO_996",
+  "title": "Cave Paintings",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=996"
+ },
+ {
+  "id": "USACO_997",
+  "title": "Non-Decreasing Subsequences",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=997"
+ },
+ {
+  "id": "USACO_998",
+  "title": "Falling Portals",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=998"
+ },
+ {
+  "id": "USACO_1020",
+  "title": "Delegation",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1020"
+ },
+ {
+  "id": "USACO_1021",
+  "title": "Equilateral Triangles",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1021"
+ },
+ {
+  "id": "USACO_1022",
+  "title": "Help Yourself",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1022"
+ },
+ {
+  "id": "USACO_1044",
+  "title": "Sprinklers 2: Return of the Alfalfa",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1044"
+ },
+ {
+  "id": "USACO_1045",
+  "title": "Exercise",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1045"
+ },
+ {
+  "id": "USACO_1046",
+  "title": "Circus",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1046"
+ },
+ {
+  "id": "USACO_1068",
+  "title": "Sleeping Cows",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1068"
+ },
+ {
+  "id": "USACO_1069",
+  "title": "Spaceship",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1069"
+ },
+ {
+  "id": "USACO_1070",
+  "title": "Cowmistry",
+  "olympiad": "USACO",
+  "year": 2020,
+  "type": "2020 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1070"
+ },
+ {
+  "id": "USACO_891",
+  "title": "Shell Game",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=891"
+ },
+ {
+  "id": "USACO_892",
+  "title": "Sleepy Cow Sorting",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=892"
+ },
+ {
+  "id": "USACO_893",
+  "title": "Guess the Animal",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=893"
+ },
+ {
+  "id": "USACO_915",
+  "title": "Sleepy Cow Herding",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=915"
+ },
+ {
+  "id": "USACO_916",
+  "title": "The Great Revegetation",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=916"
+ },
+ {
+  "id": "USACO_917",
+  "title": "Measuring Traffic",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=917"
+ },
+ {
+  "id": "USACO_939",
+  "title": "Bucket Brigade",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=939"
+ },
+ {
+  "id": "USACO_940",
+  "title": "Milk Factory",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=940"
+ },
+ {
+  "id": "USACO_941",
+  "title": "Cow Evolution",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=941"
+ },
+ {
+  "id": "USACO_963",
+  "title": "Cow Gymnastics",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=963"
+ },
+ {
+  "id": "USACO_964",
+  "title": "Where Am I?",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=964"
+ },
+ {
+  "id": "USACO_965",
+  "title": "Livestock Lineup",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=965"
+ },
+ {
+  "id": "USACO_894",
+  "title": "Grass Planting",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=894"
+ },
+ {
+  "id": "USACO_895",
+  "title": "Icy Perimeter",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=895"
+ },
+ {
+  "id": "USACO_896",
+  "title": "Mountain View",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=896"
+ },
+ {
+  "id": "USACO_918",
+  "title": "Sleepy Cow Herding",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=918"
+ },
+ {
+  "id": "USACO_919",
+  "title": "Painting the Barn",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=919"
+ },
+ {
+  "id": "USACO_920",
+  "title": "The Great Revegetation",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=920"
+ },
+ {
+  "id": "USACO_942",
+  "title": "Left Out",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=942"
+ },
+ {
+  "id": "USACO_943",
+  "title": "Cow Steeplechase II",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=943"
+ },
+ {
+  "id": "USACO_944",
+  "title": "Fence Planning",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=944"
+ },
+ {
+  "id": "USACO_966",
+  "title": "MooBuzz",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=966"
+ },
+ {
+  "id": "USACO_967",
+  "title": "Meetings",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=967"
+ },
+ {
+  "id": "USACO_968",
+  "title": "Milk Visits",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=968"
+ },
+ {
+  "id": "USACO_897",
+  "title": "Cow Poetry",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=897"
+ },
+ {
+  "id": "USACO_898",
+  "title": "Sleepy Cow Sorting",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=898"
+ },
+ {
+  "id": "USACO_899",
+  "title": "Shortcut",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=899"
+ },
+ {
+  "id": "USACO_921",
+  "title": "Cow Land",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=921"
+ },
+ {
+  "id": "USACO_922",
+  "title": "Dishwashing",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=922"
+ },
+ {
+  "id": "USACO_923",
+  "title": "Painting the Barn",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=923"
+ },
+ {
+  "id": "USACO_945",
+  "title": "Snakes",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=945"
+ },
+ {
+  "id": "USACO_946",
+  "title": "I Would Walk 500 Miles",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=946"
+ },
+ {
+  "id": "USACO_947",
+  "title": "Balancing Inversions",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=947"
+ },
+ {
+  "id": "USACO_969",
+  "title": "Milk Pumping",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=969"
+ },
+ {
+  "id": "USACO_970",
+  "title": "Milk Visits",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=970"
+ },
+ {
+  "id": "USACO_971",
+  "title": "Moortal Cowmbat",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=971"
+ },
+ {
+  "id": "USACO_900",
+  "title": "Redistricting",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=900"
+ },
+ {
+  "id": "USACO_901",
+  "title": "Exercise Route",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=901"
+ },
+ {
+  "id": "USACO_902",
+  "title": "Train Tracking 2",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=902"
+ },
+ {
+  "id": "USACO_924",
+  "title": "Cow Dating",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=924"
+ },
+ {
+  "id": "USACO_925",
+  "title": "Moorio Kart",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=925"
+ },
+ {
+  "id": "USACO_926",
+  "title": "Mowing Mischief",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=926"
+ },
+ {
+  "id": "USACO_948",
+  "title": "Tree Boxes",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=948"
+ },
+ {
+  "id": "USACO_949",
+  "title": "Compound Escape",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=949"
+ },
+ {
+  "id": "USACO_950",
+  "title": "Valleys",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=950"
+ },
+ {
+  "id": "USACO_972",
+  "title": "Greedy Pie Eaters",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=972"
+ },
+ {
+  "id": "USACO_973",
+  "title": "Bessie's Snow Cow",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=973"
+ },
+ {
+  "id": "USACO_974",
+  "title": "Tree Depth",
+  "olympiad": "USACO",
+  "year": 2019,
+  "type": "2019 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=974"
+ },
+ {
+  "id": "USACO_783",
+  "title": "Blocked Billboard II",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=783"
+ },
+ {
+  "id": "USACO_784",
+  "title": "Lifeguards",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=784"
+ },
+ {
+  "id": "USACO_785",
+  "title": "Out of Place",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=785"
+ },
+ {
+  "id": "USACO_807",
+  "title": "Teleportation",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=807"
+ },
+ {
+  "id": "USACO_808",
+  "title": "Hoofball",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=808"
+ },
+ {
+  "id": "USACO_809",
+  "title": "Taming the Herd",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=809"
+ },
+ {
+  "id": "USACO_831",
+  "title": "Team Tic Tac Toe",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=831"
+ },
+ {
+  "id": "USACO_832",
+  "title": "Milking Order",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=832"
+ },
+ {
+  "id": "USACO_833",
+  "title": "Family Tree",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=833"
+ },
+ {
+  "id": "USACO_855",
+  "title": "Mixing Milk",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=855"
+ },
+ {
+  "id": "USACO_856",
+  "title": "The Bucket List",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=856"
+ },
+ {
+  "id": "USACO_857",
+  "title": "Back and Forth",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=857"
+ },
+ {
+  "id": "USACO_786",
+  "title": "Lifeguards",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=786"
+ },
+ {
+  "id": "USACO_787",
+  "title": "Rental Service",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=787"
+ },
+ {
+  "id": "USACO_788",
+  "title": "MooTube",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=788"
+ },
+ {
+  "id": "USACO_810",
+  "title": "Rest Stops",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=810"
+ },
+ {
+  "id": "USACO_811",
+  "title": "Snow Boots",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=811"
+ },
+ {
+  "id": "USACO_812",
+  "title": "Teleportation",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=812"
+ },
+ {
+  "id": "USACO_834",
+  "title": "Out of Sorts",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=834"
+ },
+ {
+  "id": "USACO_835",
+  "title": "Lemonade Line",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=835"
+ },
+ {
+  "id": "USACO_836",
+  "title": "Multiplayer Moo",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=836"
+ },
+ {
+  "id": "USACO_858",
+  "title": "Convention",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=858"
+ },
+ {
+  "id": "USACO_859",
+  "title": "Convention II",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=859"
+ },
+ {
+  "id": "USACO_860",
+  "title": "Mooyo Mooyo",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=860"
+ },
+ {
+  "id": "USACO_789",
+  "title": "MooTube",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=789"
+ },
+ {
+  "id": "USACO_790",
+  "title": "Cow at Large",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=790"
+ },
+ {
+  "id": "USACO_791",
+  "title": "Stamp Painting",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=791"
+ },
+ {
+  "id": "USACO_813",
+  "title": "Snow Boots",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=813"
+ },
+ {
+  "id": "USACO_814",
+  "title": "Directory Traversal",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=814"
+ },
+ {
+  "id": "USACO_815",
+  "title": "Taming the Herd",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=815"
+ },
+ {
+  "id": "USACO_837",
+  "title": "Out of Sorts",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=837"
+ },
+ {
+  "id": "USACO_838",
+  "title": "Milking Order",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=838"
+ },
+ {
+  "id": "USACO_839",
+  "title": "Talent Show",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=839"
+ },
+ {
+  "id": "USACO_861",
+  "title": "Fine Dining",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=861"
+ },
+ {
+  "id": "USACO_862",
+  "title": "Cowpatibility",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=862"
+ },
+ {
+  "id": "USACO_863",
+  "title": "Teamwork",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=863"
+ },
+ {
+  "id": "USACO_792",
+  "title": "Lifeguards",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=792"
+ },
+ {
+  "id": "USACO_793",
+  "title": "Cow at Large",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=793"
+ },
+ {
+  "id": "USACO_794",
+  "title": "Sprinklers",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=794"
+ },
+ {
+  "id": "USACO_816",
+  "title": "Slingshot",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=816"
+ },
+ {
+  "id": "USACO_817",
+  "title": "New Barns",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=817"
+ },
+ {
+  "id": "USACO_818",
+  "title": "Cow Gymnasts",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=818"
+ },
+ {
+  "id": "USACO_840",
+  "title": "Out of Sorts",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=840"
+ },
+ {
+  "id": "USACO_841",
+  "title": "Train Tracking",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=841"
+ },
+ {
+  "id": "USACO_842",
+  "title": "Disruption",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=842"
+ },
+ {
+  "id": "USACO_864",
+  "title": "Balance Beam",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=864"
+ },
+ {
+  "id": "USACO_865",
+  "title": "Sort It Out",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=865"
+ },
+ {
+  "id": "USACO_866",
+  "title": "The Cow Gathering",
+  "olympiad": "USACO",
+  "year": 2018,
+  "type": "2018 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=866"
+ },
+ {
+  "id": "USACO_687",
+  "title": "Don't Be Last!",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=687"
+ },
+ {
+  "id": "USACO_688",
+  "title": "Hoof, Paper, Scissors",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=688"
+ },
+ {
+  "id": "USACO_689",
+  "title": "Cow Tipping",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=689"
+ },
+ {
+  "id": "USACO_711",
+  "title": "Why Did the Cow Cross the Road",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=711"
+ },
+ {
+  "id": "USACO_712",
+  "title": "Why Did the Cow Cross the Road II",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=712"
+ },
+ {
+  "id": "USACO_713",
+  "title": "Why Did the Cow Cross the Road III",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=713"
+ },
+ {
+  "id": "USACO_735",
+  "title": "The Lost Cow",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=735"
+ },
+ {
+  "id": "USACO_736",
+  "title": "Bovine Genomics",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=736"
+ },
+ {
+  "id": "USACO_737",
+  "title": "Modern Art",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=737"
+ },
+ {
+  "id": "USACO_759",
+  "title": "Blocked Billboard",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=759"
+ },
+ {
+  "id": "USACO_760",
+  "title": "The Bovine Shuffle",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=760"
+ },
+ {
+  "id": "USACO_761",
+  "title": "Milk Measurement",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=761"
+ },
+ {
+  "id": "USACO_690",
+  "title": "Cow Dance Show",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=690"
+ },
+ {
+  "id": "USACO_691",
+  "title": "Hoof, Paper, Scissors",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=691"
+ },
+ {
+  "id": "USACO_692",
+  "title": "Secret Cow Code",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=692"
+ },
+ {
+  "id": "USACO_714",
+  "title": "Why Did the Cow Cross the Road",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=714"
+ },
+ {
+  "id": "USACO_715",
+  "title": "Why Did the Cow Cross the Road II",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=715"
+ },
+ {
+  "id": "USACO_716",
+  "title": "Why Did the Cow Cross the Road III",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=716"
+ },
+ {
+  "id": "USACO_738",
+  "title": "Paired Up",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=738"
+ },
+ {
+  "id": "USACO_739",
+  "title": "Bovine Genomics",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=739"
+ },
+ {
+  "id": "USACO_740",
+  "title": "Where's Bessie?",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=740"
+ },
+ {
+  "id": "USACO_762",
+  "title": "My Cow Ate My Homework",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=762"
+ },
+ {
+  "id": "USACO_763",
+  "title": "Milk Measurement",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=763"
+ },
+ {
+  "id": "USACO_764",
+  "title": "The Bovine Shuffle",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=764"
+ },
+ {
+  "id": "USACO_693",
+  "title": "Balanced Photo",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=693"
+ },
+ {
+  "id": "USACO_694",
+  "title": "Hoof, Paper, Scissors",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=694"
+ },
+ {
+  "id": "USACO_695",
+  "title": "Cow Navigation",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=695"
+ },
+ {
+  "id": "USACO_717",
+  "title": "Why Did the Cow Cross the Road",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=717"
+ },
+ {
+  "id": "USACO_718",
+  "title": "Why Did the Cow Cross the Road II",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=718"
+ },
+ {
+  "id": "USACO_719",
+  "title": "Why Did the Cow Cross the Road III",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=719"
+ },
+ {
+  "id": "USACO_741",
+  "title": "Bovine Genomics",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=741"
+ },
+ {
+  "id": "USACO_742",
+  "title": "Modern Art",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=742"
+ },
+ {
+  "id": "USACO_743",
+  "title": "Modern Art 2",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=743"
+ },
+ {
+  "id": "USACO_765",
+  "title": "A Pie for a Pie",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=765"
+ },
+ {
+  "id": "USACO_766",
+  "title": "Barn Painting",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=766"
+ },
+ {
+  "id": "USACO_767",
+  "title": "Haybale Feast",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=767"
+ },
+ {
+  "id": "USACO_696",
+  "title": "Promotion Counting",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=696"
+ },
+ {
+  "id": "USACO_697",
+  "title": "Building a Tall Barn",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=697"
+ },
+ {
+  "id": "USACO_698",
+  "title": "Subsequence Reversal",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=698"
+ },
+ {
+  "id": "USACO_720",
+  "title": "Why Did the Cow Cross the Road",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=720"
+ },
+ {
+  "id": "USACO_721",
+  "title": "Why Did the Cow Cross the Road II",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=721"
+ },
+ {
+  "id": "USACO_722",
+  "title": "Why Did the Cow Cross the Road III",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=722"
+ },
+ {
+  "id": "USACO_744",
+  "title": "Modern Art",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=744"
+ },
+ {
+  "id": "USACO_745",
+  "title": "Switch Grass",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=745"
+ },
+ {
+  "id": "USACO_746",
+  "title": "COWBASIC",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=746"
+ },
+ {
+  "id": "USACO_768",
+  "title": "Standing Out from the Herd",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=768"
+ },
+ {
+  "id": "USACO_769",
+  "title": "Push a Box",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=769"
+ },
+ {
+  "id": "USACO_770",
+  "title": "Greedy Gift Takers",
+  "olympiad": "USACO",
+  "year": 2017,
+  "type": "2017 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=770"
+ },
+ {
+  "id": "USACO_591",
+  "title": "Promotion Counting",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=591"
+ },
+ {
+  "id": "USACO_592",
+  "title": "Angry Cows",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=592"
+ },
+ {
+  "id": "USACO_593",
+  "title": "Mowing the Field",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=593"
+ },
+ {
+  "id": "USACO_615",
+  "title": "Milk Pails",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=615"
+ },
+ {
+  "id": "USACO_616",
+  "title": "Circular Barn",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=616"
+ },
+ {
+  "id": "USACO_617",
+  "title": "Load Balancing",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=617"
+ },
+ {
+  "id": "USACO_639",
+  "title": "Diamond Collector",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=639"
+ },
+ {
+  "id": "USACO_640",
+  "title": "Bull in a China Shop",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=640"
+ },
+ {
+  "id": "USACO_641",
+  "title": "Field Reduction",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=641"
+ },
+ {
+  "id": "USACO_663",
+  "title": "Square Pasture",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=663"
+ },
+ {
+  "id": "USACO_664",
+  "title": "Block Game",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=664"
+ },
+ {
+  "id": "USACO_665",
+  "title": "The Cow-Signal",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=665"
+ },
+ {
+  "id": "USACO_594",
+  "title": "Angry Cows",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=594"
+ },
+ {
+  "id": "USACO_595",
+  "title": "Subsequences Summing to Sevens",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=595"
+ },
+ {
+  "id": "USACO_596",
+  "title": "Build Gates",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=596"
+ },
+ {
+  "id": "USACO_618",
+  "title": "Circular Barn",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=618"
+ },
+ {
+  "id": "USACO_619",
+  "title": "Load Balancing",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=619"
+ },
+ {
+  "id": "USACO_620",
+  "title": "Milk Pails",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=620"
+ },
+ {
+  "id": "USACO_642",
+  "title": "Field Reduction",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=642"
+ },
+ {
+  "id": "USACO_643",
+  "title": "Diamond Collector",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=643"
+ },
+ {
+  "id": "USACO_644",
+  "title": "Closing the Farm",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=644"
+ },
+ {
+  "id": "USACO_666",
+  "title": "Counting Haybales",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=666"
+ },
+ {
+  "id": "USACO_667",
+  "title": "Cities and States",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=667"
+ },
+ {
+  "id": "USACO_668",
+  "title": "Moocast",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=668"
+ },
+ {
+  "id": "USACO_597",
+  "title": "Angry Cows",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=597"
+ },
+ {
+  "id": "USACO_598",
+  "title": "Radio Contact",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=598"
+ },
+ {
+  "id": "USACO_599",
+  "title": "Lights Out",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=599"
+ },
+ {
+  "id": "USACO_621",
+  "title": "Circular Barn",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=621"
+ },
+ {
+  "id": "USACO_622",
+  "title": "Circular Barn Revisited",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=622"
+ },
+ {
+  "id": "USACO_623",
+  "title": "Fenced In",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=623"
+ },
+ {
+  "id": "USACO_645",
+  "title": "Splitting the Field",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=645"
+ },
+ {
+  "id": "USACO_646",
+  "title": "Closing the Farm",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=646"
+ },
+ {
+  "id": "USACO_647",
+  "title": "248",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=647"
+ },
+ {
+  "id": "USACO_669",
+  "title": "Moocast",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=669"
+ },
+ {
+  "id": "USACO_670",
+  "title": "Cow Checklist",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=670"
+ },
+ {
+  "id": "USACO_671",
+  "title": "Lasers and Mirrors",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=671"
+ },
+ {
+  "id": "USACO_600",
+  "title": "Fort Moo",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=600"
+ },
+ {
+  "id": "USACO_601",
+  "title": "Mowing the Field",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=601"
+ },
+ {
+  "id": "USACO_602",
+  "title": "Lights Out",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 January Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=602"
+ },
+ {
+  "id": "USACO_624",
+  "title": "Load Balancing",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=624"
+ },
+ {
+  "id": "USACO_625",
+  "title": "Fenced In",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=625"
+ },
+ {
+  "id": "USACO_626",
+  "title": "Circular Barn",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 February Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=626"
+ },
+ {
+  "id": "USACO_648",
+  "title": "262144",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=648"
+ },
+ {
+  "id": "USACO_649",
+  "title": "Bull in a China Shop",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=649"
+ },
+ {
+  "id": "USACO_650",
+  "title": "Landscaping",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 US Open Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=650"
+ },
+ {
+  "id": "USACO_672",
+  "title": "Lots of Triangles",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=672"
+ },
+ {
+  "id": "USACO_673",
+  "title": "Team Building",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=673"
+ },
+ {
+  "id": "USACO_674",
+  "title": "Robotic Cow Herd",
+  "olympiad": "USACO",
+  "year": 2016,
+  "type": "2016 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=674"
+ },
+ {
+  "id": "USACO_507",
+  "title": "Cow Routing",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=507"
+ },
+ {
+  "id": "USACO_508",
+  "title": "Cow Routing II",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=508"
+ },
+ {
+  "id": "USACO_509",
+  "title": "It's All About the Base",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=509"
+ },
+ {
+  "id": "USACO_510",
+  "title": "Meeting Time",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=510"
+ },
+ {
+  "id": "USACO_526",
+  "title": "Censoring (Bronze)",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=526"
+ },
+ {
+  "id": "USACO_527",
+  "title": "COW",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=527"
+ },
+ {
+  "id": "USACO_528",
+  "title": "Cow Hopscotch (Bronze)",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=528"
+ },
+ {
+  "id": "USACO_545",
+  "title": "Moocryption",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=545"
+ },
+ {
+  "id": "USACO_546",
+  "title": "Bessie Gets Even",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=546"
+ },
+ {
+  "id": "USACO_547",
+  "title": "Trapped in the Haybales (Bronze)",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=547"
+ },
+ {
+  "id": "USACO_548",
+  "title": "Palindromic Paths (Bronze)",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=548"
+ },
+ {
+  "id": "USACO_567",
+  "title": "Fence Painting",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=567"
+ },
+ {
+  "id": "USACO_568",
+  "title": "Speeding Ticket",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=568"
+ },
+ {
+  "id": "USACO_569",
+  "title": "Contaminated Milk",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=569"
+ },
+ {
+  "id": "USACO_511",
+  "title": "Stampede",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=511"
+ },
+ {
+  "id": "USACO_512",
+  "title": "Cow Routing",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=512"
+ },
+ {
+  "id": "USACO_513",
+  "title": "Meeting Time",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=513"
+ },
+ {
+  "id": "USACO_529",
+  "title": "Censoring (Silver)",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=529"
+ },
+ {
+  "id": "USACO_530",
+  "title": "Cow Hopscotch (Silver)",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=530"
+ },
+ {
+  "id": "USACO_531",
+  "title": "Superbull",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=531"
+ },
+ {
+  "id": "USACO_549",
+  "title": "Bessie Goes Moo",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=549"
+ },
+ {
+  "id": "USACO_550",
+  "title": "Trapped in the Haybales (Silver)",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=550"
+ },
+ {
+  "id": "USACO_551",
+  "title": "Bessie's Birthday Buffet",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=551"
+ },
+ {
+  "id": "USACO_570",
+  "title": "Switching on the Lights",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=570"
+ },
+ {
+  "id": "USACO_571",
+  "title": "High Card Wins",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=571"
+ },
+ {
+  "id": "USACO_572",
+  "title": "Breed Counting",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=572"
+ },
+ {
+  "id": "USACO_514",
+  "title": "Cow Rectangles",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=514"
+ },
+ {
+  "id": "USACO_515",
+  "title": "Moovie Mooving",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=515"
+ },
+ {
+  "id": "USACO_516",
+  "title": "Grass Cownoisseur",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=516"
+ },
+ {
+  "id": "USACO_532",
+  "title": "Cow Hopscotch (Gold)",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=532"
+ },
+ {
+  "id": "USACO_533",
+  "title": "Censoring (Gold)",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=533"
+ },
+ {
+  "id": "USACO_534",
+  "title": "Fencing the Herd",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=534"
+ },
+ {
+  "id": "USACO_552",
+  "title": "Googol",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=552"
+ },
+ {
+  "id": "USACO_553",
+  "title": "Palindromic Paths",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=553"
+ },
+ {
+  "id": "USACO_554",
+  "title": "Trapped in the Haybales (Gold)",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=554"
+ },
+ {
+  "id": "USACO_573",
+  "title": "High Card Low Card (Gold)",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=573"
+ },
+ {
+  "id": "USACO_574",
+  "title": "Fruit Feast",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=574"
+ },
+ {
+  "id": "USACO_575",
+  "title": "Bessie's Dream",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=575"
+ },
+ {
+  "id": "USACO_576",
+  "title": "Max Flow",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=576"
+ },
+ {
+  "id": "USACO_577",
+  "title": "High Card Low Card (Platinum)",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=577"
+ },
+ {
+  "id": "USACO_578",
+  "title": "Counting Haybales",
+  "olympiad": "USACO",
+  "year": 2015,
+  "type": "2015 December Platinum",
+  "group": "Platinum",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=578"
+ },
+ {
+  "id": "USACO_376",
+  "title": "Ski Course Design",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=376"
+ },
+ {
+  "id": "USACO_377",
+  "title": "Bessie Slows Down",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=377"
+ },
+ {
+  "id": "USACO_378",
+  "title": "Balanced Teams",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=378"
+ },
+ {
+  "id": "USACO_394",
+  "title": "Mirror Field",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=394"
+ },
+ {
+  "id": "USACO_395",
+  "title": "Auto-Complete",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=395"
+ },
+ {
+  "id": "USACO_396",
+  "title": "Secret Code",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=396"
+ },
+ {
+  "id": "USACO_412",
+  "title": "Reordering the Cows",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 March Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=412"
+ },
+ {
+  "id": "USACO_413",
+  "title": "The Lazy Cow",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 March Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=413"
+ },
+ {
+  "id": "USACO_414",
+  "title": "Cow Art",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 March Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=414"
+ },
+ {
+  "id": "USACO_430",
+  "title": "Odometer",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=430"
+ },
+ {
+  "id": "USACO_431",
+  "title": "Fair Photography",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=431"
+ },
+ {
+  "id": "USACO_432",
+  "title": "Decorating the Pastures",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=432"
+ },
+ {
+  "id": "USACO_487",
+  "title": "Marathon",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=487"
+ },
+ {
+  "id": "USACO_488",
+  "title": "Crosswords",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=488"
+ },
+ {
+  "id": "USACO_489",
+  "title": "Cow Jog",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=489"
+ },
+ {
+  "id": "USACO_490",
+  "title": "Learning by Example",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=490"
+ },
+ {
+  "id": "USACO_379",
+  "title": "Bessie Slows Down",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=379"
+ },
+ {
+  "id": "USACO_380",
+  "title": "Cross Country Skiing",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=380"
+ },
+ {
+  "id": "USACO_381",
+  "title": "Recording the Moolympics",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=381"
+ },
+ {
+  "id": "USACO_397",
+  "title": "Auto-Complete",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=397"
+ },
+ {
+  "id": "USACO_398",
+  "title": "Roadblock",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=398"
+ },
+ {
+  "id": "USACO_399",
+  "title": "Secret Code",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=399"
+ },
+ {
+  "id": "USACO_415",
+  "title": "Watering the Fields",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 March Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=415"
+ },
+ {
+  "id": "USACO_416",
+  "title": "The Lazy Cow",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 March Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=416"
+ },
+ {
+  "id": "USACO_417",
+  "title": "Mooo Moo",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 March Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=417"
+ },
+ {
+  "id": "USACO_433",
+  "title": "Fair Photography",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=433"
+ },
+ {
+  "id": "USACO_434",
+  "title": "Dueling GPSs",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=434"
+ },
+ {
+  "id": "USACO_435",
+  "title": "Odometer",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=435"
+ },
+ {
+  "id": "USACO_491",
+  "title": "Piggyback",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=491"
+ },
+ {
+  "id": "USACO_492",
+  "title": "Marathon",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=492"
+ },
+ {
+  "id": "USACO_493",
+  "title": "Cow Jog",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=493"
+ },
+ {
+  "id": "USACO_382",
+  "title": "Cow Curling",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=382"
+ },
+ {
+  "id": "USACO_383",
+  "title": "Building a Ski Course",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=383"
+ },
+ {
+  "id": "USACO_384",
+  "title": "Ski Course Rating",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=384"
+ },
+ {
+  "id": "USACO_400",
+  "title": "Roadblock",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=400"
+ },
+ {
+  "id": "USACO_401",
+  "title": "Cow Decathlon",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=401"
+ },
+ {
+  "id": "USACO_402",
+  "title": "Airplane Boarding",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=402"
+ },
+ {
+  "id": "USACO_418",
+  "title": "The Lazy Cow",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 March Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=418"
+ },
+ {
+  "id": "USACO_419",
+  "title": "Sabotage",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 March Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=419"
+ },
+ {
+  "id": "USACO_420",
+  "title": "Counting Friends",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 March Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=420"
+ },
+ {
+  "id": "USACO_436",
+  "title": "Fair Photography",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=436"
+ },
+ {
+  "id": "USACO_437",
+  "title": "Cow Optics",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=437"
+ },
+ {
+  "id": "USACO_438",
+  "title": "Code Breaking",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=438"
+ },
+ {
+  "id": "USACO_494",
+  "title": "Guard Mark",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=494"
+ },
+ {
+  "id": "USACO_495",
+  "title": "Marathon",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=495"
+ },
+ {
+  "id": "USACO_496",
+  "title": "Cow Jog",
+  "olympiad": "USACO",
+  "year": 2014,
+  "type": "2014 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=496"
+ },
+ {
+  "id": "USACO_223",
+  "title": "Mirrors",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=223"
+ },
+ {
+  "id": "USACO_224",
+  "title": "Painting the Fence",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=224"
+ },
+ {
+  "id": "USACO_225",
+  "title": "Liars and Truth Tellers",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=225"
+ },
+ {
+  "id": "USACO_241",
+  "title": "Message Relay",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=241"
+ },
+ {
+  "id": "USACO_242",
+  "title": "Cow Crossings",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=242"
+ },
+ {
+  "id": "USACO_243",
+  "title": "Perimeter",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=243"
+ },
+ {
+  "id": "USACO_259",
+  "title": "Cow Race",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 March Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=259"
+ },
+ {
+  "id": "USACO_260",
+  "title": "Breed Proximity",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 March Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=260"
+ },
+ {
+  "id": "USACO_261",
+  "title": "Breed Assignment",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 March Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=261"
+ },
+ {
+  "id": "USACO_278",
+  "title": "Bovine Ballet",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=278"
+ },
+ {
+  "id": "USACO_279",
+  "title": "Blink",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=279"
+ },
+ {
+  "id": "USACO_280",
+  "title": "Photo",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=280"
+ },
+ {
+  "id": "USACO_281",
+  "title": "Haywire",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=281"
+ },
+ {
+  "id": "USACO_340",
+  "title": "Combination Lock",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 November Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=340"
+ },
+ {
+  "id": "USACO_341",
+  "title": "Goldilocks and the N Cows",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 November Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=341"
+ },
+ {
+  "id": "USACO_342",
+  "title": "Farmer John has no Large Brown Cow",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 November Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=342"
+ },
+ {
+  "id": "USACO_358",
+  "title": "Record Keeping",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=358"
+ },
+ {
+  "id": "USACO_359",
+  "title": "Cow Baseball",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=359"
+ },
+ {
+  "id": "USACO_360",
+  "title": "Wormholes",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=360"
+ },
+ {
+  "id": "USACO_226",
+  "title": "Painting the Fence",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=226"
+ },
+ {
+  "id": "USACO_227",
+  "title": "Square Overlap",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=227"
+ },
+ {
+  "id": "USACO_228",
+  "title": "Party Invitations",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=228"
+ },
+ {
+  "id": "USACO_244",
+  "title": "Perimeter",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=244"
+ },
+ {
+  "id": "USACO_245",
+  "title": "Tractor",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=245"
+ },
+ {
+  "id": "USACO_246",
+  "title": "Milk Scheduling",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=246"
+ },
+ {
+  "id": "USACO_262",
+  "title": "Poker Hands",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 March Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=262"
+ },
+ {
+  "id": "USACO_263",
+  "title": "Farm Painting",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 March Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=263"
+ },
+ {
+  "id": "USACO_264",
+  "title": "The Cow Run",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 March Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=264"
+ },
+ {
+  "id": "USACO_282",
+  "title": "What's Up With Gravity",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=282"
+ },
+ {
+  "id": "USACO_283",
+  "title": "Fuel Economy",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=283"
+ },
+ {
+  "id": "USACO_284",
+  "title": "Luxury River Cruise",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=284"
+ },
+ {
+  "id": "USACO_343",
+  "title": "Farmer John has no Large Brown Cow",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 November Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=343"
+ },
+ {
+  "id": "USACO_344",
+  "title": "Crowded Cows",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 November Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=344"
+ },
+ {
+  "id": "USACO_345",
+  "title": "Pogo-Cow",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 November Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=345"
+ },
+ {
+  "id": "USACO_361",
+  "title": "Milk Scheduling",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=361"
+ },
+ {
+  "id": "USACO_362",
+  "title": "Vacation Planning",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=362"
+ },
+ {
+  "id": "USACO_363",
+  "title": "The Bessie Shuffle",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=363"
+ },
+ {
+  "id": "USACO_229",
+  "title": "Cow Lineup",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=229"
+ },
+ {
+  "id": "USACO_230",
+  "title": "Island Travels",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=230"
+ },
+ {
+  "id": "USACO_231",
+  "title": "Seating",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=231"
+ },
+ {
+  "id": "USACO_247",
+  "title": "Partitioning the Farm",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=247"
+ },
+ {
+  "id": "USACO_248",
+  "title": "Taxi",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=248"
+ },
+ {
+  "id": "USACO_249",
+  "title": "Route Design",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=249"
+ },
+ {
+  "id": "USACO_265",
+  "title": "The Cow Run",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 March Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=265"
+ },
+ {
+  "id": "USACO_266",
+  "title": "Hill Walk",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 March Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=266"
+ },
+ {
+  "id": "USACO_267",
+  "title": "Necklace",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 March Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=267"
+ },
+ {
+  "id": "USACO_285",
+  "title": "Photo",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=285"
+ },
+ {
+  "id": "USACO_286",
+  "title": "Yin and Yang",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=286"
+ },
+ {
+  "id": "USACO_287",
+  "title": "Figure Eight",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=287"
+ },
+ {
+  "id": "USACO_346",
+  "title": "Empty Stalls",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 November Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=346"
+ },
+ {
+  "id": "USACO_347",
+  "title": "Line of Sight",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 November Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=347"
+ },
+ {
+  "id": "USACO_348",
+  "title": "No Change",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 November Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=348"
+ },
+ {
+  "id": "USACO_364",
+  "title": "Vacation Planning (gold)",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=364"
+ },
+ {
+  "id": "USACO_365",
+  "title": "Optimal Milking",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=365"
+ },
+ {
+  "id": "USACO_366",
+  "title": "The Bessie Shuffle (gold)",
+  "olympiad": "USACO",
+  "year": 2013,
+  "type": "2013 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=366"
+ },
+ {
+  "id": "USACO_103",
+  "title": "Gifts",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=103"
+ },
+ {
+  "id": "USACO_104",
+  "title": "Haybale Stacking",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=104"
+ },
+ {
+  "id": "USACO_105",
+  "title": "Grazing Patterns",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 January Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=105"
+ },
+ {
+  "id": "USACO_112",
+  "title": "Rope Folding",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=112"
+ },
+ {
+  "id": "USACO_113",
+  "title": "Overplanting (Bronze)",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=113"
+ },
+ {
+  "id": "USACO_114",
+  "title": "Moo",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 February Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=114"
+ },
+ {
+  "id": "USACO_121",
+  "title": "Times 17",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 March Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=121"
+ },
+ {
+  "id": "USACO_122",
+  "title": "Connect the Cows",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 March Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=122"
+ },
+ {
+  "id": "USACO_123",
+  "title": "Wrong Directions",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 March Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=123"
+ },
+ {
+  "id": "USACO_130",
+  "title": "Cows in a Row",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=130"
+ },
+ {
+  "id": "USACO_131",
+  "title": "Three Lines",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=131"
+ },
+ {
+  "id": "USACO_132",
+  "title": "Islands",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=132"
+ },
+ {
+  "id": "USACO_133",
+  "title": "Unlocking Blocks",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 US Open Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=133"
+ },
+ {
+  "id": "USACO_187",
+  "title": "Find the Cow!",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 November Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=187"
+ },
+ {
+  "id": "USACO_188",
+  "title": "Typo",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 November Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=188"
+ },
+ {
+  "id": "USACO_189",
+  "title": "Horseshoes",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 November Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=189"
+ },
+ {
+  "id": "USACO_205",
+  "title": "Meet and Greet",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=205"
+ },
+ {
+  "id": "USACO_206",
+  "title": "Scrambled Letters",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=206"
+ },
+ {
+  "id": "USACO_207",
+  "title": "Crazy Fences",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=207"
+ },
+ {
+  "id": "USACO_106",
+  "title": "Delivery Route",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=106"
+ },
+ {
+  "id": "USACO_107",
+  "title": "Bale Share",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=107"
+ },
+ {
+  "id": "USACO_108",
+  "title": "Mountain Climbing",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 January Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=108"
+ },
+ {
+  "id": "USACO_115",
+  "title": "Overplanting (Silver)",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=115"
+ },
+ {
+  "id": "USACO_116",
+  "title": "Cow IDs",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=116"
+ },
+ {
+  "id": "USACO_117",
+  "title": "Relocation",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 February Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=117"
+ },
+ {
+  "id": "USACO_124",
+  "title": "Tractor",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 March Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=124"
+ },
+ {
+  "id": "USACO_125",
+  "title": "Flowerpot",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 March Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=125"
+ },
+ {
+  "id": "USACO_126",
+  "title": "Landscaping",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 March Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=126"
+ },
+ {
+  "id": "USACO_134",
+  "title": "Unlocking Blocks (Silver)",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=134"
+ },
+ {
+  "id": "USACO_135",
+  "title": "Bookshelf (Silver)",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=135"
+ },
+ {
+  "id": "USACO_136",
+  "title": "Running Laps",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 US Open Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=136"
+ },
+ {
+  "id": "USACO_190",
+  "title": "Clumsy Cows",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 November Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=190"
+ },
+ {
+  "id": "USACO_191",
+  "title": "Distant Pastures",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 November Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=191"
+ },
+ {
+  "id": "USACO_192",
+  "title": "Balanced Cow Breeds",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 November Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=192"
+ },
+ {
+  "id": "USACO_208",
+  "title": "Crazy Fences",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=208"
+ },
+ {
+  "id": "USACO_209",
+  "title": "Wifi Setup",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=209"
+ },
+ {
+  "id": "USACO_210",
+  "title": "Milk Routing",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=210"
+ },
+ {
+  "id": "USACO_109",
+  "title": "Video Game",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=109"
+ },
+ {
+  "id": "USACO_110",
+  "title": "Cow Run",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=110"
+ },
+ {
+  "id": "USACO_111",
+  "title": "Bovine Alliance",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 January Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=111"
+ },
+ {
+  "id": "USACO_118",
+  "title": "Cow Coupons",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=118"
+ },
+ {
+  "id": "USACO_119",
+  "title": "Symmetry",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=119"
+ },
+ {
+  "id": "USACO_120",
+  "title": "Nearby Cows",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 February Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=120"
+ },
+ {
+  "id": "USACO_127",
+  "title": "Large Banner",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 March Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=127"
+ },
+ {
+  "id": "USACO_128",
+  "title": "Haybale Restacking",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 March Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=128"
+ },
+ {
+  "id": "USACO_129",
+  "title": "Cows in a Skyscraper",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 March Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=129"
+ },
+ {
+  "id": "USACO_137",
+  "title": "Tied Down",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=137"
+ },
+ {
+  "id": "USACO_138",
+  "title": "Bookshelf",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=138"
+ },
+ {
+  "id": "USACO_139",
+  "title": "Balanced Cow Subsets",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 US Open Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=139"
+ },
+ {
+  "id": "USACO_193",
+  "title": "Balanced Cow Breeds",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 November Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=193"
+ },
+ {
+  "id": "USACO_194",
+  "title": "Concurrently Balanced Strings",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 November Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=194"
+ },
+ {
+  "id": "USACO_195",
+  "title": "Balanced Trees",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 November Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=195"
+ },
+ {
+  "id": "USACO_211",
+  "title": "Gangs of Instanbull/Cowstantinople",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=211"
+ },
+ {
+  "id": "USACO_212",
+  "title": "First!",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=212"
+ },
+ {
+  "id": "USACO_213",
+  "title": "Running Away From the Barn",
+  "olympiad": "USACO",
+  "year": 2012,
+  "type": "2012 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=213"
+ },
+ {
+  "id": "USACO_84",
+  "title": "Contest Timing",
+  "olympiad": "USACO",
+  "year": 2011,
+  "type": "2011 November Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=84"
+ },
+ {
+  "id": "USACO_85",
+  "title": "Awkward Digits",
+  "olympiad": "USACO",
+  "year": 2011,
+  "type": "2011 November Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=85"
+ },
+ {
+  "id": "USACO_86",
+  "title": "Moo Sick",
+  "olympiad": "USACO",
+  "year": 2011,
+  "type": "2011 November Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=86"
+ },
+ {
+  "id": "USACO_87",
+  "title": "Cow Beauty Pageant (Bronze Level)",
+  "olympiad": "USACO",
+  "year": 2011,
+  "type": "2011 November Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=87"
+ },
+ {
+  "id": "USACO_94",
+  "title": "Hay Bales",
+  "olympiad": "USACO",
+  "year": 2011,
+  "type": "2011 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=94"
+ },
+ {
+  "id": "USACO_95",
+  "title": "Cow Photography (Bronze Level)",
+  "olympiad": "USACO",
+  "year": 2011,
+  "type": "2011 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=95"
+ },
+ {
+  "id": "USACO_96",
+  "title": "Escaping the Farm",
+  "olympiad": "USACO",
+  "year": 2011,
+  "type": "2011 December Bronze",
+  "group": "Bronze",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=96"
+ },
+ {
+  "id": "USACO_88",
+  "title": "Cow Beauty Pageant (Silver Level)",
+  "olympiad": "USACO",
+  "year": 2011,
+  "type": "2011 November Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=88"
+ },
+ {
+  "id": "USACO_89",
+  "title": "Cow Lineup",
+  "olympiad": "USACO",
+  "year": 2011,
+  "type": "2011 November Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=89"
+ },
+ {
+  "id": "USACO_90",
+  "title": "Tile Exchanging",
+  "olympiad": "USACO",
+  "year": 2011,
+  "type": "2011 November Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=90"
+ },
+ {
+  "id": "USACO_97",
+  "title": "Cow Photography",
+  "olympiad": "USACO",
+  "year": 2011,
+  "type": "2011 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=97"
+ },
+ {
+  "id": "USACO_98",
+  "title": "Roadblock",
+  "olympiad": "USACO",
+  "year": 2011,
+  "type": "2011 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=98"
+ },
+ {
+  "id": "USACO_99",
+  "title": "Umbrellas for Cows",
+  "olympiad": "USACO",
+  "year": 2011,
+  "type": "2011 December Silver",
+  "group": "Silver",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=99"
+ },
+ {
+  "id": "USACO_91",
+  "title": "Above the Median",
+  "olympiad": "USACO",
+  "year": 2011,
+  "type": "2011 November Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=91"
+ },
+ {
+  "id": "USACO_92",
+  "title": "Binary Sudoku",
+  "olympiad": "USACO",
+  "year": 2011,
+  "type": "2011 November Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=92"
+ },
+ {
+  "id": "USACO_93",
+  "title": "Cow Steeplechase",
+  "olympiad": "USACO",
+  "year": 2011,
+  "type": "2011 November Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=93"
+ },
+ {
+  "id": "USACO_100",
+  "title": "Cow Photography",
+  "olympiad": "USACO",
+  "year": 2011,
+  "type": "2011 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=100"
+ },
+ {
+  "id": "USACO_101",
+  "title": "Simplifying the Farm",
+  "olympiad": "USACO",
+  "year": 2011,
+  "type": "2011 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=101"
+ },
+ {
+  "id": "USACO_102",
+  "title": "Grass Planting",
+  "olympiad": "USACO",
+  "year": 2011,
+  "type": "2011 December Gold",
+  "group": "Gold",
+  "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=102"
  }
 ]

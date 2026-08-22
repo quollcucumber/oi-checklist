@@ -17,7 +17,10 @@ const SOURCES = [
   { search: "eJOI", olympiad: "eJOI", name: "European Junior Olympiad in Informatics", re: /^eJOI(\d{2})_/ },
   { search: "COI", olympiad: "COI", name: "Croatian Olympiad in Informatics", re: /^COI(\d{2})_/ },
   { search: "COCI", olympiad: "COCI", name: "Croatian Open Competition in Informatics", re: /^COCI(\d{2})_/ },
+  { search: "EGOI", olympiad: "EGOI", name: "European Girls' Olympiad in Informatics", re: /^EGOI(\d{2})_/ },
 ];
+
+const USACO_DIVISIONS = { Bronze: 0, Silver: 1, Gold: 2, Platinum: 3 };
 
 // Codeforces mirror contests of olympiads in our dataset (contest id -> olympiad/year).
 const CF_MIRRORS = [
@@ -68,6 +71,59 @@ function yearFrom2Digit(two) {
 
 const normalize = (t) => t.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
 
+// USACO problems from the USACO Guide's metadata dump (usaco.org has no API).
+async function fetchUsaco() {
+  const data = JSON.parse(
+    await fetchText("https://raw.githubusercontent.com/cpinitiative/usaco-problems/main/problems.json")
+  );
+  const problems = [];
+  for (const p of Object.values(data)) {
+    problems.push({
+      id: `USACO_${p.id}`,
+      title: p.title.name,
+      olympiad: "USACO",
+      year: p.source.year,
+      type: p.source.sourceString,
+      group: p.source.division,
+      url: p.url,
+    });
+  }
+  console.log(`USACO: ${problems.length} problems`);
+  return problems;
+}
+
+// Chinese NOI problems from the LibreOJ archive (tag 90 = NOI).
+async function fetchCnoi() {
+  const problems = [];
+  let skip = 0;
+  let count = Infinity;
+  while (skip < count) {
+    const res = await fetch("https://api.loj.ac/api/problem/queryProblemSet", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ locale: "en_US", skipCount: skip, takeCount: 100, tagIds: [90] }),
+    });
+    const data = await res.json();
+    count = data.count;
+    for (const r of data.result) {
+      const m = r.title.match(/^[「[]NOI\s*(\d{4})[」\]]\s*(.*)$/);
+      if (!m) continue; // skip mistagged non-NOI problems
+      problems.push({
+        id: `CNOI_${r.meta.displayId}`,
+        title: m[2].trim(),
+        olympiad: "CNOI",
+        year: Number(m[1]),
+        type: "Batch",
+        url: `https://loj.ac/p/${r.meta.displayId}`,
+      });
+    }
+    skip += 100;
+    await sleep(400);
+  }
+  console.log(`CNOI: ${problems.length} problems`);
+  return problems;
+}
+
 async function main() {
   const problems = [];
   for (const src of SOURCES) {
@@ -93,6 +149,9 @@ async function main() {
     console.log(`${src.olympiad}: ${problems.filter((p) => p.olympiad === src.olympiad).length} problems`);
   }
 
+  problems.push(...(await fetchUsaco()));
+  problems.push(...(await fetchCnoi()));
+
   // Attach Codeforces problem ids by matching titles within known mirror contests.
   const cfData = await (await fetch("https://codeforces.com/api/problemset.problems")).json();
   if (cfData.status === "OK") {
@@ -108,8 +167,15 @@ async function main() {
     console.log(`CF-linked: ${problems.filter((p) => p.cf).length} problems`);
   }
 
-  problems.sort((a, b) =>
-    a.olympiad.localeCompare(b.olympiad) || b.year - a.year || a.id.localeCompare(b.id)
+  const groupRank = (p) => USACO_DIVISIONS[p.group] ?? 0;
+  const idNum = (p) => Number(p.id.match(/^(?:USACO|CNOI)_(\d+)$/)?.[1] ?? 0);
+  problems.sort(
+    (a, b) =>
+      a.olympiad.localeCompare(b.olympiad) ||
+      b.year - a.year ||
+      groupRank(a) - groupRank(b) ||
+      idNum(a) - idNum(b) ||
+      a.id.localeCompare(b.id)
   );
 
   const outPath = join(__dirname, "..", "src", "data", "problems.json");
