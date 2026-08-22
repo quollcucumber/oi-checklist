@@ -17,6 +17,22 @@ Covers **IOI**, **APIO**, **CEOI**, **Baltic OI**, **JOI**, **eJOI**, **COI**, *
   contests (e.g. CEOI 2019/2020, Baltic OI 2020) via the public Codeforces API
 - Dark mode
 - Progress is stored in `localStorage`; export/import as JSON to move between devices
+- Optional **accounts + cloud sync** via Supabase (see below): sign up with email/password and
+  your progress syncs across devices
+
+## Enabling accounts + cloud sync
+
+1. Create a free project at [supabase.com](https://supabase.com/dashboard)
+2. In the project's **SQL Editor**, run the contents of `supabase/schema.sql`
+3. Copy the **Project URL** and **anon public key** from Settings → API Keys into
+   `SUPABASE_URL` / `SUPABASE_ANON_KEY` in `src/lib/supabase.ts` (both are public by design;
+   data access is protected by Row Level Security)
+4. Optionally disable "Confirm email" under Authentication → Sign In / Up so sign-ups work
+   without email confirmation
+
+When the config is empty, the Sign in UI is hidden and the app works exactly as before
+(local-only). On sign-in, local and cloud progress are merged, keeping the more advanced
+status per problem.
 
 ## Development
 
