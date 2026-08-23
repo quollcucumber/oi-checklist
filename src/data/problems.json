@@ -5753,6 +5753,606 @@
   "url": "https://oj.uz/problem/view/eJOI19_xoranges"
  },
  {
+  "id": "FARIO_1663",
+  "title": "BreadCrumbs",
+  "olympiad": "FARIO",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1663/"
+ },
+ {
+  "id": "FARIO_1664",
+  "title": "Perfection",
+  "olympiad": "FARIO",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1664/"
+ },
+ {
+  "id": "FARIO_1665",
+  "title": "Hedge Maze III",
+  "olympiad": "FARIO",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1665/"
+ },
+ {
+  "id": "FARIO_1536",
+  "title": "Flooding",
+  "olympiad": "FARIO",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1536/"
+ },
+ {
+  "id": "FARIO_1537",
+  "title": "Tree Dash",
+  "olympiad": "FARIO",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1537/"
+ },
+ {
+  "id": "FARIO_1538",
+  "title": "Arrayser",
+  "olympiad": "FARIO",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1538/"
+ },
+ {
+  "id": "FARIO_1392",
+  "title": "Hedge Maze II",
+  "olympiad": "FARIO",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1392/"
+ },
+ {
+  "id": "FARIO_1393",
+  "title": "Maximum Matrix",
+  "olympiad": "FARIO",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1393/"
+ },
+ {
+  "id": "FARIO_1394",
+  "title": "Beacons",
+  "olympiad": "FARIO",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1394/"
+ },
+ {
+  "id": "FARIO_1217",
+  "title": "Hedge Maze",
+  "olympiad": "FARIO",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1217/"
+ },
+ {
+  "id": "FARIO_1218",
+  "title": "Bongi",
+  "olympiad": "FARIO",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1218/"
+ },
+ {
+  "id": "FARIO_1220",
+  "title": "Bifrost",
+  "olympiad": "FARIO",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1220/"
+ },
+ {
+  "id": "FARIO_1142",
+  "title": "Crop Circles",
+  "olympiad": "FARIO",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1142/"
+ },
+ {
+  "id": "FARIO_1144",
+  "title": "Koh-Lanta",
+  "olympiad": "FARIO",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1144/"
+ },
+ {
+  "id": "FARIO_1145",
+  "title": "Audition",
+  "olympiad": "FARIO",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1145/"
+ },
+ {
+  "id": "FARIO_1059",
+  "title": "River II",
+  "olympiad": "FARIO",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1059/"
+ },
+ {
+  "id": "FARIO_1061",
+  "title": "Telefrogs",
+  "olympiad": "FARIO",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1061/"
+ },
+ {
+  "id": "FARIO_1062",
+  "title": "Lucky Symbols",
+  "olympiad": "FARIO",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1062/"
+ },
+ {
+  "id": "FARIO_2",
+  "title": "Emergency Reinforcement",
+  "olympiad": "FARIO",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/2/"
+ },
+ {
+  "id": "FARIO_80",
+  "title": "Footwork",
+  "olympiad": "FARIO",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/80/"
+ },
+ {
+  "id": "FARIO_213",
+  "title": "Loss of Balance",
+  "olympiad": "FARIO",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/213/"
+ },
+ {
+  "id": "FARIO_38",
+  "title": "Coloured Walkway",
+  "olympiad": "FARIO",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/38/"
+ },
+ {
+  "id": "FARIO_138",
+  "title": "Nav",
+  "olympiad": "FARIO",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/138/"
+ },
+ {
+  "id": "FARIO_152",
+  "title": "Papa and Baby Frog",
+  "olympiad": "FARIO",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/152/"
+ },
+ {
+  "id": "FARIO_87",
+  "title": "Shadow Architecture",
+  "olympiad": "FARIO",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/87/"
+ },
+ {
+  "id": "FARIO_159",
+  "title": "Greed",
+  "olympiad": "FARIO",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/159/"
+ },
+ {
+  "id": "FARIO_1467",
+  "title": "Balancing Sculptures",
+  "olympiad": "FARIO",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1467/"
+ },
+ {
+  "id": "FARIO_51",
+  "title": "Pyramid Cake",
+  "olympiad": "FARIO",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/51/"
+ },
+ {
+  "id": "FARIO_198",
+  "title": "Optimal Delivery",
+  "olympiad": "FARIO",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/198/"
+ },
+ {
+  "id": "FARIO_280",
+  "title": "Pair Programming",
+  "olympiad": "FARIO",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/280/"
+ },
+ {
+  "id": "FARIO_105",
+  "title": "Hooliganism",
+  "olympiad": "FARIO",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/105/"
+ },
+ {
+  "id": "FARIO_207",
+  "title": "No Ball",
+  "olympiad": "FARIO",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/207/"
+ },
+ {
+  "id": "FARIO_1468",
+  "title": "Beacons",
+  "olympiad": "FARIO",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/1468/"
+ },
+ {
+  "id": "FARIO_231",
+  "title": "Pam-can Retires",
+  "olympiad": "FARIO",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/231/"
+ },
+ {
+  "id": "FARIO_317",
+  "title": "The Nightlight",
+  "olympiad": "FARIO",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/317/"
+ },
+ {
+  "id": "FARIO_323",
+  "title": "Frequent Flyer",
+  "olympiad": "FARIO",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/323/"
+ },
+ {
+  "id": "FARIO_120",
+  "title": "Super Maria II: Another Castle",
+  "olympiad": "FARIO",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/120/"
+ },
+ {
+  "id": "FARIO_125",
+  "title": "Network System Administration",
+  "olympiad": "FARIO",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/125/"
+ },
+ {
+  "id": "FARIO_290",
+  "title": "Connect",
+  "olympiad": "FARIO",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/290/"
+ },
+ {
+  "id": "FARIO_93",
+  "title": "Algo-Fu",
+  "olympiad": "FARIO",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/93/"
+ },
+ {
+  "id": "FARIO_155",
+  "title": "Torusia",
+  "olympiad": "FARIO",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/155/"
+ },
+ {
+  "id": "FARIO_291",
+  "title": "Super Maria",
+  "olympiad": "FARIO",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/291/"
+ },
+ {
+  "id": "FARIO_77",
+  "title": "Blackout",
+  "olympiad": "FARIO",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/77/"
+ },
+ {
+  "id": "FARIO_157",
+  "title": "Happy Feet",
+  "olympiad": "FARIO",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/157/"
+ },
+ {
+  "id": "FARIO_316",
+  "title": "Master Chef",
+  "olympiad": "FARIO",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/316/"
+ },
+ {
+  "id": "FARIO_71",
+  "title": "Life",
+  "olympiad": "FARIO",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/71/"
+ },
+ {
+  "id": "FARIO_189",
+  "title": "The Virus",
+  "olympiad": "FARIO",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/189/"
+ },
+ {
+  "id": "FARIO_292",
+  "title": "Bookshelf",
+  "olympiad": "FARIO",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/292/"
+ },
+ {
+  "id": "FARIO_305",
+  "title": "House of a Thousand Blades",
+  "olympiad": "FARIO",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/305/"
+ },
+ {
+  "id": "FARIO_116",
+  "title": "ABC",
+  "olympiad": "FARIO",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/116/"
+ },
+ {
+  "id": "FARIO_151",
+  "title": "The FARIO Incident",
+  "olympiad": "FARIO",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/151/"
+ },
+ {
+  "id": "FARIO_229",
+  "title": "Dating Site IT",
+  "olympiad": "FARIO",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/229/"
+ },
+ {
+  "id": "FARIO_313",
+  "title": "Human LCD",
+  "olympiad": "FARIO",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/313/"
+ },
+ {
+  "id": "FARIO_31",
+  "title": "Memories",
+  "olympiad": "FARIO",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/31/"
+ },
+ {
+  "id": "FARIO_169",
+  "title": "Bookshop",
+  "olympiad": "FARIO",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/169/"
+ },
+ {
+  "id": "FARIO_218",
+  "title": "Toy Factory",
+  "olympiad": "FARIO",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/218/"
+ },
+ {
+  "id": "FARIO_282",
+  "title": "Fragrance",
+  "olympiad": "FARIO",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/282/"
+ },
+ {
+  "id": "FARIO_73",
+  "title": "Leaf Blower",
+  "olympiad": "FARIO",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/73/"
+ },
+ {
+  "id": "FARIO_232",
+  "title": "Sledges",
+  "olympiad": "FARIO",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/232/"
+ },
+ {
+  "id": "FARIO_287",
+  "title": "Rock Climbing",
+  "olympiad": "FARIO",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/287/"
+ },
+ {
+  "id": "FARIO_302",
+  "title": "Graffiti",
+  "olympiad": "FARIO",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/302/"
+ },
+ {
+  "id": "FARIO_9",
+  "title": "Global Warming",
+  "olympiad": "FARIO",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/9/"
+ },
+ {
+  "id": "FARIO_46",
+  "title": "Rescue Robot",
+  "olympiad": "FARIO",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/46/"
+ },
+ {
+  "id": "FARIO_76",
+  "title": "Architecture",
+  "olympiad": "FARIO",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/76/"
+ },
+ {
+  "id": "FARIO_293",
+  "title": "Secret chamber of the Giza pyramid",
+  "olympiad": "FARIO",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/293/"
+ },
+ {
+  "id": "FARIO_206",
+  "title": "Escape from Civilisation",
+  "olympiad": "FARIO",
+  "year": 2006,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/206/"
+ },
+ {
+  "id": "FARIO_227",
+  "title": "Guards",
+  "olympiad": "FARIO",
+  "year": 2006,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/227/"
+ },
+ {
+  "id": "FARIO_235",
+  "title": "Lucky Wheels of Doom",
+  "olympiad": "FARIO",
+  "year": 2006,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/235/"
+ },
+ {
+  "id": "FARIO_275",
+  "title": "Belts",
+  "olympiad": "FARIO",
+  "year": 2006,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/275/"
+ },
+ {
+  "id": "FARIO_19",
+  "title": "Mobile Construction Set",
+  "olympiad": "FARIO",
+  "year": 2005,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/19/"
+ },
+ {
+  "id": "FARIO_35",
+  "title": "Monkey Tour",
+  "olympiad": "FARIO",
+  "year": 2005,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/35/"
+ },
+ {
+  "id": "FARIO_208",
+  "title": "River",
+  "olympiad": "FARIO",
+  "year": 2005,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/208/"
+ },
+ {
+  "id": "FARIO_123",
+  "title": "Chariot Race",
+  "olympiad": "FARIO",
+  "year": 2004,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/123/"
+ },
+ {
+  "id": "FARIO_148",
+  "title": "Stargazing",
+  "olympiad": "FARIO",
+  "year": 2004,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/148/"
+ },
+ {
+  "id": "FARIO_264",
+  "title": "Blue",
+  "olympiad": "FARIO",
+  "year": 2004,
+  "type": "Batch",
+  "url": "https://orac2.info/problem/264/"
+ },
+ {
   "id": "IOI26_aplusb",
   "title": "A + B Queries",
   "olympiad": "IOI",
@@ -6969,2052 +7569,4180 @@
   "url": "https://oj.uz/problem/view/IOI03_reverse"
  },
  {
-  "id": "JOI26_baker",
-  "title": "Baker",
-  "olympiad": "JOI",
+  "id": "IZhO19_lyuboyn",
+  "title": "\"The Lyuboyn\" code ",
+  "olympiad": "IZhO",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO19_lyuboyn"
+ },
+ {
+  "id": "IZhO19_segments",
+  "title": "Bigger segments",
+  "olympiad": "IZhO",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO19_segments"
+ },
+ {
+  "id": "IZhO19_sortbooks",
+  "title": "Hedgehog Daniyar and Algorithms",
+  "olympiad": "IZhO",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO19_sortbooks"
+ },
+ {
+  "id": "IZhO19_stones",
+  "title": "Red-blue table",
+  "olympiad": "IZhO",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO19_stones"
+ },
+ {
+  "id": "IZhO19_xoractive",
+  "title": "Xoractive",
+  "olympiad": "IZhO",
+  "year": 2019,
+  "type": "Interactive",
+  "url": "https://oj.uz/problem/view/IZhO19_xoractive"
+ },
+ {
+  "id": "IZhO19_xorsum",
+  "title": "Intergalactic ship",
+  "olympiad": "IZhO",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO19_xorsum"
+ },
+ {
+  "id": "IZhO18_chessboard",
+  "title": "Chessboard",
+  "olympiad": "IZhO",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO18_chessboard"
+ },
+ {
+  "id": "IZhO18_nicegift",
+  "title": "Gift",
+  "olympiad": "IZhO",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO18_nicegift"
+ },
+ {
+  "id": "IZhO18_plan",
+  "title": "Evacuation plan",
+  "olympiad": "IZhO",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO18_plan"
+ },
+ {
+  "id": "IZhO18_segments",
+  "title": "Segments",
+  "olympiad": "IZhO",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO18_segments"
+ },
+ {
+  "id": "IZhO18_sequence",
+  "title": "Nice sequence",
+  "olympiad": "IZhO",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO18_sequence"
+ },
+ {
+  "id": "IZhO18_treearray",
+  "title": "Birthday gift",
+  "olympiad": "IZhO",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO18_treearray"
+ },
+ {
+  "id": "IZhO17_bomb",
+  "title": "Bomb",
+  "olympiad": "IZhO",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO17_bomb"
+ },
+ {
+  "id": "IZhO17_bootfall",
+  "title": "Bootfall",
+  "olympiad": "IZhO",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO17_bootfall"
+ },
+ {
+  "id": "IZhO17_game",
+  "title": "Simple game",
+  "olympiad": "IZhO",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO17_game"
+ },
+ {
+  "id": "IZhO17_money",
+  "title": "Money",
+  "olympiad": "IZhO",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO17_money"
+ },
+ {
+  "id": "IZhO17_road",
+  "title": "Hard route",
+  "olympiad": "IZhO",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO17_road"
+ },
+ {
+  "id": "IZhO17_subsequence",
+  "title": "Longest beautiful sequence",
+  "olympiad": "IZhO",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO17_subsequence"
+ },
+ {
+  "id": "IZhO14_bank",
+  "title": "Bank",
+  "olympiad": "IZhO",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO14_bank"
+ },
+ {
+  "id": "IZhO14_blocks",
+  "title": "K blocks",
+  "olympiad": "IZhO",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO14_blocks"
+ },
+ {
+  "id": "IZhO14_divide",
+  "title": "Divide and conquer",
+  "olympiad": "IZhO",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO14_divide"
+ },
+ {
+  "id": "IZhO14_marriage",
+  "title": "Marriage questions",
+  "olympiad": "IZhO",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO14_marriage"
+ },
+ {
+  "id": "IZhO14_shymbulak",
+  "title": "Shymbulak",
+  "olympiad": "IZhO",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO14_shymbulak"
+ },
+ {
+  "id": "IZhO14_ufo",
+  "title": "UFO",
+  "olympiad": "IZhO",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO14_ufo"
+ },
+ {
+  "id": "IZhO13_burrow",
+  "title": "Luxury burrow",
+  "olympiad": "IZhO",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO13_burrow"
+ },
+ {
+  "id": "IZhO13_crazy",
+  "title": "Crazy old lady",
+  "olympiad": "IZhO",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO13_crazy"
+ },
+ {
+  "id": "IZhO13_expgorl",
+  "title": "Experiments with Gorlum",
+  "olympiad": "IZhO",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO13_expgorl"
+ },
+ {
+  "id": "IZhO13_riddicks",
+  "title": "Riddick's Cube",
+  "olympiad": "IZhO",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO13_riddicks"
+ },
+ {
+  "id": "IZhO13_rowords",
+  "title": "Round words",
+  "olympiad": "IZhO",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO13_rowords"
+ },
+ {
+  "id": "IZhO13_school",
+  "title": "Schools",
+  "olympiad": "IZhO",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO13_school"
+ },
+ {
+  "id": "IZhO13_specialg",
+  "title": "Special graph",
+  "olympiad": "IZhO",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO13_specialg"
+ },
+ {
+  "id": "IZhO13_trading",
+  "title": "Trading",
+  "olympiad": "IZhO",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO13_trading"
+ },
+ {
+  "id": "IZhO12_ants",
+  "title": "Ants",
+  "olympiad": "IZhO",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO12_ants"
+ },
+ {
+  "id": "IZhO12_apple",
+  "title": "Monkey and Apple-trees",
+  "olympiad": "IZhO",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO12_apple"
+ },
+ {
+  "id": "IZhO12_beauty",
+  "title": "Beautiful row",
+  "olympiad": "IZhO",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO12_beauty"
+ },
+ {
+  "id": "IZhO12_biochips",
+  "title": "Biochips",
+  "olympiad": "IZhO",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO12_biochips"
+ },
+ {
+  "id": "IZhO12_route",
+  "title": "Mountain Trek Route",
+  "olympiad": "IZhO",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO12_route"
+ },
+ {
+  "id": "IZhO12_train",
+  "title": "New Year Train",
+  "olympiad": "IZhO",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO12_train"
+ },
+ {
+  "id": "IZhO12_xor",
+  "title": "XOR",
+  "olympiad": "IZhO",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO12_xor"
+ },
+ {
+  "id": "IZhO11_collider",
+  "title": "Collider",
+  "olympiad": "IZhO",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO11_collider"
+ },
+ {
+  "id": "IZhO11_hyper",
+  "title": "Hyper-minimum",
+  "olympiad": "IZhO",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO11_hyper"
+ },
+ {
+  "id": "IZhO11_kthpath",
+  "title": "K-th path",
+  "olympiad": "IZhO",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO11_kthpath"
+ },
+ {
+  "id": "IZhO11_oddeven",
+  "title": "Odd-even",
+  "olympiad": "IZhO",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO11_oddeven"
+ },
+ {
+  "id": "IZhO11_skyline",
+  "title": "Skyline",
+  "olympiad": "IZhO",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO11_skyline"
+ },
+ {
+  "id": "IZhO11_stones",
+  "title": "Weighting stones",
+  "olympiad": "IZhO",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO11_stones"
+ },
+ {
+  "id": "IZhO11_triangle",
+  "title": "Star triangles",
+  "olympiad": "IZhO",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO11_triangle"
+ },
+ {
+  "id": "IZhO11_turtle",
+  "title": "Energetic turtle",
+  "olympiad": "IZhO",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/IZhO11_turtle"
+ },
+ {
+  "id": "joi2026final_a",
+  "title": "伝説の団子食通 (Legendary Dango Eater)",
+  "olympiad": "JOI Final",
   "year": 2026,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI26_baker"
+  "url": "https://atcoder.jp/contests/joi2026final/tasks/joi2026final_a"
  },
  {
-  "id": "JOI26_casino",
-  "title": "Casino",
-  "olympiad": "JOI",
-  "year": 2026,
-  "type": "Interactive",
-  "url": "https://oj.uz/problem/view/JOI26_casino"
- },
- {
-  "id": "JOI26_dango",
-  "title": "Legendary Dango Eater",
-  "olympiad": "JOI",
+  "id": "joi2026final_b",
+  "title": "庭園 3 (Garden 3)",
+  "olympiad": "JOI Final",
   "year": 2026,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI26_dango"
+  "url": "https://atcoder.jp/contests/joi2026final/tasks/joi2026final_b"
  },
  {
-  "id": "JOI26_festival",
-  "title": "Festivals in JOI Kingdom 3",
-  "olympiad": "JOI",
+  "id": "joi2026final_c",
+  "title": "マルチコミュニケーション 2 (Multi Communication 2)",
+  "olympiad": "JOI Final",
   "year": 2026,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI26_festival"
+  "url": "https://atcoder.jp/contests/joi2026final/tasks/joi2026final_c"
  },
  {
-  "id": "JOI26_garden",
-  "title": "Garden 3",
-  "olympiad": "JOI",
+  "id": "joi2026final_d",
+  "title": "カジノ (Casino)",
+  "olympiad": "JOI Final",
   "year": 2026,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI26_garden"
+  "url": "https://atcoder.jp/contests/joi2026final/tasks/joi2026final_d"
  },
  {
-  "id": "JOI26_joitour",
-  "title": "JOI Tour 2",
-  "olympiad": "JOI",
+  "id": "joi2026final_e",
+  "title": "JOI ツアー 2 (JOI Tour 2)",
+  "olympiad": "JOI Final",
   "year": 2026,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI26_joitour"
+  "url": "https://atcoder.jp/contests/joi2026final/tasks/joi2026final_e"
  },
  {
-  "id": "JOI26_multi",
-  "title": "Multi Communication 2",
-  "olympiad": "JOI",
-  "year": 2026,
-  "type": "Interactive",
-  "url": "https://oj.uz/problem/view/JOI26_multi"
- },
- {
-  "id": "JOI26_rainfall",
-  "title": "Triangular Rainfall",
-  "olympiad": "JOI",
+  "id": "joi2026final_f",
+  "title": "テレポーター 2 (Teleporter 2)",
+  "olympiad": "JOI Final",
   "year": 2026,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI26_rainfall"
+  "url": "https://atcoder.jp/contests/joi2026final/tasks/joi2026final_f"
  },
  {
-  "id": "JOI26_scarecrows",
-  "title": "Scarecrows 2",
-  "olympiad": "JOI",
+  "id": "joi2026final_g",
+  "title": "三角形降雨 (Triangular Rainfall)",
+  "olympiad": "JOI Final",
   "year": 2026,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI26_scarecrows"
+  "url": "https://atcoder.jp/contests/joi2026final/tasks/joi2026final_g"
  },
  {
-  "id": "JOI26_stamps",
-  "title": "Collecting Stamps 5",
-  "olympiad": "JOI",
+  "id": "joi2026final_h",
+  "title": "かかし 2 (Scarecrows 2)",
+  "olympiad": "JOI Final",
   "year": 2026,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI26_stamps"
+  "url": "https://atcoder.jp/contests/joi2026final/tasks/joi2026final_h"
  },
  {
-  "id": "JOI26_teleporter",
-  "title": "Teleporter 2",
-  "olympiad": "JOI",
+  "id": "joi2026final_i",
+  "title": "スタンプラリー 5 (Collecting Stamps 5)",
+  "olympiad": "JOI Final",
   "year": 2026,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI26_teleporter"
+  "url": "https://atcoder.jp/contests/joi2026final/tasks/joi2026final_i"
  },
  {
-  "id": "JOI26_voltage",
-  "title": "Voltage 2",
-  "olympiad": "JOI",
+  "id": "joi2026final_j",
+  "title": "パン職人 (Baker)",
+  "olympiad": "JOI Final",
   "year": 2026,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI26_voltage"
+  "url": "https://atcoder.jp/contests/joi2026final/tasks/joi2026final_j"
  },
  {
-  "id": "JOI25_ambulance",
-  "title": "Ambulance",
-  "olympiad": "JOI",
+  "id": "joi2026final_k",
+  "title": "JOI 国のお祭り事情 3 (Festivals in JOI Kingdom 3)",
+  "olympiad": "JOI Final",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2026final/tasks/joi2026final_k"
+ },
+ {
+  "id": "joi2026final_l",
+  "title": "電圧 2 (Voltage 2)",
+  "olympiad": "JOI Final",
+  "year": 2026,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2026final/tasks/joi2026final_l"
+ },
+ {
+  "id": "joi2025ho_a",
+  "title": "色塗り (Grid Coloring)",
+  "olympiad": "JOI Final",
   "year": 2025,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI25_ambulance"
+  "url": "https://atcoder.jp/contests/joi2025ho/tasks/joi2025ho_a"
  },
  {
-  "id": "JOI25_brave3",
-  "title": "Bitaro the Brave 3",
-  "olympiad": "JOI",
+  "id": "joi2025ho_b",
+  "title": "勇者ビ太郎 2 (Bitaro the Brave 2)",
+  "olympiad": "JOI Final",
   "year": 2025,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI25_brave3"
+  "url": "https://atcoder.jp/contests/joi2025ho/tasks/joi2025ho_b"
  },
  {
-  "id": "JOI25_bubble",
-  "title": "Bubble Sort Machine",
-  "olympiad": "JOI",
+  "id": "joi2025ho_c",
+  "title": "ミ・テレフェリコ (Mi Teleférico)",
+  "olympiad": "JOI Final",
   "year": 2025,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI25_bubble"
+  "url": "https://atcoder.jp/contests/joi2025ho/tasks/joi2025ho_c"
  },
  {
-  "id": "JOI25_circuit2",
-  "title": "Circuit 2",
-  "olympiad": "JOI",
+  "id": "joi2025ho_d",
+  "title": "長いだけのネクタイ 2 (Just Long Neckties 2)",
+  "olympiad": "JOI Final",
   "year": 2025,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI25_circuit2"
+  "url": "https://atcoder.jp/contests/joi2025ho/tasks/joi2025ho_d"
  },
  {
-  "id": "JOI25_conference",
-  "title": "Conference",
-  "olympiad": "JOI",
+  "id": "joi2025ho_e",
+  "title": "郵便局 (Post Office)",
+  "olympiad": "JOI Final",
   "year": 2025,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI25_conference"
+  "url": "https://atcoder.jp/contests/joi2025ho/tasks/joi2025ho_e"
  },
  {
-  "id": "JOI25_exhibition3",
-  "title": "Exhibition 3",
-  "olympiad": "JOI",
-  "year": 2025,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI25_exhibition3"
- },
- {
-  "id": "JOI25_fortune3",
-  "title": "Fortune Telling 3",
-  "olympiad": "JOI",
-  "year": 2025,
-  "type": "Interactive",
-  "url": "https://oj.uz/problem/view/JOI25_fortune3"
- },
- {
-  "id": "JOI25_ho_t1",
-  "title": "Grid Coloring",
-  "olympiad": "JOI",
-  "year": 2025,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI25_ho_t1"
- },
- {
-  "id": "JOI25_ho_t2",
-  "title": "Bitaro the Brave 2",
-  "olympiad": "JOI",
-  "year": 2025,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI25_ho_t2"
- },
- {
-  "id": "JOI25_ho_t3",
-  "title": "Mi Teleférico",
-  "olympiad": "JOI",
-  "year": 2025,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI25_ho_t3"
- },
- {
-  "id": "JOI25_ho_t4",
-  "title": "Just Long Neckties 2",
-  "olympiad": "JOI",
-  "year": 2025,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI25_ho_t4"
- },
- {
-  "id": "JOI25_ho_t5",
-  "title": "Post Office",
-  "olympiad": "JOI",
-  "year": 2025,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI25_ho_t5"
- },
- {
-  "id": "JOI25_lottery",
-  "title": "Lottery",
-  "olympiad": "JOI",
-  "year": 2025,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI25_lottery"
- },
- {
-  "id": "JOI25_migration",
-  "title": "Migration Plan",
-  "olympiad": "JOI",
-  "year": 2025,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI25_migration"
- },
- {
-  "id": "JOI25_multi",
-  "title": "Multi Communication",
-  "olympiad": "JOI",
-  "year": 2025,
-  "type": "Output Only",
-  "url": "https://oj.uz/problem/view/JOI25_multi"
- },
- {
-  "id": "JOI25_stamps4",
-  "title": "Collecting Stamps 4",
-  "olympiad": "JOI",
-  "year": 2025,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI25_stamps4"
- },
- {
-  "id": "JOI25_telepathy",
-  "title": "Telepathy",
-  "olympiad": "JOI",
-  "year": 2025,
-  "type": "Interactive",
-  "url": "https://oj.uz/problem/view/JOI25_telepathy"
- },
- {
-  "id": "JOI25_thief",
-  "title": "Space Thief",
-  "olympiad": "JOI",
-  "year": 2025,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI25_thief"
- },
- {
-  "id": "JOI25_travel2",
-  "title": "Bitaro's Travel 2",
-  "olympiad": "JOI",
-  "year": 2025,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI25_travel2"
- },
- {
-  "id": "JOI25_uiro",
-  "title": "Uiro",
-  "olympiad": "JOI",
-  "year": 2025,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI25_uiro"
- },
- {
-  "id": "JOI24_boardgame",
-  "title": "Board Game",
-  "olympiad": "JOI",
+  "id": "joi2024ho_a",
+  "title": "室温 (Room Temperature)",
+  "olympiad": "JOI Final",
   "year": 2024,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI24_boardgame"
+  "url": "https://atcoder.jp/contests/joi2024ho/tasks/joi2024ho_a"
  },
  {
-  "id": "JOI24_collection",
-  "title": "Card Collection",
-  "olympiad": "JOI",
+  "id": "joi2024ho_b",
+  "title": "建設事業 2 (Construction Project 2)",
+  "olympiad": "JOI Final",
   "year": 2024,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI24_collection"
+  "url": "https://atcoder.jp/contests/joi2024ho/tasks/joi2024ho_b"
  },
  {
-  "id": "JOI24_escape2",
-  "title": "Escape Route 2",
-  "olympiad": "JOI",
+  "id": "joi2024ho_c",
+  "title": "マラソン大会 2 (Marathon Race 2)",
+  "olympiad": "JOI Final",
   "year": 2024,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI24_escape2"
+  "url": "https://atcoder.jp/contests/joi2024ho/tasks/joi2024ho_c"
  },
  {
-  "id": "JOI24_examination2",
-  "title": "Examination 2",
-  "olympiad": "JOI",
+  "id": "joi2024ho_d",
+  "title": "プレゼント交換 (Gift Exchange)",
+  "olympiad": "JOI Final",
   "year": 2024,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI24_examination2"
+  "url": "https://atcoder.jp/contests/joi2024ho/tasks/joi2024ho_d"
  },
  {
-  "id": "JOI24_fish3",
-  "title": "Fish 3",
-  "olympiad": "JOI",
+  "id": "joi2024ho_e",
+  "title": "道路網の整備 2 (Road Service 2)",
+  "olympiad": "JOI Final",
   "year": 2024,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI24_fish3"
+  "url": "https://atcoder.jp/contests/joi2024ho/tasks/joi2024ho_e"
  },
  {
-  "id": "JOI24_heat",
-  "title": "Heat Stroke",
-  "olympiad": "JOI",
-  "year": 2024,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI24_heat"
- },
- {
-  "id": "JOI24_ho_t1",
-  "title": "Room Temperature",
-  "olympiad": "JOI",
-  "year": 2024,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI24_ho_t1"
- },
- {
-  "id": "JOI24_ho_t2",
-  "title": "Construction Project 2",
-  "olympiad": "JOI",
-  "year": 2024,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI24_ho_t2"
- },
- {
-  "id": "JOI24_ho_t3",
-  "title": "Marathon Race 2",
-  "olympiad": "JOI",
-  "year": 2024,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI24_ho_t3"
- },
- {
-  "id": "JOI24_ho_t4",
-  "title": "Gift Exchange",
-  "olympiad": "JOI",
-  "year": 2024,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI24_ho_t4"
- },
- {
-  "id": "JOI24_ho_t5",
-  "title": "Road Service 2",
-  "olympiad": "JOI",
-  "year": 2024,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI24_ho_t5"
- },
- {
-  "id": "JOI24_island",
-  "title": "Island Hopping",
-  "olympiad": "JOI",
-  "year": 2024,
-  "type": "Interactive",
-  "url": "https://oj.uz/problem/view/JOI24_island"
- },
- {
-  "id": "JOI24_joitour",
-  "title": "JOI tour",
-  "olympiad": "JOI",
-  "year": 2024,
-  "type": "Interactive",
-  "url": "https://oj.uz/problem/view/JOI24_joitour"
- },
- {
-  "id": "JOI24_library3",
-  "title": "Library 3",
-  "olympiad": "JOI",
-  "year": 2024,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI24_library3"
- },
- {
-  "id": "JOI24_ski2",
-  "title": "Ski 2",
-  "olympiad": "JOI",
-  "year": 2024,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI24_ski2"
- },
- {
-  "id": "JOI24_spy3",
-  "title": "Spy 3",
-  "olympiad": "JOI",
-  "year": 2024,
-  "type": "Two steps",
-  "url": "https://oj.uz/problem/view/JOI24_spy3"
- },
- {
-  "id": "JOI24_tabletennis",
-  "title": "Table Tennis",
-  "olympiad": "JOI",
-  "year": 2024,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI24_tabletennis"
- },
- {
-  "id": "JOI24_tower",
-  "title": "Tower",
-  "olympiad": "JOI",
-  "year": 2024,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI24_tower"
- },
- {
-  "id": "JOI24_tricolor",
-  "title": "Tricolor Lights",
-  "olympiad": "JOI",
-  "year": 2024,
-  "type": "Two steps",
-  "url": "https://oj.uz/problem/view/JOI24_tricolor"
- },
- {
-  "id": "JOI24_vegetables5",
-  "title": "Growing Vegetables is Fun 5",
-  "olympiad": "JOI",
-  "year": 2024,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI24_vegetables5"
- },
- {
-  "id": "JOI23_ancient2",
-  "title": "Ancient Machine 2",
-  "olympiad": "JOI",
-  "year": 2023,
-  "type": "Interactive",
-  "url": "https://oj.uz/problem/view/JOI23_ancient2"
- },
- {
-  "id": "JOI23_cell",
-  "title": "Cell Automaton",
-  "olympiad": "JOI",
+  "id": "joi2023ho_a",
+  "title": "碁石ならべ 2 (Stone Arranging 2)",
+  "olympiad": "JOI Final",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI23_cell"
+  "url": "https://atcoder.jp/contests/joi2023ho/tasks/joi2023ho_a"
  },
  {
-  "id": "JOI23_chorus",
-  "title": "Chorus",
-  "olympiad": "JOI",
+  "id": "joi2023ho_b",
+  "title": "宣伝 2 (Advertisement 2)",
+  "olympiad": "JOI Final",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI23_chorus"
+  "url": "https://atcoder.jp/contests/joi2023ho/tasks/joi2023ho_b"
  },
  {
-  "id": "JOI23_cookies",
-  "title": "Cookies",
-  "olympiad": "JOI",
+  "id": "joi2023ho_c",
+  "title": "迷路 (Maze)",
+  "olympiad": "JOI Final",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI23_cookies"
+  "url": "https://atcoder.jp/contests/joi2023ho/tasks/joi2023ho_c"
  },
  {
-  "id": "JOI23_council",
-  "title": "Council",
-  "olympiad": "JOI",
+  "id": "joi2023ho_d",
+  "title": "キャットエクササイズ (Cat Exercise)",
+  "olympiad": "JOI Final",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI23_council"
+  "url": "https://atcoder.jp/contests/joi2023ho/tasks/joi2023ho_d"
  },
  {
-  "id": "JOI23_currencies",
-  "title": "Two Currencies",
-  "olympiad": "JOI",
+  "id": "joi2023ho_e",
+  "title": "現代的な機械 (Modern Machine)",
+  "olympiad": "JOI Final",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI23_currencies"
+  "url": "https://atcoder.jp/contests/joi2023ho/tasks/joi2023ho_e"
  },
  {
-  "id": "JOI23_festival2",
-  "title": "Festivals in JOI Kingdom 2",
-  "olympiad": "JOI",
+  "id": "joi2022ho_a",
+  "title": "インターカステラー (Intercastellar)",
+  "olympiad": "JOI Final",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2022ho/tasks/joi2022ho_a"
+ },
+ {
+  "id": "joi2022ho_b",
+  "title": "自習 (Self Study)",
+  "olympiad": "JOI Final",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2022ho/tasks/joi2022ho_b"
+ },
+ {
+  "id": "joi2022ho_c",
+  "title": "選挙で勝とう (Let's Win the Election)",
+  "olympiad": "JOI Final",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2022ho/tasks/joi2022ho_c"
+ },
+ {
+  "id": "joi2022ho_d",
+  "title": "鉄道旅行 2 (Railway Trip 2)",
+  "olympiad": "JOI Final",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2022ho/tasks/joi2022ho_d"
+ },
+ {
+  "id": "joi2022ho_e",
+  "title": "砂の城 2 (Sandcastle 2)",
+  "olympiad": "JOI Final",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2022ho/tasks/joi2022ho_e"
+ },
+ {
+  "id": "joi2021ho_a",
+  "title": "とてもたのしい家庭菜園 (Growing Vegetables is Fun 4)",
+  "olympiad": "JOI Final",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2021ho/tasks/joi2021ho_a"
+ },
+ {
+  "id": "joi2021ho_b",
+  "title": "雪玉 (Snowball)",
+  "olympiad": "JOI Final",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2021ho/tasks/joi2021ho_b"
+ },
+ {
+  "id": "joi2021ho_c",
+  "title": "集合写真 (Group Photo)",
+  "olympiad": "JOI Final",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2021ho/tasks/joi2021ho_c"
+ },
+ {
+  "id": "joi2021ho_d",
+  "title": "ロボット (Robot)",
+  "olympiad": "JOI Final",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2021ho/tasks/joi2021ho_d"
+ },
+ {
+  "id": "joi2021ho_e",
+  "title": "ダンジョン 3 (Dungeon 3)",
+  "olympiad": "JOI Final",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2021ho/tasks/joi2021ho_e"
+ },
+ {
+  "id": "joi2020ho_a",
+  "title": "長いだけのネクタイ (Just Long Neckties)",
+  "olympiad": "JOI Final",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2020ho/tasks/joi2020ho_a"
+ },
+ {
+  "id": "joi2020ho_b",
+  "title": "JJOOII 2 (JJOOII 2)",
+  "olympiad": "JOI Final",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2020ho/tasks/joi2020ho_b"
+ },
+ {
+  "id": "joi2020ho_c",
+  "title": "スタンプラリー 3 (Collecting Stamps 3)",
+  "olympiad": "JOI Final",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2020ho/tasks/joi2020ho_c"
+ },
+ {
+  "id": "joi2020ho_d",
+  "title": "オリンピックバス (Olympic Bus)",
+  "olympiad": "JOI Final",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2020ho/tasks/joi2020ho_d"
+ },
+ {
+  "id": "joi2020ho_e",
+  "title": "火事 (Fire)",
+  "olympiad": "JOI Final",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2020ho/tasks/joi2020ho_e"
+ },
+ {
+  "id": "joi2019ho_a",
+  "title": "勇者ビ太郎 (Bitaro the Brave)",
+  "olympiad": "JOI Final",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2019ho/tasks/joi2019ho_a"
+ },
+ {
+  "id": "joi2019ho_b",
+  "title": "展覧会 (Exhibition)",
+  "olympiad": "JOI Final",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2019ho/tasks/joi2019ho_b"
+ },
+ {
+  "id": "joi2019ho_c",
+  "title": "たのしいたのしいたのしい家庭菜園 (Growing Vegetables is Fun 3)",
+  "olympiad": "JOI Final",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2019ho/tasks/joi2019ho_c"
+ },
+ {
+  "id": "joi2019ho_d",
+  "title": "コイン集め (Coin Collecting)",
+  "olympiad": "JOI Final",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2019ho/tasks/joi2019ho_d"
+ },
+ {
+  "id": "joi2019ho_e",
+  "title": "珍しい都市 (Unique Cities)",
+  "olympiad": "JOI Final",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2019ho/tasks/joi2019ho_e"
+ },
+ {
+  "id": "joi2018ho_a",
+  "title": "ストーブ (Stove)",
+  "olympiad": "JOI Final",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2018ho/tasks/joi2018ho_a"
+ },
+ {
+  "id": "joi2018ho_b",
+  "title": "美術展 (Art Exhibition)",
+  "olympiad": "JOI Final",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2018ho/tasks/joi2018ho_b"
+ },
+ {
+  "id": "joi2018ho_c",
+  "title": "団子職人 (Dango Maker)",
+  "olympiad": "JOI Final",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2018ho/tasks/joi2018ho_c"
+ },
+ {
+  "id": "joi2018ho_d",
+  "title": "定期券 (Commuter Pass)",
+  "olympiad": "JOI Final",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2018ho/tasks/joi2018ho_d"
+ },
+ {
+  "id": "joi2018ho_e",
+  "title": "毒蛇の脱走 (Snake Escaping)",
+  "olympiad": "JOI Final",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2018ho/tasks/joi2018ho_e"
+ },
+ {
+  "id": "joi2017ho_a",
+  "title": "フェーン現象 (Foehn Phenomena)",
+  "olympiad": "JOI Final",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2017ho/tasks/joi2017ho_a"
+ },
+ {
+  "id": "joi2017ho_b",
+  "title": "準急電車 (Semiexpress)",
+  "olympiad": "JOI Final",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2017ho/tasks/joi2017ho_b"
+ },
+ {
+  "id": "joi2017ho_c",
+  "title": "JOIOI 王国 (Kingdom of JOIOI)",
+  "olympiad": "JOI Final",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2017ho/tasks/joi2017ho_c"
+ },
+ {
+  "id": "joi2017ho_d",
+  "title": "サッカー (Soccer)",
+  "olympiad": "JOI Final",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2017ho/tasks/joi2017ho_d"
+ },
+ {
+  "id": "joi2017ho_e",
+  "title": "縄 (Rope)",
+  "olympiad": "JOI Final",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2017ho/tasks/joi2017ho_e"
+ },
+ {
+  "id": "joi2016ho_a",
+  "title": "オレンジの出荷 (Oranges)",
+  "olympiad": "JOI Final",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2016ho/tasks/joi2016ho_a"
+ },
+ {
+  "id": "joi2016ho_b",
+  "title": "スタンプラリー 2 (Collecting Stamps 2)",
+  "olympiad": "JOI Final",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2016ho/tasks/joi2016ho_b"
+ },
+ {
+  "id": "joi2016ho_c",
+  "title": "鉄道運賃 (Train Fare)",
+  "olympiad": "JOI Final",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2016ho/tasks/joi2016ho_c"
+ },
+ {
+  "id": "joi2016ho_d",
+  "title": "縄張り (Territory)",
+  "olympiad": "JOI Final",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2016ho/tasks/joi2016ho_d"
+ },
+ {
+  "id": "joi2016ho_e",
+  "title": "断層 (Geologic Fault)",
+  "olympiad": "JOI Final",
+  "year": 2016,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2016ho/tasks/joi2016ho_e"
+ },
+ {
+  "id": "joi2015ho_a",
+  "title": "鉄道旅行 (Railroad Trip)",
+  "olympiad": "JOI Final",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_a"
+ },
+ {
+  "id": "joi2015ho_b",
+  "title": "ケーキの切り分け２ (Cake 2)",
+  "olympiad": "JOI Final",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_b"
+ },
+ {
+  "id": "joi2015ho_c",
+  "title": "JOI 公園 (JOI Park)",
+  "olympiad": "JOI Final",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_c"
+ },
+ {
+  "id": "joi2015ho_d",
+  "title": "舞踏会 (Ball)",
+  "olympiad": "JOI Final",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_d"
+ },
+ {
+  "id": "joi2015ho_e",
+  "title": "城壁 (Rampart)",
+  "olympiad": "JOI Final",
+  "year": 2015,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_e"
+ },
+ {
+  "id": "joi2014ho1",
+  "title": "JOI 紋章 (JOI Emblem)",
+  "olympiad": "JOI Final",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2014ho/tasks/joi2014ho1"
+ },
+ {
+  "id": "joi2014ho2",
+  "title": "IOI 饅頭 (IOI Manju)",
+  "olympiad": "JOI Final",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2014ho/tasks/joi2014ho2"
+ },
+ {
+  "id": "joi2014ho3",
+  "title": "バームクーヘン (Baumkuchen)",
+  "olympiad": "JOI Final",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2014ho/tasks/joi2014ho3"
+ },
+ {
+  "id": "joi2014ho4",
+  "title": "フクロモモンガ  (Sugar Glider)",
+  "olympiad": "JOI Final",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2014ho/tasks/joi2014ho4"
+ },
+ {
+  "id": "joi2014ho5",
+  "title": "切り取り線  (Cutting)",
+  "olympiad": "JOI Final",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2014ho/tasks/joi2014ho5"
+ },
+ {
+  "id": "joi2013ho1",
+  "title": "電飾 (Illumination)",
+  "olympiad": "JOI Final",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2013ho/tasks/joi2013ho1"
+ },
+ {
+  "id": "joi2013ho2",
+  "title": "IOI 列車で行こう (Take the 'IOI' train)",
+  "olympiad": "JOI Final",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2013ho/tasks/joi2013ho2"
+ },
+ {
+  "id": "joi2013ho3",
+  "title": "現代的な屋敷 (Modern Mansion)",
+  "olympiad": "JOI Final",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2013ho/tasks/joi2013ho3"
+ },
+ {
+  "id": "joi2013ho4",
+  "title": "JOIOI の塔 (Tower of JOIOI)",
+  "olympiad": "JOI Final",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2013ho/tasks/joi2013ho4"
+ },
+ {
+  "id": "joi2013ho5",
+  "title": "バブルソート (Bubble Sort)",
+  "olympiad": "JOI Final",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2013ho/tasks/joi2013ho5"
+ },
+ {
+  "id": "joi2012ho1",
+  "title": "JJOOII (JJOOII)",
+  "olympiad": "JOI Final",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2012ho/tasks/joi2012ho1"
+ },
+ {
+  "id": "joi2012ho2",
+  "title": "たのしいカードゲーム (Card Game is Fun)",
+  "olympiad": "JOI Final",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2012ho/tasks/joi2012ho2"
+ },
+ {
+  "id": "joi2012ho3",
+  "title": "夜店 (Night Market)",
+  "olympiad": "JOI Final",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2012ho/tasks/joi2012ho3"
+ },
+ {
+  "id": "joi2012ho4",
+  "title": "釘 (Nails)",
+  "olympiad": "JOI Final",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2012ho/tasks/joi2012ho4"
+ },
+ {
+  "id": "joi2012ho5",
+  "title": "JOI 国のお祭り事情 (Festivals in JOI Kingdom)",
+  "olympiad": "JOI Final",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2012ho/tasks/joi2012ho5"
+ },
+ {
+  "id": "joi2011ho1",
+  "title": "惑星探査 (Planetary Exploration)",
+  "olympiad": "JOI Final",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho1"
+ },
+ {
+  "id": "joi2011ho2",
+  "title": "古本屋 (Books)",
+  "olympiad": "JOI Final",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho2"
+ },
+ {
+  "id": "joi2011ho3",
+  "title": "JOI 国の買い物事情 (Shopping in JOI Kingdom)",
+  "olympiad": "JOI Final",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho3"
+ },
+ {
+  "id": "joi2011ho4",
+  "title": "歩くサンタクロース (Walking Santa)",
+  "olympiad": "JOI Final",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho4"
+ },
+ {
+  "id": "joi2011ho5",
+  "title": "微生物実験 (Bug Party)",
+  "olympiad": "JOI Final",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho5"
+ },
+ {
+  "id": "joi2010ho_a",
+  "title": "旅人",
+  "olympiad": "JOI Final",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_a"
+ },
+ {
+  "id": "joi2010ho_b",
+  "title": "お菓子の分割",
+  "olympiad": "JOI Final",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_b"
+ },
+ {
+  "id": "joi2010ho_c",
+  "title": "つらら",
+  "olympiad": "JOI Final",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_c"
+ },
+ {
+  "id": "joi2010ho_d",
+  "title": "博覧会",
+  "olympiad": "JOI Final",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_d"
+ },
+ {
+  "id": "joi2010ho_e",
+  "title": "ダンジョン",
+  "olympiad": "JOI Final",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_e"
+ },
+ {
+  "id": "joi2009ho_a",
+  "title": "IOIOI",
+  "olympiad": "JOI Final",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2009ho/tasks/joi2009ho_a"
+ },
+ {
+  "id": "joi2009ho_b",
+  "title": "ピザ",
+  "olympiad": "JOI Final",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2009ho/tasks/joi2009ho_b"
+ },
+ {
+  "id": "joi2009ho_c",
+  "title": "あみだくじ",
+  "olympiad": "JOI Final",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2009ho/tasks/joi2009ho_c"
+ },
+ {
+  "id": "joi2009ho_d",
+  "title": "散歩",
+  "olympiad": "JOI Final",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2009ho/tasks/joi2009ho_d"
+ },
+ {
+  "id": "joi2009ho_e",
+  "title": "認証レベル",
+  "olympiad": "JOI Final",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2009ho/tasks/joi2009ho_e"
+ },
+ {
+  "id": "joi2008ho_a",
+  "title": "碁石ならべ",
+  "olympiad": "JOI Final",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_a"
+ },
+ {
+  "id": "joi2008ho_b",
+  "title": "共通部分文字列",
+  "olympiad": "JOI Final",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_b"
+ },
+ {
+  "id": "joi2008ho_c",
+  "title": "ダーツ",
+  "olympiad": "JOI Final",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_c"
+ },
+ {
+  "id": "joi2008ho_d",
+  "title": "ぴょんぴょん川渡り",
+  "olympiad": "JOI Final",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_d"
+ },
+ {
+  "id": "joi2008ho_e",
+  "title": "ペンキの色",
+  "olympiad": "JOI Final",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_e"
+ },
+ {
+  "id": "joi2007ho_a",
+  "title": "最大の和",
+  "olympiad": "JOI Final",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2007ho/tasks/joi2007ho_a"
+ },
+ {
+  "id": "joi2007ho_b",
+  "title": "最長の階段",
+  "olympiad": "JOI Final",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2007ho/tasks/joi2007ho_b"
+ },
+ {
+  "id": "joi2007ho_c",
+  "title": "最古の遺跡",
+  "olympiad": "JOI Final",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2007ho/tasks/joi2007ho_c"
+ },
+ {
+  "id": "joi2007ho_d",
+  "title": "最悪の記者",
+  "olympiad": "JOI Final",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2007ho/tasks/joi2007ho_d"
+ },
+ {
+  "id": "joi2007ho_e",
+  "title": "最軽量のモビール",
+  "olympiad": "JOI Final",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2007ho/tasks/joi2007ho_e"
+ },
+ {
+  "id": "joi2006ho_a",
+  "title": "JOI 2006 本選 問題1",
+  "olympiad": "JOI Final",
+  "year": 2006,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2006ho/tasks/joi2006ho_a"
+ },
+ {
+  "id": "joi2006ho_b",
+  "title": "JOI 2006 本選 問題2",
+  "olympiad": "JOI Final",
+  "year": 2006,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2006ho/tasks/joi2006ho_b"
+ },
+ {
+  "id": "joi2006ho_c",
+  "title": "JOI 2006 本選 問題3",
+  "olympiad": "JOI Final",
+  "year": 2006,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2006ho/tasks/joi2006ho_c"
+ },
+ {
+  "id": "joi2006ho_d",
+  "title": "JOI 2006 本選 問題4",
+  "olympiad": "JOI Final",
+  "year": 2006,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2006ho/tasks/joi2006ho_d"
+ },
+ {
+  "id": "joi2006ho_e",
+  "title": "JOI 2006 本選 問題5",
+  "olympiad": "JOI Final",
+  "year": 2006,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joi2006ho/tasks/joi2006ho_e"
+ },
+ {
+  "id": "joiopen2025_a",
+  "title": "バブルソート機 (Bubble Sort Machine)",
+  "olympiad": "JOI Open",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joiopen2025/tasks/joiopen2025_a"
+ },
+ {
+  "id": "joiopen2025_b",
+  "title": "くじ引き (Lottery)",
+  "olympiad": "JOI Open",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joiopen2025/tasks/joiopen2025_b"
+ },
+ {
+  "id": "joiopen2025_c",
+  "title": "テレパシー (Telepathy)",
+  "olympiad": "JOI Open",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joiopen2025/tasks/joiopen2025_c"
+ },
+ {
+  "id": "joiopen2024_a",
+  "title": "試験 2 (Examination 2)",
+  "olympiad": "JOI Open",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joiopen2024/tasks/joiopen2024_a"
+ },
+ {
+  "id": "joiopen2024_b",
+  "title": "熱中症 (Heat Stroke)",
+  "olympiad": "JOI Open",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joiopen2024/tasks/joiopen2024_b"
+ },
+ {
+  "id": "joiopen2024_c",
+  "title": "図書館 3 (Library 3)",
+  "olympiad": "JOI Open",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joiopen2024/tasks/joiopen2024_c"
+ },
+ {
+  "id": "joiopen2023_a",
+  "title": "古代の機械 2 (Ancient Machine 2)",
+  "olympiad": "JOI Open",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI23_festival2"
+  "url": "https://atcoder.jp/contests/joiopen2023/tasks/joiopen2023_a"
  },
  {
-  "id": "JOI23_garden",
-  "title": "Garden",
-  "olympiad": "JOI",
+  "id": "joiopen2023_b",
+  "title": "セルオートマトン (Cell Automaton)",
+  "olympiad": "JOI Open",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI23_garden"
+  "url": "https://atcoder.jp/contests/joiopen2023/tasks/joiopen2023_b"
  },
  {
-  "id": "JOI23_guard",
-  "title": "Security Guard",
-  "olympiad": "JOI",
+  "id": "joiopen2023_c",
+  "title": "庭園 (Garden)",
+  "olympiad": "JOI Open",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI23_guard"
+  "url": "https://atcoder.jp/contests/joiopen2023/tasks/joiopen2023_c"
  },
  {
-  "id": "JOI23_ho_t1",
-  "title": "Stone Arranging 2",
-  "olympiad": "JOI",
+  "id": "joiopen2022_a",
+  "title": "シーソー (Seesaw)",
+  "olympiad": "JOI Open",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joiopen2022/tasks/joiopen2022_a"
+ },
+ {
+  "id": "joiopen2022_b",
+  "title": "キリン (Giraffes)",
+  "olympiad": "JOI Open",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joiopen2022/tasks/joiopen2022_b"
+ },
+ {
+  "id": "joiopen2022_c",
+  "title": "通学路 (School Road)",
+  "olympiad": "JOI Open",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joiopen2022/tasks/joiopen2022_c"
+ },
+ {
+  "id": "joiopen2021_a",
+  "title": "交配 (Crossing)",
+  "olympiad": "JOI Open",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joiopen2021/tasks/joiopen2021_a"
+ },
+ {
+  "id": "joiopen2021_b",
+  "title": "決算報告 (Financial Report)",
+  "olympiad": "JOI Open",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joiopen2021/tasks/joiopen2021_b"
+ },
+ {
+  "id": "joiopen2021_c",
+  "title": "モンスターゲーム (Monster Game)",
+  "olympiad": "JOI Open",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joiopen2021/tasks/joiopen2021_c"
+ },
+ {
+  "id": "joiopen2020_a",
+  "title": "家具の配置 (Furniture)",
+  "olympiad": "JOI Open",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joiopen2020/tasks/joiopen2020_a"
+ },
+ {
+  "id": "joiopen2020_b",
+  "title": "白黒の点 (Monochrome Points)",
+  "olympiad": "JOI Open",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joiopen2020/tasks/joiopen2020_b"
+ },
+ {
+  "id": "joiopen2020_c",
+  "title": "発電所 (Power Plant)",
+  "olympiad": "JOI Open",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joiopen2020/tasks/joiopen2020_c"
+ },
+ {
+  "id": "apio_code",
+  "title": "Code",
+  "olympiad": "JOI Open",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joiopen2012c/tasks/apio_code"
+ },
+ {
+  "id": "apio_jumps",
+  "title": "Jumps",
+  "olympiad": "JOI Open",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joiopen2012c/tasks/apio_jumps"
+ },
+ {
+  "id": "apio_mansion",
+  "title": "Mansion",
+  "olympiad": "JOI Open",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joiopen2012c/tasks/apio_mansion"
+ },
+ {
+  "id": "joisp2025_a",
+  "title": "展覧会 3 (Exhibition 3)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2025/tasks/joisp2025_a"
+ },
+ {
+  "id": "joisp2025_b",
+  "title": "占い 3 (Fortune Telling 3)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2025/tasks/joisp2025_b"
+ },
+ {
+  "id": "joisp2025_c",
+  "title": "ビ太郎の旅 2 (Bitaro's Travel 2)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2025/tasks/joisp2025_c"
+ },
+ {
+  "id": "joisp2025_d",
+  "title": "救急車 (Ambulance)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2025/tasks/joisp2025_d"
+ },
+ {
+  "id": "joisp2025_e",
+  "title": "スタンプラリー 4 (Collecting Stamps 4)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2025/tasks/joisp2025_e"
+ },
+ {
+  "id": "joisp2025_f",
+  "title": "宇宙怪盗 (Space Thief)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2025/tasks/joisp2025_f"
+ },
+ {
+  "id": "joisp2025_g",
+  "title": "勇者ビ太郎 3 (Bitaro the Brave 3)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2025/tasks/joisp2025_g"
+ },
+ {
+  "id": "joisp2025_h",
+  "title": "会議 (Conference)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2025/tasks/joisp2025_h"
+ },
+ {
+  "id": "joisp2025_i",
+  "title": "マルチコミュニケーション (Multi Communication)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2025/tasks/joisp2025_i"
+ },
+ {
+  "id": "joisp2025_j",
+  "title": "電子回路 2 (Circuit 2)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2025/tasks/joisp2025_j"
+ },
+ {
+  "id": "joisp2025_k",
+  "title": "移住計画 (Migration Plan)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2025/tasks/joisp2025_k"
+ },
+ {
+  "id": "joisp2025_l",
+  "title": "ういろう (Uiro)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2025/tasks/joisp2025_l"
+ },
+ {
+  "id": "joisp2024_a",
+  "title": "魚 3 (Fish 3)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2024/tasks/joisp2024_a"
+ },
+ {
+  "id": "joisp2024_b",
+  "title": "スキー 2 (Ski 2)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2024/tasks/joisp2024_b"
+ },
+ {
+  "id": "joisp2024_c",
+  "title": "スパイ 3 (Spy 3)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2024/tasks/joisp2024_c"
+ },
+ {
+  "id": "joisp2024_d",
+  "title": "ボードゲーム (Board Game)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2024/tasks/joisp2024_d"
+ },
+ {
+  "id": "joisp2024_e",
+  "title": "三色灯 (Tricolor Lights)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2024/tasks/joisp2024_e"
+ },
+ {
+  "id": "joisp2024_f",
+  "title": "とてもたのしいたのしい家庭菜園 (Growing Vegetables is Fun 5)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2024/tasks/joisp2024_f"
+ },
+ {
+  "id": "joisp2024_g",
+  "title": "カード収集 (Card Collection)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2024/tasks/joisp2024_g"
+ },
+ {
+  "id": "joisp2024_h",
+  "title": "JOI ツアー (JOI Tour)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2024/tasks/joisp2024_h"
+ },
+ {
+  "id": "joisp2024_i",
+  "title": "塔 (Tower)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2024/tasks/joisp2024_i"
+ },
+ {
+  "id": "joisp2024_j",
+  "title": "逃走経路 2 (Escape Route 2)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2024/tasks/joisp2024_j"
+ },
+ {
+  "id": "joisp2024_k",
+  "title": "島巡り (Island Hopping)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2024/tasks/joisp2024_k"
+ },
+ {
+  "id": "joisp2024_l",
+  "title": "卓球 (Table Tennis)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2024/tasks/joisp2024_l"
+ },
+ {
+  "id": "joisp2023_a",
+  "title": "ふたつの通貨 (Two Currencies)",
+  "olympiad": "JOI Spring Camp",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI23_ho_t1"
+  "url": "https://atcoder.jp/contests/joisp2023/tasks/joisp2023_a"
  },
  {
-  "id": "JOI23_ho_t2",
-  "title": "Advertisement 2",
-  "olympiad": "JOI",
+  "id": "joisp2023_b",
+  "title": "JOI 国のお祭り事情 2 (Festivals in JOI Kingdom 2)",
+  "olympiad": "JOI Spring Camp",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI23_ho_t2"
+  "url": "https://atcoder.jp/contests/joisp2023/tasks/joisp2023_b"
  },
  {
-  "id": "JOI23_ho_t3",
-  "title": "Maze",
-  "olympiad": "JOI",
+  "id": "joisp2023_c",
+  "title": "パスポート (Passport)",
+  "olympiad": "JOI Spring Camp",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI23_ho_t3"
+  "url": "https://atcoder.jp/contests/joisp2023/tasks/joisp2023_c"
  },
  {
-  "id": "JOI23_ho_t4",
-  "title": "Cat Exercise",
-  "olympiad": "JOI",
+  "id": "joisp2023_d",
+  "title": "ベルトコンベア (Belt Conveyor)",
+  "olympiad": "JOI Spring Camp",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI23_ho_t4"
+  "url": "https://atcoder.jp/contests/joisp2023/tasks/joisp2023_d"
  },
  {
-  "id": "JOI23_ho_t5",
-  "title": "Modern Machine",
-  "olympiad": "JOI",
+  "id": "joisp2023_e",
+  "title": "議会 (Council)",
+  "olympiad": "JOI Spring Camp",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI23_ho_t5"
+  "url": "https://atcoder.jp/contests/joisp2023/tasks/joisp2023_e"
  },
  {
-  "id": "JOI23_mizuyokan2",
-  "title": "Mizuyokan 2",
-  "olympiad": "JOI",
+  "id": "joisp2023_f",
+  "title": "水ようかん 2 (Mizuyokan 2)",
+  "olympiad": "JOI Spring Camp",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI23_mizuyokan2"
+  "url": "https://atcoder.jp/contests/joisp2023/tasks/joisp2023_f"
  },
  {
-  "id": "JOI23_passport",
-  "title": "Passport",
-  "olympiad": "JOI",
+  "id": "joisp2023_g",
+  "title": "ビーバーの合唱 (Chorus)",
+  "olympiad": "JOI Spring Camp",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI23_passport"
+  "url": "https://atcoder.jp/contests/joisp2023/tasks/joisp2023_g"
  },
  {
-  "id": "JOI23_tourism",
-  "title": "Tourism",
-  "olympiad": "JOI",
+  "id": "joisp2023_h",
+  "title": "クッキー (Cookies)",
+  "olympiad": "JOI Spring Camp",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI23_tourism"
+  "url": "https://atcoder.jp/contests/joisp2023/tasks/joisp2023_h"
  },
  {
-  "id": "JOI23_travel",
-  "title": "Bitaro's travel",
-  "olympiad": "JOI",
+  "id": "joisp2023_i",
+  "title": "旅行 (Tourism)",
+  "olympiad": "JOI Spring Camp",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI23_travel"
+  "url": "https://atcoder.jp/contests/joisp2023/tasks/joisp2023_i"
  },
  {
-  "id": "JOI22_copypaste3",
-  "title": "Copy and Paste 3",
-  "olympiad": "JOI",
+  "id": "joisp2023_j",
+  "title": " 最後の戦い (The Last Battle)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2023/tasks/joisp2023_j"
+ },
+ {
+  "id": "joisp2023_k",
+  "title": "警備員 (Security Guard)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2023/tasks/joisp2023_k"
+ },
+ {
+  "id": "joisp2023_l",
+  "title": "ビ太郎の旅 (Bitaro's Travel)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisp2023/tasks/joisp2023_l"
+ },
+ {
+  "id": "joisc2022_a",
+  "title": "刑務所 (Jail)",
+  "olympiad": "JOI Spring Camp",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI22_copypaste3"
+  "url": "https://atcoder.jp/contests/joisc2022/tasks/joisc2022_a"
  },
  {
-  "id": "JOI22_dango3",
-  "title": "Super Dango Maker",
-  "olympiad": "JOI",
+  "id": "joisc2022_b",
+  "title": "京都観光 (Sightseeing in Kyoto)",
+  "olympiad": "JOI Spring Camp",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI22_dango3"
+  "url": "https://atcoder.jp/contests/joisc2022/tasks/joisc2022_b"
  },
  {
-  "id": "JOI22_device2",
-  "title": "Broken Device 2",
-  "olympiad": "JOI",
-  "year": 2022,
-  "type": "Two steps",
-  "url": "https://oj.uz/problem/view/JOI22_device2"
- },
- {
-  "id": "JOI22_fish2",
-  "title": "Fish 2",
-  "olympiad": "JOI",
+  "id": "joisc2022_c",
+  "title": "スペルミス (Misspelling)",
+  "olympiad": "JOI Spring Camp",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI22_fish2"
+  "url": "https://atcoder.jp/contests/joisc2022/tasks/joisc2022_c"
  },
  {
-  "id": "JOI22_flights",
-  "title": "Flights",
-  "olympiad": "JOI",
-  "year": 2022,
-  "type": "Interactive",
-  "url": "https://oj.uz/problem/view/JOI22_flights"
- },
- {
-  "id": "JOI22_giraffes",
-  "title": "Giraffes",
-  "olympiad": "JOI",
+  "id": "joisc2022_d",
+  "title": "コピー & ペースト 3 (Copy and Paste 3)",
+  "olympiad": "JOI Spring Camp",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI22_giraffes"
+  "url": "https://atcoder.jp/contests/joisc2022/tasks/joisc2022_d"
  },
  {
-  "id": "JOI22_ho_t1",
-  "title": "Intercastellar",
-  "olympiad": "JOI",
+  "id": "joisc2022_e",
+  "title": "飛行機旅行 (Flights)",
+  "olympiad": "JOI Spring Camp",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI22_ho_t1"
+  "url": "https://atcoder.jp/contests/joisc2022/tasks/joisc2022_e"
  },
  {
-  "id": "JOI22_ho_t2",
-  "title": "Self Study",
-  "olympiad": "JOI",
+  "id": "joisc2022_f",
+  "title": "チーム戦 (Team Contest)",
+  "olympiad": "JOI Spring Camp",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI22_ho_t2"
+  "url": "https://atcoder.jp/contests/joisc2022/tasks/joisc2022_f"
  },
  {
-  "id": "JOI22_ho_t3",
-  "title": "Let's Win the Election",
-  "olympiad": "JOI",
+  "id": "joisc2022_g",
+  "title": "壊れた機器 2 (Broken Device 2)",
+  "olympiad": "JOI Spring Camp",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI22_ho_t3"
+  "url": "https://atcoder.jp/contests/joisc2022/tasks/joisc2022_g"
  },
  {
-  "id": "JOI22_ho_t4",
-  "title": "Railway Trip 2",
-  "olympiad": "JOI",
+  "id": "joisc2022_h",
+  "title": "スプリンクラー (Sprinkler)",
+  "olympiad": "JOI Spring Camp",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI22_ho_t4"
+  "url": "https://atcoder.jp/contests/joisc2022/tasks/joisc2022_h"
  },
  {
-  "id": "JOI22_ho_t5",
-  "title": "Sandcastle 2",
-  "olympiad": "JOI",
+  "id": "joisc2022_i",
+  "title": "蟻と角砂糖 (Ants and Sugar)",
+  "olympiad": "JOI Spring Camp",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI22_ho_t5"
+  "url": "https://atcoder.jp/contests/joisc2022/tasks/joisc2022_i"
  },
  {
-  "id": "JOI22_jail",
-  "title": "Jail",
-  "olympiad": "JOI",
+  "id": "joisc2022_j",
+  "title": "一流の団子職人 (Super Dango Maker)",
+  "olympiad": "JOI Spring Camp",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI22_jail"
+  "url": "https://atcoder.jp/contests/joisc2022/tasks/joisc2022_j"
  },
  {
-  "id": "JOI22_kyoto",
-  "title": "Sightseeing in Kyoto",
-  "olympiad": "JOI",
+  "id": "joisc2022_k",
+  "title": "魚 2 (Fish 2)",
+  "olympiad": "JOI Spring Camp",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI22_kyoto"
+  "url": "https://atcoder.jp/contests/joisc2022/tasks/joisc2022_k"
  },
  {
-  "id": "JOI22_misspelling",
-  "title": "Misspelling",
-  "olympiad": "JOI",
+  "id": "joisc2022_l",
+  "title": "復興事業 (Reconstruction Project)",
+  "olympiad": "JOI Spring Camp",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI22_misspelling"
+  "url": "https://atcoder.jp/contests/joisc2022/tasks/joisc2022_l"
  },
  {
-  "id": "JOI22_reconstruction",
-  "title": "Reconstruction Project",
-  "olympiad": "JOI",
-  "year": 2022,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI22_reconstruction"
- },
- {
-  "id": "JOI22_seesaw",
-  "title": "Seesaw",
-  "olympiad": "JOI",
-  "year": 2022,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI22_seesaw"
- },
- {
-  "id": "JOI22_sprinkler",
-  "title": "Sprinkler",
-  "olympiad": "JOI",
-  "year": 2022,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI22_sprinkler"
- },
- {
-  "id": "JOI22_sugar",
-  "title": "Ants and Sugar",
-  "olympiad": "JOI",
-  "year": 2022,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI22_sugar"
- },
- {
-  "id": "JOI22_team",
-  "title": "Team Contest",
-  "olympiad": "JOI",
-  "year": 2022,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI22_team"
- },
- {
-  "id": "JOI21_aerobatics",
-  "title": "Aerobatics",
-  "olympiad": "JOI",
-  "year": 2021,
-  "type": "Output Only",
-  "url": "https://oj.uz/problem/view/JOI21_aerobatics"
- },
- {
-  "id": "JOI21_ancient_machine",
-  "title": "Ancient Machine",
-  "olympiad": "JOI",
-  "year": 2021,
-  "type": "Two steps",
-  "url": "https://oj.uz/problem/view/JOI21_ancient_machine"
- },
- {
-  "id": "JOI21_bodyguard",
-  "title": "Bodyguard",
-  "olympiad": "JOI",
+  "id": "joisc2021_a1",
+  "title": "曲芸飛行 (Aerobatics)",
+  "olympiad": "JOI Spring Camp",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI21_bodyguard"
+  "url": "https://atcoder.jp/contests/joisc2021/tasks/joisc2021_a1"
  },
  {
-  "id": "JOI21_crossing",
-  "title": "Crossing",
-  "olympiad": "JOI",
+  "id": "joisc2021_a2",
+  "title": "曲芸飛行 (Aerobatics)",
+  "olympiad": "JOI Spring Camp",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI21_crossing"
+  "url": "https://atcoder.jp/contests/joisc2021/tasks/joisc2021_a2"
  },
  {
-  "id": "JOI21_escape_route",
-  "title": "Escape Route",
-  "olympiad": "JOI",
+  "id": "joisc2021_a3",
+  "title": "曲芸飛行 (Aerobatics)",
+  "olympiad": "JOI Spring Camp",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI21_escape_route"
+  "url": "https://atcoder.jp/contests/joisc2021/tasks/joisc2021_a3"
  },
  {
-  "id": "JOI21_event2",
-  "title": "Event Hopping 2",
-  "olympiad": "JOI",
+  "id": "joisc2021_a4",
+  "title": "曲芸飛行 (Aerobatics)",
+  "olympiad": "JOI Spring Camp",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI21_event2"
+  "url": "https://atcoder.jp/contests/joisc2021/tasks/joisc2021_a4"
  },
  {
-  "id": "JOI21_fever",
-  "title": "IOI Fever",
-  "olympiad": "JOI",
+  "id": "joisc2021_a5",
+  "title": "曲芸飛行 (Aerobatics)",
+  "olympiad": "JOI Spring Camp",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI21_fever"
+  "url": "https://atcoder.jp/contests/joisc2021/tasks/joisc2021_a5"
  },
  {
-  "id": "JOI21_financial",
-  "title": "Financial Report",
-  "olympiad": "JOI",
+  "id": "joisc2021_a6",
+  "title": "曲芸飛行 (Aerobatics)",
+  "olympiad": "JOI Spring Camp",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI21_financial"
+  "url": "https://atcoder.jp/contests/joisc2021/tasks/joisc2021_a6"
  },
  {
-  "id": "JOI21_foodcourt",
-  "title": "Food Court",
-  "olympiad": "JOI",
+  "id": "joisc2021_b",
+  "title": "IOI 熱の感染拡大 (IOI Fever)",
+  "olympiad": "JOI Spring Camp",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI21_foodcourt"
+  "url": "https://atcoder.jp/contests/joisc2021/tasks/joisc2021_b"
  },
  {
-  "id": "JOI21_ho_t1",
-  "title": "Growing Vegetables is Fun 4",
-  "olympiad": "JOI",
+  "id": "joisc2021_c",
+  "title": "フードコート (Foodcourt)",
+  "olympiad": "JOI Spring Camp",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI21_ho_t1"
+  "url": "https://atcoder.jp/contests/joisc2021/tasks/joisc2021_c"
  },
  {
-  "id": "JOI21_ho_t2",
-  "title": "Snowball",
-  "olympiad": "JOI",
+  "id": "joisc2021_d",
+  "title": "逃走経路 (Escape Route)",
+  "olympiad": "JOI Spring Camp",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI21_ho_t2"
+  "url": "https://atcoder.jp/contests/joisc2021/tasks/joisc2021_d"
  },
  {
-  "id": "JOI21_ho_t3",
-  "title": "Group Photo",
-  "olympiad": "JOI",
+  "id": "joisc2021_e",
+  "title": "道路の建設案 (Road Construction)",
+  "olympiad": "JOI Spring Camp",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI21_ho_t3"
+  "url": "https://atcoder.jp/contests/joisc2021/tasks/joisc2021_e"
  },
  {
-  "id": "JOI21_ho_t4",
-  "title": "Robot",
-  "olympiad": "JOI",
+  "id": "joisc2021_g",
+  "title": "買い物 (Shopping)",
+  "olympiad": "JOI Spring Camp",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI21_ho_t4"
+  "url": "https://atcoder.jp/contests/joisc2021/tasks/joisc2021_g"
  },
  {
-  "id": "JOI21_ho_t5",
-  "title": "Dungeon 3",
-  "olympiad": "JOI",
+  "id": "joisc2021_h",
+  "title": "古代の機械 (Ancient Machine)",
+  "olympiad": "JOI Spring Camp",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI21_ho_t5"
+  "url": "https://atcoder.jp/contests/joisc2021/tasks/joisc2021_h"
  },
  {
-  "id": "JOI21_meetings2",
-  "title": "Meetings 2",
-  "olympiad": "JOI",
+  "id": "joisc2021_i",
+  "title": "ボディーガード (Bodyguard)",
+  "olympiad": "JOI Spring Camp",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI21_meetings2"
+  "url": "https://atcoder.jp/contests/joisc2021/tasks/joisc2021_i"
  },
  {
-  "id": "JOI21_monster",
-  "title": "Monster Game",
-  "olympiad": "JOI",
-  "year": 2021,
-  "type": "Interactive",
-  "url": "https://oj.uz/problem/view/JOI21_monster"
- },
- {
-  "id": "JOI21_navigation2",
-  "title": "Navigation 2",
-  "olympiad": "JOI",
-  "year": 2021,
-  "type": "Interactive",
-  "url": "https://oj.uz/problem/view/JOI21_navigation2"
- },
- {
-  "id": "JOI21_road_construction",
-  "title": "Road Construction",
-  "olympiad": "JOI",
+  "id": "joisc2021_j",
+  "title": "ビーバーの会合 2 (Meetings 2)",
+  "olympiad": "JOI Spring Camp",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI21_road_construction"
+  "url": "https://atcoder.jp/contests/joisc2021/tasks/joisc2021_j"
  },
  {
-  "id": "JOI21_shopping",
-  "title": "Shopping",
-  "olympiad": "JOI",
-  "year": 2021,
-  "type": "Interactive",
-  "url": "https://oj.uz/problem/view/JOI21_shopping"
- },
- {
-  "id": "JOI21_worst_reporter4",
-  "title": "Worst Reporter 4",
-  "olympiad": "JOI",
+  "id": "joisc2021_k",
+  "title": "イベント巡り 2 (Event Hopping 2)",
+  "olympiad": "JOI Spring Camp",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI21_worst_reporter4"
+  "url": "https://atcoder.jp/contests/joisc2021/tasks/joisc2021_k"
  },
  {
-  "id": "JOI20_building4",
-  "title": "Building 4",
-  "olympiad": "JOI",
+  "id": "joisc2021_l",
+  "title": "道案内 2 (Navigation 2)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2021/tasks/joisc2021_l"
+ },
+ {
+  "id": "joisc2021_m",
+  "title": "最悪の記者 4 (Worst Reporter 4)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2021,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2021/tasks/joisc2021_m"
+ },
+ {
+  "id": "joisc2020_a",
+  "title": "ビルの飾りつけ 4 (Building 4)",
+  "olympiad": "JOI Spring Camp",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI20_building4"
+  "url": "https://atcoder.jp/contests/joisc2020/tasks/joisc2020_a"
  },
  {
-  "id": "JOI20_capital_city",
-  "title": "Capital City",
-  "olympiad": "JOI",
+  "id": "joisc2020_b",
+  "title": "美味しい美味しいハンバーグ (Hamburg Steak)",
+  "olympiad": "JOI Spring Camp",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI20_capital_city"
+  "url": "https://atcoder.jp/contests/joisc2020/tasks/joisc2020_b"
  },
  {
-  "id": "JOI20_chameleon",
-  "title": "Chameleon's Love",
-  "olympiad": "JOI",
-  "year": 2020,
-  "type": "Interactive",
-  "url": "https://oj.uz/problem/view/JOI20_chameleon"
- },
- {
-  "id": "JOI20_constellation3",
-  "title": "Constellation 3",
-  "olympiad": "JOI",
+  "id": "joisc2020_c",
+  "title": "掃除 (Sweeping)",
+  "olympiad": "JOI Spring Camp",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI20_constellation3"
+  "url": "https://atcoder.jp/contests/joisc2020/tasks/joisc2020_c"
  },
  {
-  "id": "JOI20_dango2",
-  "title": "Legendary Dango Maker",
-  "olympiad": "JOI",
-  "year": 2020,
-  "type": "Output Only",
-  "url": "https://oj.uz/problem/view/JOI20_dango2"
- },
- {
-  "id": "JOI20_furniture",
-  "title": "Furniture",
-  "olympiad": "JOI",
+  "id": "joisc2020_d",
+  "title": "カメレオンの恋 (Chameleon's Love)",
+  "olympiad": "JOI Spring Camp",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI20_furniture"
+  "url": "https://atcoder.jp/contests/joisc2020/tasks/joisc2020_d"
  },
  {
-  "id": "JOI20_hamburg",
-  "title": "Hamburg Steak",
-  "olympiad": "JOI",
+  "id": "joisc2020_e",
+  "title": "ジョイッターで友だちをつくろう (Making Friends on Joitter is Fun)",
+  "olympiad": "JOI Spring Camp",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI20_hamburg"
+  "url": "https://atcoder.jp/contests/joisc2020/tasks/joisc2020_e"
  },
  {
-  "id": "JOI20_harvest",
-  "title": "Harvest",
-  "olympiad": "JOI",
+  "id": "joisc2020_f",
+  "title": "最古の遺跡 3 (Ruins 3)",
+  "olympiad": "JOI Spring Camp",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI20_harvest"
+  "url": "https://atcoder.jp/contests/joisc2020/tasks/joisc2020_f"
  },
  {
-  "id": "JOI20_ho_t1",
-  "title": "Just Long Neckties",
-  "olympiad": "JOI",
+  "id": "joisc2020_g",
+  "title": "星座 3 (Constellation 3)",
+  "olympiad": "JOI Spring Camp",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI20_ho_t1"
+  "url": "https://atcoder.jp/contests/joisc2020/tasks/joisc2020_g"
  },
  {
-  "id": "JOI20_ho_t2",
-  "title": "JJOOII 2",
-  "olympiad": "JOI",
+  "id": "joisc2020_h",
+  "title": "収穫 (Harvest)",
+  "olympiad": "JOI Spring Camp",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI20_ho_t2"
+  "url": "https://atcoder.jp/contests/joisc2020/tasks/joisc2020_h"
  },
  {
-  "id": "JOI20_ho_t3",
-  "title": "Collecting Stamps 3",
-  "olympiad": "JOI",
+  "id": "joisc2020_i",
+  "title": "迷い猫 (Stray Cat)",
+  "olympiad": "JOI Spring Camp",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI20_ho_t3"
+  "url": "https://atcoder.jp/contests/joisc2020/tasks/joisc2020_i"
  },
  {
-  "id": "JOI20_ho_t4",
-  "title": "Olympic Bus",
-  "olympiad": "JOI",
+  "id": "joisc2020_j",
+  "title": "首都 (Capital City)",
+  "olympiad": "JOI Spring Camp",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI20_ho_t4"
+  "url": "https://atcoder.jp/contests/joisc2020/tasks/joisc2020_j"
  },
  {
-  "id": "JOI20_ho_t5",
-  "title": "Fire",
-  "olympiad": "JOI",
+  "id": "joisc2020_k",
+  "title": "伝説の団子職人 (Legendary Dango Maker)",
+  "olympiad": "JOI Spring Camp",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI20_ho_t5"
+  "url": "https://atcoder.jp/contests/joisc2020/tasks/joisc2020_k"
  },
  {
-  "id": "JOI20_joitter2",
-  "title": "Making Friends on Joitter is Fun",
-  "olympiad": "JOI",
+  "id": "joisc2020_l",
+  "title": "伝説の団子職人 (Legendary Dango Maker)",
+  "olympiad": "JOI Spring Camp",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI20_joitter2"
+  "url": "https://atcoder.jp/contests/joisc2020/tasks/joisc2020_l"
  },
  {
-  "id": "JOI20_monochrome",
-  "title": "Monochrome Points",
-  "olympiad": "JOI",
+  "id": "joisc2020_m",
+  "title": "伝説の団子職人 (Legendary Dango Maker)",
+  "olympiad": "JOI Spring Camp",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI20_monochrome"
+  "url": "https://atcoder.jp/contests/joisc2020/tasks/joisc2020_m"
  },
  {
-  "id": "JOI20_power",
-  "title": "Power Plant",
-  "olympiad": "JOI",
+  "id": "joisc2020_n",
+  "title": "伝説の団子職人 (Legendary Dango Maker)",
+  "olympiad": "JOI Spring Camp",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI20_power"
+  "url": "https://atcoder.jp/contests/joisc2020/tasks/joisc2020_n"
  },
  {
-  "id": "JOI20_ruins3",
-  "title": "Ruins 3",
-  "olympiad": "JOI",
+  "id": "joisc2020_o",
+  "title": "伝説の団子職人 (Legendary Dango Maker)",
+  "olympiad": "JOI Spring Camp",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI20_ruins3"
+  "url": "https://atcoder.jp/contests/joisc2020/tasks/joisc2020_o"
  },
  {
-  "id": "JOI20_stray",
-  "title": "Stray Cat",
-  "olympiad": "JOI",
-  "year": 2020,
-  "type": "Two steps",
-  "url": "https://oj.uz/problem/view/JOI20_stray"
- },
- {
-  "id": "JOI20_sweeping",
-  "title": "Sweeping",
-  "olympiad": "JOI",
+  "id": "joisc2020_p",
+  "title": "伝説の団子職人 (Legendary Dango Maker)",
+  "olympiad": "JOI Spring Camp",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI20_sweeping"
+  "url": "https://atcoder.jp/contests/joisc2020/tasks/joisc2020_p"
  },
  {
-  "id": "JOI20_treatment",
-  "title": "Treatment Project",
-  "olympiad": "JOI",
+  "id": "joisc2020_q",
+  "title": "治療計画 (Treatment Project)",
+  "olympiad": "JOI Spring Camp",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI20_treatment"
+  "url": "https://atcoder.jp/contests/joisc2020/tasks/joisc2020_q"
  },
  {
-  "id": "JOI19_antennas",
-  "title": "Two Antennas",
-  "olympiad": "JOI",
+  "id": "joisc2019_a",
+  "title": "試験 (Examination)",
+  "olympiad": "JOI Spring Camp",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI19_antennas"
+  "url": "https://atcoder.jp/contests/joisc2019/tasks/joisc2019_a"
  },
  {
-  "id": "JOI19_cake3",
-  "title": "Cake 3",
-  "olympiad": "JOI",
+  "id": "joisc2019_b",
+  "title": "ビーバーの会合 (Meetings)",
+  "olympiad": "JOI Spring Camp",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI19_cake3"
+  "url": "https://atcoder.jp/contests/joisc2019/tasks/joisc2019_b"
  },
  {
-  "id": "JOI19_designated_cities",
-  "title": "Designated Cities",
-  "olympiad": "JOI",
+  "id": "joisc2019_c",
+  "title": "ナン (Naan)",
+  "olympiad": "JOI Spring Camp",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI19_designated_cities"
+  "url": "https://atcoder.jp/contests/joisc2019/tasks/joisc2019_c"
  },
  {
-  "id": "JOI19_dishes",
-  "title": "Two Dishes",
-  "olympiad": "JOI",
+  "id": "joisc2019_d",
+  "title": "ふたつのアンテナ (Two Antennas)",
+  "olympiad": "JOI Spring Camp",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI19_dishes"
+  "url": "https://atcoder.jp/contests/joisc2019/tasks/joisc2019_d"
  },
  {
-  "id": "JOI19_examination",
-  "title": "Examination",
-  "olympiad": "JOI",
+  "id": "joisc2019_e",
+  "title": "ふたつの料理 (Two Dishes)",
+  "olympiad": "JOI Spring Camp",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI19_examination"
+  "url": "https://atcoder.jp/contests/joisc2019/tasks/joisc2019_e"
  },
  {
-  "id": "JOI19_ho_t1",
-  "title": "Bitaro the Brave",
-  "olympiad": "JOI",
+  "id": "joisc2019_f",
+  "title": "ふたつの交通機関 (Two Transportations) ",
+  "olympiad": "JOI Spring Camp",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI19_ho_t1"
+  "url": "https://atcoder.jp/contests/joisc2019/tasks/joisc2019_f"
  },
  {
-  "id": "JOI19_ho_t2",
-  "title": "Exhibition",
-  "olympiad": "JOI",
+  "id": "joisc2019_g",
+  "title": "指定都市 (Designated Cities)",
+  "olympiad": "JOI Spring Camp",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI19_ho_t2"
+  "url": "https://atcoder.jp/contests/joisc2019/tasks/joisc2019_g"
  },
  {
-  "id": "JOI19_ho_t3",
-  "title": "Growing Vegetable is Fun 3",
-  "olympiad": "JOI",
+  "id": "joisc2019_h",
+  "title": "ランプ (Lamps)",
+  "olympiad": "JOI Spring Camp",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI19_ho_t3"
+  "url": "https://atcoder.jp/contests/joisc2019/tasks/joisc2019_h"
  },
  {
-  "id": "JOI19_ho_t4",
-  "title": "Coin Collecting",
-  "olympiad": "JOI",
+  "id": "joisc2019_i",
+  "title": "時をかけるビ太郎 (Bitaro, who Leaps through Time)",
+  "olympiad": "JOI Spring Camp",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI19_ho_t4"
+  "url": "https://atcoder.jp/contests/joisc2019/tasks/joisc2019_i"
  },
  {
-  "id": "JOI19_ho_t5",
-  "title": "Unique Cities",
-  "olympiad": "JOI",
+  "id": "joisc2019_j",
+  "title": "ケーキの貼り合わせ (Cake 3)",
+  "olympiad": "JOI Spring Camp",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI19_ho_t5"
+  "url": "https://atcoder.jp/contests/joisc2019/tasks/joisc2019_j"
  },
  {
-  "id": "JOI19_jumps",
-  "title": "Triple Jump",
-  "olympiad": "JOI",
+  "id": "joisc2019_k",
+  "title": "合併 (Mergers)",
+  "olympiad": "JOI Spring Camp",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI19_jumps"
+  "url": "https://atcoder.jp/contests/joisc2019/tasks/joisc2019_k"
  },
  {
-  "id": "JOI19_lamps",
-  "title": "Lamps",
-  "olympiad": "JOI",
+  "id": "joisc2019_l",
+  "title": "鉱物 (Minerals)",
+  "olympiad": "JOI Spring Camp",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI19_lamps"
+  "url": "https://atcoder.jp/contests/joisc2019/tasks/joisc2019_l"
  },
  {
-  "id": "JOI19_meetings",
-  "title": "Meetings",
-  "olympiad": "JOI",
-  "year": 2019,
-  "type": "Interactive",
-  "url": "https://oj.uz/problem/view/JOI19_meetings"
- },
- {
-  "id": "JOI19_mergers",
-  "title": "Mergers",
-  "olympiad": "JOI",
-  "year": 2019,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI19_mergers"
- },
- {
-  "id": "JOI19_minerals",
-  "title": "Minerals",
-  "olympiad": "JOI",
-  "year": 2019,
-  "type": "Interactive",
-  "url": "https://oj.uz/problem/view/JOI19_minerals"
- },
- {
-  "id": "JOI19_naan",
-  "title": "Naan",
-  "olympiad": "JOI",
-  "year": 2019,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI19_naan"
- },
- {
-  "id": "JOI19_remittance",
-  "title": "Remittance",
-  "olympiad": "JOI",
-  "year": 2019,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI19_remittance"
- },
- {
-  "id": "JOI19_timeleap",
-  "title": "Bitaro, who Leaps through Time",
-  "olympiad": "JOI",
-  "year": 2019,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI19_timeleap"
- },
- {
-  "id": "JOI19_transportations",
-  "title": "Two Transportations",
-  "olympiad": "JOI",
-  "year": 2019,
-  "type": "Interactive",
-  "url": "https://oj.uz/problem/view/JOI19_transportations"
- },
- {
-  "id": "JOI19_virus",
-  "title": "Virus Experiment",
-  "olympiad": "JOI",
-  "year": 2019,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI19_virus"
- },
- {
-  "id": "JOI18_airline",
-  "title": "Airline Route Map",
-  "olympiad": "JOI",
-  "year": 2018,
-  "type": "Two steps",
-  "url": "https://oj.uz/problem/view/JOI18_airline"
- },
- {
-  "id": "JOI18_art",
-  "title": "Art Exhibition",
-  "olympiad": "JOI",
+  "id": "joisc2018_a",
+  "title": "高速道路の建設 (Construction of Highway)",
+  "olympiad": "JOI Spring Camp",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI18_art"
+  "url": "https://atcoder.jp/contests/joisc2018/tasks/joisc2018_a"
  },
  {
-  "id": "JOI18_asceticism",
-  "title": "Asceticism",
-  "olympiad": "JOI",
+  "id": "joisc2018_b",
+  "title": "柵 (Fences)",
+  "olympiad": "JOI Spring Camp",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI18_asceticism"
+  "url": "https://atcoder.jp/contests/joisc2018/tasks/joisc2018_b"
  },
  {
-  "id": "JOI18_bitaro",
-  "title": "Bitaro’s Party",
-  "olympiad": "JOI",
+  "id": "joisc2018_c",
+  "title": "テント  (Tents)",
+  "olympiad": "JOI Spring Camp",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI18_bitaro"
+  "url": "https://atcoder.jp/contests/joisc2018/tasks/joisc2018_c"
  },
  {
-  "id": "JOI18_bubblesort2",
-  "title": "Bubble Sort 2",
-  "olympiad": "JOI",
+  "id": "joisc2018_d",
+  "title": "修行 (Asceticism)",
+  "olympiad": "JOI Spring Camp",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI18_bubblesort2"
+  "url": "https://atcoder.jp/contests/joisc2018/tasks/joisc2018_d"
  },
  {
-  "id": "JOI18_candies",
-  "title": "Candies",
-  "olympiad": "JOI",
+  "id": "joisc2018_e",
+  "title": "道路網の整備 (Road Service)",
+  "olympiad": "JOI Spring Camp",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI18_candies"
+  "url": "https://atcoder.jp/contests/joisc2018/tasks/joisc2018_e"
  },
  {
-  "id": "JOI18_catdog",
-  "title": "Cats or Dogs",
-  "olympiad": "JOI",
+  "id": "joisc2018_f",
+  "title": "最悪の記者 3 (Worst Reporter 3)",
+  "olympiad": "JOI Spring Camp",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI18_catdog"
+  "url": "https://atcoder.jp/contests/joisc2018/tasks/joisc2018_f"
  },
  {
-  "id": "JOI18_collapse",
-  "title": "Collapse",
-  "olympiad": "JOI",
+  "id": "joisc2018_g",
+  "title": "航空路線図 (Airline Route Map)",
+  "olympiad": "JOI Spring Camp",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI18_collapse"
+  "url": "https://atcoder.jp/contests/joisc2018/tasks/joisc2018_g"
  },
  {
-  "id": "JOI18_commuter_pass",
-  "title": "Commuter Pass",
-  "olympiad": "JOI",
+  "id": "joisc2018_h",
+  "title": "ビ太郎のパーティー (Bitaro's Party)",
+  "olympiad": "JOI Spring Camp",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI18_commuter_pass"
+  "url": "https://atcoder.jp/contests/joisc2018/tasks/joisc2018_h"
  },
  {
-  "id": "JOI18_construction",
-  "title": "Construction of Highway",
-  "olympiad": "JOI",
+  "id": "joisc2018_i",
+  "title": "防犯ゲート (Security Gate)",
+  "olympiad": "JOI Spring Camp",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI18_construction"
+  "url": "https://atcoder.jp/contests/joisc2018/tasks/joisc2018_i"
  },
  {
-  "id": "JOI18_dango_maker",
-  "title": "Dango Maker",
-  "olympiad": "JOI",
+  "id": "joisc2018_j",
+  "title": "飴 (Candies)",
+  "olympiad": "JOI Spring Camp",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI18_dango_maker"
+  "url": "https://atcoder.jp/contests/joisc2018/tasks/joisc2018_j"
  },
  {
-  "id": "JOI18_fences",
-  "title": "Fences",
-  "olympiad": "JOI",
+  "id": "joisc2018_k",
+  "title": "図書館 (Library)",
+  "olympiad": "JOI Spring Camp",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI18_fences"
+  "url": "https://atcoder.jp/contests/joisc2018/tasks/joisc2018_k"
  },
  {
-  "id": "JOI18_library",
-  "title": "Library",
-  "olympiad": "JOI",
-  "year": 2018,
-  "type": "Interactive",
-  "url": "https://oj.uz/problem/view/JOI18_library"
- },
- {
-  "id": "JOI18_security_gate",
-  "title": "Security Gate",
-  "olympiad": "JOI",
+  "id": "joisc2018_l",
+  "title": "イノシシ (Wild Boar)",
+  "olympiad": "JOI Spring Camp",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI18_security_gate"
+  "url": "https://atcoder.jp/contests/joisc2018/tasks/joisc2018_l"
  },
  {
-  "id": "JOI18_snake_escaping",
-  "title": "Snake Escaping",
-  "olympiad": "JOI",
-  "year": 2018,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI18_snake_escaping"
- },
- {
-  "id": "JOI18_stove",
-  "title": "Stove",
-  "olympiad": "JOI",
-  "year": 2018,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI18_stove"
- },
- {
-  "id": "JOI18_tents",
-  "title": "Tents",
-  "olympiad": "JOI",
-  "year": 2018,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI18_tents"
- },
- {
-  "id": "JOI18_wild_boar",
-  "title": "Wild Boar",
-  "olympiad": "JOI",
-  "year": 2018,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI18_wild_boar"
- },
- {
-  "id": "JOI18_worst_reporter3",
-  "title": "Worst Reporter 3",
-  "olympiad": "JOI",
-  "year": 2018,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI18_worst_reporter3"
- },
- {
-  "id": "JOI18_xylophone",
-  "title": "Xylophone",
-  "olympiad": "JOI",
-  "year": 2018,
-  "type": "Interactive",
-  "url": "https://oj.uz/problem/view/JOI18_xylophone"
- },
- {
-  "id": "JOI17_abduction2",
-  "title": "Abduction 2",
-  "olympiad": "JOI",
+  "id": "joisc2017_a",
+  "title": "開拓 (Cultivation)",
+  "olympiad": "JOI Spring Camp",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI17_abduction2"
+  "url": "https://atcoder.jp/contests/joisc2017/tasks/joisc2017_a"
  },
  {
-  "id": "JOI17_amusement_park",
-  "title": "Amusement Park",
-  "olympiad": "JOI",
-  "year": 2017,
-  "type": "Two steps",
-  "url": "https://oj.uz/problem/view/JOI17_amusement_park"
- },
- {
-  "id": "JOI17_arranging_tickets",
-  "title": "Arranging Tickets",
-  "olympiad": "JOI",
+  "id": "joisc2017_b",
+  "title": "港湾設備 (Port Facility)",
+  "olympiad": "JOI Spring Camp",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI17_arranging_tickets"
+  "url": "https://atcoder.jp/contests/joisc2017/tasks/joisc2017_b"
  },
  {
-  "id": "JOI17_broken_device",
-  "title": "Broken Device",
-  "olympiad": "JOI",
-  "year": 2017,
-  "type": "Two steps",
-  "url": "https://oj.uz/problem/view/JOI17_broken_device"
- },
- {
-  "id": "JOI17_bulldozer",
-  "title": "Bulldozer",
-  "olympiad": "JOI",
+  "id": "joisc2017_c",
+  "title": "手持ち花火 (Sparklers)",
+  "olympiad": "JOI Spring Camp",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI17_bulldozer"
+  "url": "https://atcoder.jp/contests/joisc2017/tasks/joisc2017_c"
  },
  {
-  "id": "JOI17_city",
-  "title": "City",
-  "olympiad": "JOI",
-  "year": 2017,
-  "type": "Two steps",
-  "url": "https://oj.uz/problem/view/JOI17_city"
- },
- {
-  "id": "JOI17_coach",
-  "title": "Long Distance Coach",
-  "olympiad": "JOI",
+  "id": "joisc2017_d",
+  "title": "切符の手配 (Arranging Tickets)",
+  "olympiad": "JOI Spring Camp",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI17_coach"
+  "url": "https://atcoder.jp/contests/joisc2017/tasks/joisc2017_d"
  },
  {
-  "id": "JOI17_cultivation",
-  "title": "Cultivation",
-  "olympiad": "JOI",
+  "id": "joisc2017_e",
+  "title": "壊れた機器 (Broken Device)",
+  "olympiad": "JOI Spring Camp",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI17_cultivation"
+  "url": "https://atcoder.jp/contests/joisc2017/tasks/joisc2017_e"
  },
  {
-  "id": "JOI17_dragon2",
-  "title": "Dragon 2",
-  "olympiad": "JOI",
+  "id": "joisc2017_f",
+  "title": "鉄道旅行 (Railway Trip)",
+  "olympiad": "JOI Spring Camp",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI17_dragon2"
+  "url": "https://atcoder.jp/contests/joisc2017/tasks/joisc2017_f"
  },
  {
-  "id": "JOI17_foehn_phenomena",
-  "title": "Foehn Phenomena",
-  "olympiad": "JOI",
+  "id": "joisc2017_g",
+  "title": "長距離バス (Long Distance Coach)",
+  "olympiad": "JOI Spring Camp",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI17_foehn_phenomena"
+  "url": "https://atcoder.jp/contests/joisc2017/tasks/joisc2017_g"
  },
  {
-  "id": "JOI17_golf",
-  "title": "Golf",
-  "olympiad": "JOI",
+  "id": "joisc2017_h",
+  "title": "細長い屋敷 (Long Mansion)",
+  "olympiad": "JOI Spring Camp",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI17_golf"
+  "url": "https://atcoder.jp/contests/joisc2017/tasks/joisc2017_h"
  },
  {
-  "id": "JOI17_joioi",
-  "title": "The Kingdom of JOIOI",
-  "olympiad": "JOI",
+  "id": "joisc2017_i",
+  "title": "自然公園 (Natural Park)",
+  "olympiad": "JOI Spring Camp",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI17_joioi"
+  "url": "https://atcoder.jp/contests/joisc2017/tasks/joisc2017_i"
  },
  {
-  "id": "JOI17_long_mansion",
-  "title": "Long Mansion",
-  "olympiad": "JOI",
+  "id": "joisc2017_j",
+  "title": "誘拐 2 (Abduction 2)",
+  "olympiad": "JOI Spring Camp",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI17_long_mansion"
+  "url": "https://atcoder.jp/contests/joisc2017/tasks/joisc2017_j"
  },
  {
-  "id": "JOI17_park",
-  "title": "Park",
-  "olympiad": "JOI",
+  "id": "joisc2017_k",
+  "title": "都市 (City)",
+  "olympiad": "JOI Spring Camp",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI17_park"
+  "url": "https://atcoder.jp/contests/joisc2017/tasks/joisc2017_k"
  },
  {
-  "id": "JOI17_port_facility",
-  "title": "Port Facility",
-  "olympiad": "JOI",
+  "id": "joisc2017_l",
+  "title": "ドラゴン 2 (Dragon 2)",
+  "olympiad": "JOI Spring Camp",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI17_port_facility"
+  "url": "https://atcoder.jp/contests/joisc2017/tasks/joisc2017_l"
  },
  {
-  "id": "JOI17_railway_trip",
-  "title": "Railway Trip",
-  "olympiad": "JOI",
-  "year": 2017,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI17_railway_trip"
- },
- {
-  "id": "JOI17_rope",
-  "title": "Rope",
-  "olympiad": "JOI",
-  "year": 2017,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI17_rope"
- },
- {
-  "id": "JOI17_semiexpress",
-  "title": "Semiexpress",
-  "olympiad": "JOI",
-  "year": 2017,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI17_semiexpress"
- },
- {
-  "id": "JOI17_soccer",
-  "title": "Soccer",
-  "olympiad": "JOI",
-  "year": 2017,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI17_soccer"
- },
- {
-  "id": "JOI17_sparklers",
-  "title": "Sparklers",
-  "olympiad": "JOI",
-  "year": 2017,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI17_sparklers"
- },
- {
-  "id": "JOI16_dungeon2",
-  "title": "Dungeon 2",
-  "olympiad": "JOI",
+  "id": "joisc2016_a",
+  "title": "マトリョーシカ人形",
+  "olympiad": "JOI Spring Camp",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI16_dungeon2"
+  "url": "https://atcoder.jp/contests/joisc2016/tasks/joisc2016_a"
  },
  {
-  "id": "JOI16_employment",
-  "title": "Employment",
-  "olympiad": "JOI",
+  "id": "joisc2016_b",
+  "title": "神経衰弱",
+  "olympiad": "JOI Spring Camp",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI16_employment"
+  "url": "https://atcoder.jp/contests/joisc2016/tasks/joisc2016_b"
  },
  {
-  "id": "JOI16_ho_t1",
-  "title": "오렌지 출하",
-  "olympiad": "JOI",
+  "id": "joisc2016_c",
+  "title": "ソリティア",
+  "olympiad": "JOI Spring Camp",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI16_ho_t1"
+  "url": "https://atcoder.jp/contests/joisc2016/tasks/joisc2016_c"
  },
  {
-  "id": "JOI16_ho_t2",
-  "title": "스탬프 수집",
-  "olympiad": "JOI",
+  "id": "joisc2016_d",
+  "title": "雇用計画",
+  "olympiad": "JOI Spring Camp",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI16_ho_t2"
+  "url": "https://atcoder.jp/contests/joisc2016/tasks/joisc2016_d"
  },
  {
-  "id": "JOI16_ho_t3",
-  "title": "철도 요금",
-  "olympiad": "JOI",
+  "id": "joisc2016_e",
+  "title": "サンドイッチ",
+  "olympiad": "JOI Spring Camp",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI16_ho_t3"
+  "url": "https://atcoder.jp/contests/joisc2016/tasks/joisc2016_e"
  },
  {
-  "id": "JOI16_ho_t4",
-  "title": "영역",
-  "olympiad": "JOI",
+  "id": "joisc2016_f",
+  "title": "トイレ",
+  "olympiad": "JOI Spring Camp",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI16_ho_t4"
+  "url": "https://atcoder.jp/contests/joisc2016/tasks/joisc2016_f"
  },
  {
-  "id": "JOI16_ho_t5",
-  "title": "단층",
-  "olympiad": "JOI",
+  "id": "joisc2016_g",
+  "title": "ダンジョン2",
+  "olympiad": "JOI Spring Camp",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI16_ho_t5"
+  "url": "https://atcoder.jp/contests/joisc2016/tasks/joisc2016_g"
  },
  {
-  "id": "JOI16_joiris",
-  "title": "JOIRIS",
-  "olympiad": "JOI",
+  "id": "joisc2016_h",
+  "title": "回転寿司",
+  "olympiad": "JOI Spring Camp",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI16_joiris"
+  "url": "https://atcoder.jp/contests/joisc2016/tasks/joisc2016_h"
  },
  {
-  "id": "JOI16_matryoshka",
-  "title": "Matryoshka",
-  "olympiad": "JOI",
+  "id": "joisc2016_i",
+  "title": "電報",
+  "olympiad": "JOI Spring Camp",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI16_matryoshka"
+  "url": "https://atcoder.jp/contests/joisc2016/tasks/joisc2016_i"
  },
  {
-  "id": "JOI16_memory2",
-  "title": "Memory 2",
-  "olympiad": "JOI",
+  "id": "joisc2016_j",
+  "title": "危険なスケート",
+  "olympiad": "JOI Spring Camp",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI16_memory2"
+  "url": "https://atcoder.jp/contests/joisc2016/tasks/joisc2016_j"
  },
  {
-  "id": "JOI16_sandwich",
-  "title": "Sandwich",
-  "olympiad": "JOI",
+  "id": "joisc2016_k",
+  "title": "雪降る道路",
+  "olympiad": "JOI Spring Camp",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI16_sandwich"
+  "url": "https://atcoder.jp/contests/joisc2016/tasks/joisc2016_k"
  },
  {
-  "id": "JOI16_selling_rna",
-  "title": "Selling RNA Strands",
-  "olympiad": "JOI",
+  "id": "joisc2016_l",
+  "title": "最悪の記者2",
+  "olympiad": "JOI Spring Camp",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI16_selling_rna"
+  "url": "https://atcoder.jp/contests/joisc2016/tasks/joisc2016_l"
  },
  {
-  "id": "JOI16_skating",
-  "title": "Dangerous Skating",
-  "olympiad": "JOI",
-  "year": 2016,
+  "id": "joisc2015_a",
+  "title": "コピー&ペースト 2",
+  "olympiad": "JOI Spring Camp",
+  "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI16_skating"
+  "url": "https://atcoder.jp/contests/joisc2015/tasks/joisc2015_a"
  },
  {
-  "id": "JOI16_skyscraper",
-  "title": "Skyscraper",
-  "olympiad": "JOI",
-  "year": 2016,
+  "id": "joisc2015_b",
+  "title": "愉快なロゴデザイン",
+  "olympiad": "JOI Spring Camp",
+  "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI16_skyscraper"
+  "url": "https://atcoder.jp/contests/joisc2015/tasks/joisc2015_b"
  },
  {
-  "id": "JOI16_snowy",
-  "title": "Snowy Roads",
-  "olympiad": "JOI",
-  "year": 2016,
-  "type": "Two steps",
-  "url": "https://oj.uz/problem/view/JOI16_snowy"
- },
- {
-  "id": "JOI16_solitaire",
-  "title": "Solitaire",
-  "olympiad": "JOI",
-  "year": 2016,
+  "id": "joisc2015_c",
+  "title": "たのしいたのしい家庭菜園",
+  "olympiad": "JOI Spring Camp",
+  "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI16_solitaire"
+  "url": "https://atcoder.jp/contests/joisc2015/tasks/joisc2015_c"
  },
  {
-  "id": "JOI16_sushi",
-  "title": "Sushi",
-  "olympiad": "JOI",
-  "year": 2016,
+  "id": "joisc2015_d",
+  "title": "IOIOI カード占い",
+  "olympiad": "JOI Spring Camp",
+  "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI16_sushi"
+  "url": "https://atcoder.jp/contests/joisc2015/tasks/joisc2015_d"
  },
  {
-  "id": "JOI16_telegraph",
-  "title": "Telegraph",
-  "olympiad": "JOI",
-  "year": 2016,
+  "id": "joisc2015_e",
+  "title": "ビルの飾りつけ 3",
+  "olympiad": "JOI Spring Camp",
+  "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI16_telegraph"
+  "url": "https://atcoder.jp/contests/joisc2015/tasks/joisc2015_e"
  },
  {
-  "id": "JOI16_toilets",
-  "title": "Toilets",
-  "olympiad": "JOI",
-  "year": 2016,
+  "id": "joisc2015_f",
+  "title": "合鍵",
+  "olympiad": "JOI Spring Camp",
+  "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI16_toilets"
+  "url": "https://atcoder.jp/contests/joisc2015/tasks/joisc2015_f"
  },
  {
-  "id": "JOI16_worst_reporter2",
-  "title": "Worst Reporter 2",
-  "olympiad": "JOI",
-  "year": 2016,
+  "id": "joisc2015_g",
+  "title": "道路整備",
+  "olympiad": "JOI Spring Camp",
+  "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI16_worst_reporter2"
+  "url": "https://atcoder.jp/contests/joisc2015/tasks/joisc2015_g"
  },
  {
-  "id": "JOI15_aaqqz",
+  "id": "joisc2015_h",
   "title": "AAQQZ",
-  "olympiad": "JOI",
+  "olympiad": "JOI Spring Camp",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI15_aaqqz"
+  "url": "https://atcoder.jp/contests/joisc2015/tasks/joisc2015_h"
  },
  {
-  "id": "JOI15_building3",
-  "title": "빌딩 장식 3",
-  "olympiad": "JOI",
+  "id": "joisc2015_i",
+  "title": "とてもたのしいカードゲーム",
+  "olympiad": "JOI Spring Camp",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI15_building3"
+  "url": "https://atcoder.jp/contests/joisc2015/tasks/joisc2015_i"
  },
  {
-  "id": "JOI15_cardgame2",
-  "title": "매우 즐거운 카드 게임",
-  "olympiad": "JOI",
+  "id": "joisc2015_j",
+  "title": "道案内",
+  "olympiad": "JOI Spring Camp",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI15_cardgame2"
+  "url": "https://atcoder.jp/contests/joisc2015/tasks/joisc2015_j"
  },
  {
-  "id": "JOI15_copypaste2",
-  "title": "복사 붙여넣기 2 ",
-  "olympiad": "JOI",
+  "id": "joisc2015_k",
+  "title": "遺産相続",
+  "olympiad": "JOI Spring Camp",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI15_copypaste2"
+  "url": "https://atcoder.jp/contests/joisc2015/tasks/joisc2015_k"
  },
  {
-  "id": "JOI15_election_campaign",
-  "title": "Election Campaign",
-  "olympiad": "JOI",
+  "id": "joisc2015_l",
+  "title": "記憶縛り",
+  "olympiad": "JOI Spring Camp",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI15_election_campaign"
+  "url": "https://atcoder.jp/contests/joisc2015/tasks/joisc2015_l"
  },
  {
-  "id": "JOI15_keys",
-  "title": "여별 열쇠",
-  "olympiad": "JOI",
+  "id": "joisc2015_m",
+  "title": "防壁",
+  "olympiad": "JOI Spring Camp",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI15_keys"
+  "url": "https://atcoder.jp/contests/joisc2015/tasks/joisc2015_m"
  },
  {
-  "id": "JOI15_memory",
-  "title": "기억 압축",
-  "olympiad": "JOI",
-  "year": 2015,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI15_memory"
- },
- {
-  "id": "JOI15_road_development",
-  "title": "도로 개발",
-  "olympiad": "JOI",
-  "year": 2015,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI15_road_development"
- },
- {
-  "id": "JOI15_sterilizing",
-  "title": "Sterilizing Spray",
-  "olympiad": "JOI",
-  "year": 2015,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI15_sterilizing"
- },
- {
-  "id": "JOI15_walls",
-  "title": "방벽",
-  "olympiad": "JOI",
-  "year": 2015,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI15_walls"
- },
- {
-  "id": "JOI14_bottle",
-  "title": "물병",
-  "olympiad": "JOI",
+  "id": "joisc2014_a",
+  "title": "バス通学",
+  "olympiad": "JOI Spring Camp",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_bottle"
+  "url": "https://atcoder.jp/contests/joisc2014/tasks/joisc2014_a"
  },
  {
-  "id": "JOI14_bus",
-  "title": "버스",
-  "olympiad": "JOI",
+  "id": "joisc2014_b",
+  "title": "たのしい家庭菜園",
+  "olympiad": "JOI Spring Camp",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_bus"
+  "url": "https://atcoder.jp/contests/joisc2014/tasks/joisc2014_b"
  },
  {
-  "id": "JOI14_constellation2",
-  "title": "별자리 2",
-  "olympiad": "JOI",
+  "id": "joisc2014_c",
+  "title": "歴史の研究",
+  "olympiad": "JOI Spring Camp",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_constellation2"
+  "url": "https://atcoder.jp/contests/joisc2014/tasks/joisc2014_c"
  },
  {
-  "id": "JOI14_factories",
-  "title": "Factories",
-  "olympiad": "JOI",
+  "id": "joisc2014_d",
+  "title": "ラーメンの食べ比べ",
+  "olympiad": "JOI Spring Camp",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_factories"
+  "url": "https://atcoder.jp/contests/joisc2014/tasks/joisc2014_d"
  },
  {
-  "id": "JOI14_fortune_telling2",
-  "title": "Fortune Telling 2",
-  "olympiad": "JOI",
+  "id": "joisc2014_e",
+  "title": "水筒",
+  "olympiad": "JOI Spring Camp",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_fortune_telling2"
+  "url": "https://atcoder.jp/contests/joisc2014/tasks/joisc2014_e"
  },
  {
-  "id": "JOI14_friends",
-  "title": "우호 조약 체결",
-  "olympiad": "JOI",
+  "id": "joisc2014_f",
+  "title": "友だちをつくろう",
+  "olympiad": "JOI Spring Camp",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_friends"
+  "url": "https://atcoder.jp/contests/joisc2014/tasks/joisc2014_f"
  },
  {
-  "id": "JOI14_growing",
-  "title": "즐거운 채소 기르기",
-  "olympiad": "JOI",
+  "id": "joisc2014_g",
+  "title": "スタンプラリー",
+  "olympiad": "JOI Spring Camp",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_growing"
+  "url": "https://atcoder.jp/contests/joisc2014/tasks/joisc2014_g"
  },
  {
-  "id": "JOI14_historical",
-  "title": "역사적 조사",
-  "olympiad": "JOI",
-  "year": 2014,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_historical"
- },
- {
-  "id": "JOI14_ho_t1",
-  "title": "JOI 문장",
-  "olympiad": "JOI",
-  "year": 2014,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_ho_t1"
- },
- {
-  "id": "JOI14_ho_t2",
-  "title": "만두",
-  "olympiad": "JOI",
-  "year": 2014,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_ho_t2"
- },
- {
-  "id": "JOI14_ho_t3",
-  "title": "도넛",
-  "olympiad": "JOI",
-  "year": 2014,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_ho_t3"
- },
- {
-  "id": "JOI14_ho_t4",
-  "title": "날다람쥐",
-  "olympiad": "JOI",
-  "year": 2014,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_ho_t4"
- },
- {
-  "id": "JOI14_ho_t5",
-  "title": "절취선",
-  "olympiad": "JOI",
-  "year": 2014,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_ho_t5"
- },
- {
-  "id": "JOI14_joioji",
+  "id": "joisc2014_h",
   "title": "JOIOJI",
-  "olympiad": "JOI",
+  "olympiad": "JOI Spring Camp",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_joioji"
+  "url": "https://atcoder.jp/contests/joisc2014/tasks/joisc2014_h"
  },
  {
-  "id": "JOI14_kanji",
-  "title": "한자 끝말잇기",
-  "olympiad": "JOI",
-  "year": 2014,
-  "type": "Two steps",
-  "url": "https://oj.uz/problem/view/JOI14_kanji"
- },
- {
-  "id": "JOI14_manju",
-  "title": "만두 팔기",
-  "olympiad": "JOI",
+  "id": "joisc2014_i",
+  "title": "かかし",
+  "olympiad": "JOI Spring Camp",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_manju"
+  "url": "https://atcoder.jp/contests/joisc2014/tasks/joisc2014_i"
  },
  {
-  "id": "JOI14_migration",
-  "title": "Project of Migration",
-  "olympiad": "JOI",
-  "year": 2014,
-  "type": "Output Only",
-  "url": "https://oj.uz/problem/view/JOI14_migration"
- },
- {
-  "id": "JOI14_pinball",
-  "title": "Pinball",
-  "olympiad": "JOI",
+  "id": "joisc2014_j",
+  "title": "電圧",
+  "olympiad": "JOI Spring Camp",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_pinball"
+  "url": "https://atcoder.jp/contests/joisc2014/tasks/joisc2014_j"
  },
  {
-  "id": "JOI14_ramen",
-  "title": "라멘",
-  "olympiad": "JOI",
+  "id": "joisc2014_k",
+  "title": "二人の星座",
+  "olympiad": "JOI Spring Camp",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_ramen"
+  "url": "https://atcoder.jp/contests/joisc2014/tasks/joisc2014_k"
  },
  {
-  "id": "JOI14_scarecrows",
-  "title": "허수아비",
-  "olympiad": "JOI",
+  "id": "joisc2014_l",
+  "title": "漢字しりとり",
+  "olympiad": "JOI Spring Camp",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_scarecrows"
+  "url": "https://atcoder.jp/contests/joisc2014/tasks/joisc2014_l"
  },
  {
-  "id": "JOI14_secret",
-  "title": "Secret",
-  "olympiad": "JOI",
+  "id": "joisc2014_m",
+  "title": "ストラップ",
+  "olympiad": "JOI Spring Camp",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_secret"
+  "url": "https://atcoder.jp/contests/joisc2014/tasks/joisc2014_m"
  },
  {
-  "id": "JOI14_space_pirate",
-  "title": "Space Pirate",
-  "olympiad": "JOI",
-  "year": 2014,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_space_pirate"
- },
- {
-  "id": "JOI14_stamps",
-  "title": "도장 모으기",
-  "olympiad": "JOI",
-  "year": 2014,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_stamps"
- },
- {
-  "id": "JOI14_straps",
-  "title": "스트랩",
-  "olympiad": "JOI",
-  "year": 2014,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_straps"
- },
- {
-  "id": "JOI14_voltage",
-  "title": "전압",
-  "olympiad": "JOI",
-  "year": 2014,
-  "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI14_voltage"
- },
- {
-  "id": "JOI13_cake",
-  "title": "케이크",
-  "olympiad": "JOI",
+  "id": "joisc2013_bustour",
+  "title": "バスの乗り継ぎ (Bus Tour)",
+  "olympiad": "JOI Spring Camp",
   "year": 2013,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI13_cake"
+  "url": "https://atcoder.jp/contests/joisc2013-day1/tasks/joisc2013_bustour"
  },
  {
-  "id": "JOI13_collecting",
-  "title": "즐거운 사진 수집",
-  "olympiad": "JOI",
+  "id": "joisc2013_cake",
+  "title": "ケーキの切り分け (Cake)",
+  "olympiad": "JOI Spring Camp",
   "year": 2013,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI13_collecting"
+  "url": "https://atcoder.jp/contests/joisc2013-day3/tasks/joisc2013_cake"
  },
  {
-  "id": "JOI13_construction",
-  "title": "도로 건설 사업",
-  "olympiad": "JOI",
+  "id": "joisc2013_collecting",
+  "title": "たのしい画像収集 (Collecting Images is Fun)",
+  "olympiad": "JOI Spring Camp",
   "year": 2013,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI13_construction"
+  "url": "https://atcoder.jp/contests/joisc2013-day1/tasks/joisc2013_collecting"
  },
  {
-  "id": "JOI13_koala",
-  "title": "코알라",
-  "olympiad": "JOI",
+  "id": "joisc2013_communication",
+  "title": "通信妨害 (Communication Jamming)",
+  "olympiad": "JOI Spring Camp",
   "year": 2013,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI13_koala"
+  "url": "https://atcoder.jp/contests/joisc2013-day1/tasks/joisc2013_communication"
  },
  {
-  "id": "JOI13_mascots",
-  "title": "마스코트",
-  "olympiad": "JOI",
+  "id": "joisc2013_construction",
+  "title": "建設事業 (Construction Project)",
+  "olympiad": "JOI Spring Camp",
   "year": 2013,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI13_mascots"
+  "url": "https://atcoder.jp/contests/joisc2013-day2/tasks/joisc2013_construction"
  },
  {
-  "id": "JOI13_mountain",
-  "title": "산악 구조대",
-  "olympiad": "JOI",
+  "id": "joisc2013_joi_poster",
+  "title": "JOIポスター (JOI Poster)",
+  "olympiad": "JOI Spring Camp",
   "year": 2013,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI13_mountain"
+  "url": "https://atcoder.jp/contests/joisc2013-day1/tasks/joisc2013_joi_poster"
  },
  {
-  "id": "JOI13_spy",
-  "title": "스파이",
-  "olympiad": "JOI",
+  "id": "joisc2013_koala",
+  "title": "コアラ (Koala)",
+  "olympiad": "JOI Spring Camp",
   "year": 2013,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI13_spy"
+  "url": "https://atcoder.jp/contests/joisc2013-day3/tasks/joisc2013_koala"
  },
  {
-  "id": "JOI13_synchronization",
-  "title": "Synchronization",
-  "olympiad": "JOI",
+  "id": "joisc2013_mascots",
+  "title": "マスコットの片付け (Mascots)",
+  "olympiad": "JOI Spring Camp",
   "year": 2013,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI13_synchronization"
+  "url": "https://atcoder.jp/contests/joisc2013-day2/tasks/joisc2013_mascots"
  },
  {
-  "id": "JOI13_watching",
-  "title": "Watching",
-  "olympiad": "JOI",
+  "id": "joisc2013_messenger",
+  "title": "メッセンジャー (Messenger)",
+  "olympiad": "JOI Spring Camp",
   "year": 2013,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI13_watching"
+  "url": "https://atcoder.jp/contests/joisc2013-day4/tasks/joisc2013_messenger"
  },
  {
-  "id": "JOI12_constellation",
-  "title": "별자리",
-  "olympiad": "JOI",
+  "id": "joisc2013_mountain",
+  "title": "山岳救助隊 (Mountain Rescue Team)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2013-day3/tasks/joisc2013_mountain"
+ },
+ {
+  "id": "joisc2013_presents",
+  "title": "プレゼント (Presents)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2013-day4/tasks/joisc2013_presents"
+ },
+ {
+  "id": "joisc2013_spaceships",
+  "title": "宇宙船 (Spaceships)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2013-day4/tasks/joisc2013_spaceships"
+ },
+ {
+  "id": "joisc2013_spy",
+  "title": "スパイ (Spy)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2013-day2/tasks/joisc2013_spy"
+ },
+ {
+  "id": "joisc2012_broadcasting1",
+  "title": "テレビ放送",
+  "olympiad": "JOI Spring Camp",
   "year": 2012,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI12_constellation"
+  "url": "https://atcoder.jp/contests/joisc2012/tasks/joisc2012_broadcasting1"
  },
  {
-  "id": "JOI12_invitation",
-  "title": "초대",
-  "olympiad": "JOI",
+  "id": "joisc2012_broadcasting2",
+  "title": "テレビ放送",
+  "olympiad": "JOI Spring Camp",
   "year": 2012,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI12_invitation"
+  "url": "https://atcoder.jp/contests/joisc2012/tasks/joisc2012_broadcasting2"
  },
  {
-  "id": "JOI12_rotate",
-  "title": "회전",
-  "olympiad": "JOI",
+  "id": "joisc2012_broadcasting3",
+  "title": "テレビ放送",
+  "olympiad": "JOI Spring Camp",
   "year": 2012,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/JOI12_rotate"
+  "url": "https://atcoder.jp/contests/joisc2012/tasks/joisc2012_broadcasting3"
+ },
+ {
+  "id": "joisc2012_broadcasting4",
+  "title": "テレビ放送",
+  "olympiad": "JOI Spring Camp",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2012/tasks/joisc2012_broadcasting4"
+ },
+ {
+  "id": "joisc2012_broadcasting5",
+  "title": "テレビ放送",
+  "olympiad": "JOI Spring Camp",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2012/tasks/joisc2012_broadcasting5"
+ },
+ {
+  "id": "joisc2012_building2",
+  "title": "ビルの飾り付け 2",
+  "olympiad": "JOI Spring Camp",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2012/tasks/joisc2012_building2"
+ },
+ {
+  "id": "joisc2012_chinese",
+  "title": "中華料理",
+  "olympiad": "JOI Spring Camp",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2012/tasks/joisc2012_chinese"
+ },
+ {
+  "id": "joisc2012_constellation",
+  "title": "星座",
+  "olympiad": "JOI Spring Camp",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2012/tasks/joisc2012_constellation"
+ },
+ {
+  "id": "joisc2012_copypaste",
+  "title": "コピー＆ペースト",
+  "olympiad": "JOI Spring Camp",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2012/tasks/joisc2012_copypaste"
+ },
+ {
+  "id": "joisc2012_fish",
+  "title": "魚",
+  "olympiad": "JOI Spring Camp",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2012/tasks/joisc2012_fish"
+ },
+ {
+  "id": "joisc2012_fortune_telling",
+  "title": "占い",
+  "olympiad": "JOI Spring Camp",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2012/tasks/joisc2012_fortune_telling"
+ },
+ {
+  "id": "joisc2012_invitation",
+  "title": "招待",
+  "olympiad": "JOI Spring Camp",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2012/tasks/joisc2012_invitation"
+ },
+ {
+  "id": "joisc2012_joi_flag",
+  "title": "日本情報オリンピック旗",
+  "olympiad": "JOI Spring Camp",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2012/tasks/joisc2012_joi_flag"
+ },
+ {
+  "id": "joisc2012_kangaroo",
+  "title": "カンガルー",
+  "olympiad": "JOI Spring Camp",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2012/tasks/joisc2012_kangaroo"
+ },
+ {
+  "id": "joisc2012_rotate",
+  "title": "回転",
+  "olympiad": "JOI Spring Camp",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2012/tasks/joisc2012_rotate"
+ },
+ {
+  "id": "joisc2012_sokoban",
+  "title": "倉庫番",
+  "olympiad": "JOI Spring Camp",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2012/tasks/joisc2012_sokoban"
+ },
+ {
+  "id": "joisc2011_apples",
+  "title": "リンゴの出荷 (Apples)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2011/tasks/joisc2011_apples"
+ },
+ {
+  "id": "joisc2011_banner",
+  "title": "横断幕 (Banner)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2011/tasks/joisc2011_banner"
+ },
+ {
+  "id": "joisc2011_bookshelf",
+  "title": "本棚 (Bookshelf)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2011/tasks/joisc2011_bookshelf"
+ },
+ {
+  "id": "joisc2011_deciphering",
+  "title": "解読 (Deciphering)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2011/tasks/joisc2011_deciphering"
+ },
+ {
+  "id": "joisc2011_dragon",
+  "title": "ドラゴン (Dragon)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2011/tasks/joisc2011_dragon"
+ },
+ {
+  "id": "joisc2011_guess",
+  "title": "数当て (Guess Them All)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2011/tasks/joisc2011_guess"
+ },
+ {
+  "id": "joisc2011_ioi",
+  "title": "国際情報オリンピック (IOI)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2011/tasks/joisc2011_ioi"
+ },
+ {
+  "id": "joisc2011_joitter",
+  "title": "ジョイッター (Joitter)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2011/tasks/joisc2011_joitter"
+ },
+ {
+  "id": "joisc2011_keycards",
+  "title": "カードキー (Keycards)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2011/tasks/joisc2011_keycards"
+ },
+ {
+  "id": "joisc2011_orienteering",
+  "title": "オリエンテーリング (Orienteering)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2011/tasks/joisc2011_orienteering"
+ },
+ {
+  "id": "joisc2011_report",
+  "title": "報告 (Report)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2011/tasks/joisc2011_report"
+ },
+ {
+  "id": "joisc2011_shiritori",
+  "title": "しりとり (Shiritori)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2011/tasks/joisc2011_shiritori"
+ },
+ {
+  "id": "joisc2011_ufo1",
+  "title": "UFOの飛行場 (UFO)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2011/tasks/joisc2011_ufo1"
+ },
+ {
+  "id": "joisc2011_ufo2",
+  "title": "UFOの飛行場 (UFO)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2011/tasks/joisc2011_ufo2"
+ },
+ {
+  "id": "joisc2011_ufo3",
+  "title": "UFOの飛行場 (UFO)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2011/tasks/joisc2011_ufo3"
+ },
+ {
+  "id": "joisc2011_ufo4",
+  "title": "UFOの飛行場 (UFO)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2011/tasks/joisc2011_ufo4"
+ },
+ {
+  "id": "joisc2011_ufo5",
+  "title": "UFOの飛行場 (UFO)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2011,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2011/tasks/joisc2011_ufo5"
+ },
+ {
+  "id": "joisc2010_aplusb",
+  "title": "足し算 (a + b problem)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2010/tasks/joisc2010_aplusb"
+ },
+ {
+  "id": "joisc2010_contest",
+  "title": "コンテスト (Contest)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2010/tasks/joisc2010_contest"
+ },
+ {
+  "id": "joisc2010_dna",
+  "title": "DNAの合成 (DNA Synthesizer)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2010/tasks/joisc2010_dna"
+ },
+ {
+  "id": "joisc2010_finals",
+  "title": "本選会場 (Finals)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2010/tasks/joisc2010_finals"
+ },
+ {
+  "id": "joisc2010_hideseek",
+  "title": "かくれんぼ (Hide-and-seek)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2010/tasks/joisc2010_hideseek"
+ },
+ {
+  "id": "joisc2010_highway",
+  "title": "高速道路 (Highway)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2010/tasks/joisc2010_highway"
+ },
+ {
+  "id": "joisc2010_lake",
+  "title": "湖 (Lake)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2010/tasks/joisc2010_lake"
+ },
+ {
+  "id": "joisc2010_plugs",
+  "title": "プラグ (Plugs)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2010/tasks/joisc2010_plugs"
+ },
+ {
+  "id": "joisc2010_poster",
+  "title": "JOIポスター (JOI Poster)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2010/tasks/joisc2010_poster"
+ },
+ {
+  "id": "joisc2010_regions",
+  "title": "地域 (Regions)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2010/tasks/joisc2010_regions"
+ },
+ {
+  "id": "joisc2010_sengoku",
+  "title": "戦国時代 (Sengoku)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2010/tasks/joisc2010_sengoku"
+ },
+ {
+  "id": "joisc2010_simroad1",
+  "title": "シムロード (SimRoad)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2010/tasks/joisc2010_simroad1"
+ },
+ {
+  "id": "joisc2010_simroad2",
+  "title": "シムロード (SimRoad)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2010/tasks/joisc2010_simroad2"
+ },
+ {
+  "id": "joisc2010_simroad3",
+  "title": "シムロード (SimRoad)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2010/tasks/joisc2010_simroad3"
+ },
+ {
+  "id": "joisc2010_simroad4",
+  "title": "シムロード (SimRoad)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2010/tasks/joisc2010_simroad4"
+ },
+ {
+  "id": "joisc2010_simroad5",
+  "title": "シムロード (SimRoad)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2010/tasks/joisc2010_simroad5"
+ },
+ {
+  "id": "joisc2010_stairs",
+  "title": "階段 (Stairs)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2010,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2010/tasks/joisc2010_stairs"
+ },
+ {
+  "id": "joisc2009_abduction",
+  "title": "誘拐 (Abduction)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2009/tasks/joisc2009_abduction"
+ },
+ {
+  "id": "joisc2009_advertisement",
+  "title": "宣伝 (Advertisement)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2009/tasks/joisc2009_advertisement"
+ },
+ {
+  "id": "joisc2009_chopsticks",
+  "title": "塗り箸 (Chopsticks)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2009/tasks/joisc2009_chopsticks"
+ },
+ {
+  "id": "joisc2009_contest",
+  "title": "コンテスト (Contest)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2009/tasks/joisc2009_contest"
+ },
+ {
+  "id": "joisc2009_distribution",
+  "title": "冊子の配布 (Distribution)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2009/tasks/joisc2009_distribution"
+ },
+ {
+  "id": "joisc2009_logo",
+  "title": "ロゴマーク (Logo)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2009/tasks/joisc2009_logo"
+ },
+ {
+  "id": "joisc2009_pyramid",
+  "title": "貫きピラミッド (Pyramid)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2009/tasks/joisc2009_pyramid"
+ },
+ {
+  "id": "joisc2009_sequence",
+  "title": "数列 (Sequence)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2009/tasks/joisc2009_sequence"
+ },
+ {
+  "id": "joisc2009_ski",
+  "title": "スキー (Ski)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2009/tasks/joisc2009_ski"
+ },
+ {
+  "id": "joisc2009_stamps",
+  "title": "判子 (はんこ) (Stamps)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2009/tasks/joisc2009_stamps"
+ },
+ {
+  "id": "joisc2009_starry_sky",
+  "title": "星空 (Starry Sky)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2009/tasks/joisc2009_starry_sky"
+ },
+ {
+  "id": "joisc2009_territory",
+  "title": "縄張り (Territory)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2009,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2009/tasks/joisc2009_territory"
+ },
+ {
+  "id": "joisc2008_belt",
+  "title": "ベルト (Belt)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2008/tasks/joisc2008_belt"
+ },
+ {
+  "id": "joisc2008_cheating",
+  "title": "カンニング対策 (Cheating)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2008/tasks/joisc2008_cheating"
+ },
+ {
+  "id": "joisc2008_committee",
+  "title": "委員会 (Committee)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2008/tasks/joisc2008_committee"
+ },
+ {
+  "id": "joisc2008_election1",
+  "title": "選挙 (Election)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2008/tasks/joisc2008_election1"
+ },
+ {
+  "id": "joisc2008_election2",
+  "title": "選挙 (Election)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2008/tasks/joisc2008_election2"
+ },
+ {
+  "id": "joisc2008_election3",
+  "title": "選挙 (Election)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2008/tasks/joisc2008_election3"
+ },
+ {
+  "id": "joisc2008_election4",
+  "title": "選挙 (Election)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2008/tasks/joisc2008_election4"
+ },
+ {
+  "id": "joisc2008_election5",
+  "title": "選挙 (Election)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2008/tasks/joisc2008_election5"
+ },
+ {
+  "id": "joisc2008_flu",
+  "title": "インフルエンザ (Flu)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2008/tasks/joisc2008_flu"
+ },
+ {
+  "id": "joisc2008_fraction",
+  "title": "分数 (Fraction)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2008/tasks/joisc2008_fraction"
+ },
+ {
+  "id": "joisc2008_nightman",
+  "title": "夜警 (Nightman)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2008/tasks/joisc2008_nightman"
+ },
+ {
+  "id": "joisc2008_nile",
+  "title": "ナイルドットコム (Nile.Com)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2008/tasks/joisc2008_nile"
+ },
+ {
+  "id": "joisc2008_origami",
+  "title": "折り紙 (Origami)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2008/tasks/joisc2008_origami"
+ },
+ {
+  "id": "joisc2008_ruins",
+  "title": "最古の遺跡2 (Ruins)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2008/tasks/joisc2008_ruins"
+ },
+ {
+  "id": "joisc2008_sheet",
+  "title": "色紙 (Sheet)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2008/tasks/joisc2008_sheet"
+ },
+ {
+  "id": "joisc2008_typhoon",
+  "title": "台風 (Typhoon)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2008,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2008/tasks/joisc2008_typhoon"
+ },
+ {
+  "id": "joisc2007_anagra",
+  "title": "アナグラム (Anagram)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2007/tasks/joisc2007_anagra"
+ },
+ {
+  "id": "joisc2007_buildi",
+  "title": "ビルの飾り付け (Building)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2007/tasks/joisc2007_buildi"
+ },
+ {
+  "id": "joisc2007_circui",
+  "title": "電気回路の結線 (Circuit)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2007/tasks/joisc2007_circui"
+ },
+ {
+  "id": "joisc2007_factor",
+  "title": "階乗 (Factorial)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2007/tasks/joisc2007_factor"
+ },
+ {
+  "id": "joisc2007_fermat",
+  "title": "フェルマー方程式 (Fermat)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2007/tasks/joisc2007_fermat"
+ },
+ {
+  "id": "joisc2007_fiber",
+  "title": "光ファイバー (Fiber)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2007/tasks/joisc2007_fiber"
+ },
+ {
+  "id": "joisc2007_lines",
+  "title": "直線 (Lines)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2007/tasks/joisc2007_lines"
+ },
+ {
+  "id": "joisc2007_mall",
+  "title": "ショッピングモール (Mall)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2007/tasks/joisc2007_mall"
+ },
+ {
+  "id": "joisc2007_packin",
+  "title": "半導体工場 (Packing)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2007/tasks/joisc2007_packin"
+ },
+ {
+  "id": "joisc2007_packing2",
+  "title": "半導体工場 (Packing)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2007/tasks/joisc2007_packing2"
+ },
+ {
+  "id": "joisc2007_packing3",
+  "title": "半導体工場 (Packing)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2007/tasks/joisc2007_packing3"
+ },
+ {
+  "id": "joisc2007_packing4",
+  "title": "半導体工場 (Packing)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2007/tasks/joisc2007_packing4"
+ },
+ {
+  "id": "joisc2007_packing5",
+  "title": "半導体工場 (Packing)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2007/tasks/joisc2007_packing5"
+ },
+ {
+  "id": "joisc2007_route",
+  "title": "象使い (Route)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2007/tasks/joisc2007_route"
+ },
+ {
+  "id": "joisc2007_salt",
+  "title": "SALT TREE XV",
+  "olympiad": "JOI Spring Camp",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2007/tasks/joisc2007_salt"
+ },
+ {
+  "id": "joisc2007_score",
+  "title": "得点 (Score)",
+  "olympiad": "JOI Spring Camp",
+  "year": 2007,
+  "type": "Batch",
+  "url": "https://atcoder.jp/contests/joisc2007/tasks/joisc2007_score"
+ },
+ {
+  "id": "NOI25_duckbuttons",
+  "title": "Ducks And Buttons",
+  "olympiad": "Singapore NOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI25_duckbuttons"
+ },
+ {
+  "id": "NOI25_flooding",
+  "title": "Flooding",
+  "olympiad": "Singapore NOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI25_flooding"
+ },
+ {
+  "id": "NOI25_itinerary",
+  "title": "Itinerary",
+  "olympiad": "Singapore NOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI25_itinerary"
+ },
+ {
+  "id": "NOI25_lasers2",
+  "title": "Lasers 2",
+  "olympiad": "Singapore NOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI25_lasers2"
+ },
+ {
+  "id": "NOI25_monsters",
+  "title": "Monsters",
+  "olympiad": "Singapore NOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI25_monsters"
+ },
+ {
+  "id": "NOI25_reachability",
+  "title": "Reachability",
+  "olympiad": "Singapore NOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI25_reachability"
+ },
+ {
+  "id": "NOI25_robots",
+  "title": "Robots",
+  "olympiad": "Singapore NOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI25_robots"
+ },
+ {
+  "id": "NOI25_snacks",
+  "title": "Snacks",
+  "olympiad": "Singapore NOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI25_snacks"
+ },
+ {
+  "id": "NOI25_thumper",
+  "title": "Thumper",
+  "olympiad": "Singapore NOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI25_thumper"
+ },
+ {
+  "id": "NOI25_trainorbus",
+  "title": "Train Or Bus",
+  "olympiad": "Singapore NOI",
+  "year": 2025,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI25_trainorbus"
+ },
+ {
+  "id": "NOI24_coin",
+  "title": "Coin",
+  "olympiad": "Singapore NOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI24_coin"
+ },
+ {
+  "id": "NOI24_explosives",
+  "title": "Explosives",
+  "olympiad": "Singapore NOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI24_explosives"
+ },
+ {
+  "id": "NOI24_field",
+  "title": "Field",
+  "olympiad": "Singapore NOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI24_field"
+ },
+ {
+  "id": "NOI24_park",
+  "title": "Amusement Park",
+  "olympiad": "Singapore NOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI24_park"
+ },
+ {
+  "id": "NOI24_party",
+  "title": "Party",
+  "olympiad": "Singapore NOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI24_party"
+ },
+ {
+  "id": "NOI24_photo",
+  "title": "School Photo",
+  "olympiad": "Singapore NOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI24_photo"
+ },
+ {
+  "id": "NOI24_problemsetter",
+  "title": "Problem Setter",
+  "olympiad": "Singapore NOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI24_problemsetter"
+ },
+ {
+  "id": "NOI24_shops",
+  "title": "Shops",
+  "olympiad": "Singapore NOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI24_shops"
+ },
+ {
+  "id": "NOI24_tourist",
+  "title": "Tourist",
+  "olympiad": "Singapore NOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI24_tourist"
+ },
+ {
+  "id": "NOI24_toxic",
+  "title": "Toxic Gene 2",
+  "olympiad": "Singapore NOI",
+  "year": 2024,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI24_toxic"
+ },
+ {
+  "id": "NOI23_airplane",
+  "title": "Airplane",
+  "olympiad": "Singapore NOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI23_airplane"
+ },
+ {
+  "id": "NOI23_area",
+  "title": "Area",
+  "olympiad": "Singapore NOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI23_area"
+ },
+ {
+  "id": "NOI23_burgers",
+  "title": "Burgers",
+  "olympiad": "Singapore NOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI23_burgers"
+ },
+ {
+  "id": "NOI23_curtains",
+  "title": "Curtains",
+  "olympiad": "Singapore NOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI23_curtains"
+ },
+ {
+  "id": "NOI23_dolls",
+  "title": "Dolls",
+  "olympiad": "Singapore NOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI23_dolls"
+ },
+ {
+  "id": "NOI23_inspections",
+  "title": "Inspections",
+  "olympiad": "Singapore NOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI23_inspections"
+ },
+ {
+  "id": "NOI23_network",
+  "title": "Network",
+  "olympiad": "Singapore NOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI23_network"
+ },
+ {
+  "id": "NOI23_swords",
+  "title": "Swords",
+  "olympiad": "Singapore NOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI23_swords"
+ },
+ {
+  "id": "NOI23_topical",
+  "title": "Topical",
+  "olympiad": "Singapore NOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI23_topical"
+ },
+ {
+  "id": "NOI23_toxic",
+  "title": "Toxic Gene",
+  "olympiad": "Singapore NOI",
+  "year": 2023,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI23_toxic"
+ },
+ {
+  "id": "NOI22_fruits",
+  "title": "Fruits",
+  "olympiad": "Singapore NOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI22_fruits"
+ },
+ {
+  "id": "NOI22_grapevine",
+  "title": "Grapevine",
+  "olympiad": "Singapore NOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI22_grapevine"
+ },
+ {
+  "id": "NOI22_gymbadges",
+  "title": "Gym Badges",
+  "olympiad": "Singapore NOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI22_gymbadges"
+ },
+ {
+  "id": "NOI22_towers",
+  "title": "Towers",
+  "olympiad": "Singapore NOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI22_towers"
+ },
+ {
+  "id": "NOI22_votingcity",
+  "title": "Voting Cities",
+  "olympiad": "Singapore NOI",
+  "year": 2022,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI22_votingcity"
+ },
+ {
+  "id": "NOI20_aesthetic",
+  "title": "Aesthetic",
+  "olympiad": "Singapore NOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI20_aesthetic"
+ },
+ {
+  "id": "NOI20_arcade",
+  "title": "Arcade",
+  "olympiad": "Singapore NOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI20_arcade"
+ },
+ {
+  "id": "NOI20_crypto",
+  "title": "Cryptography",
+  "olympiad": "Singapore NOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI20_crypto"
+ },
+ {
+  "id": "NOI20_discharging",
+  "title": "Discharging",
+  "olympiad": "Singapore NOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI20_discharging"
+ },
+ {
+  "id": "NOI20_firefighting",
+  "title": "Firefighting",
+  "olympiad": "Singapore NOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI20_firefighting"
+ },
+ {
+  "id": "NOI20_fuelstation",
+  "title": "Fuel Station",
+  "olympiad": "Singapore NOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI20_fuelstation"
+ },
+ {
+  "id": "NOI20_labels",
+  "title": "Labels",
+  "olympiad": "Singapore NOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI20_labels"
+ },
+ {
+  "id": "NOI20_mountains",
+  "title": "Mountains",
+  "olympiad": "Singapore NOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI20_mountains"
+ },
+ {
+  "id": "NOI20_progression",
+  "title": "Progression",
+  "olympiad": "Singapore NOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI20_progression"
+ },
+ {
+  "id": "NOI20_relaymarathon",
+  "title": "Relay Marathon",
+  "olympiad": "Singapore NOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI20_relaymarathon"
+ },
+ {
+  "id": "NOI20_solarstorm",
+  "title": "Solar Storm",
+  "olympiad": "Singapore NOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI20_solarstorm"
+ },
+ {
+  "id": "NOI20_visitingsingapore",
+  "title": "Visiting Singapore",
+  "olympiad": "Singapore NOI",
+  "year": 2020,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI20_visitingsingapore"
+ },
+ {
+  "id": "NOI19_charges",
+  "title": "Experimental Charges",
+  "olympiad": "Singapore NOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI19_charges"
+ },
+ {
+  "id": "NOI19_feast",
+  "title": "Feast",
+  "olympiad": "Singapore NOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI19_feast"
+ },
+ {
+  "id": "NOI19_lasers",
+  "title": "Lasers",
+  "olympiad": "Singapore NOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI19_lasers"
+ },
+ {
+  "id": "NOI19_lostarray",
+  "title": "Lost Array",
+  "olympiad": "Singapore NOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI19_lostarray"
+ },
+ {
+  "id": "NOI19_palindrome",
+  "title": "Palindromic FizzBuzz",
+  "olympiad": "Singapore NOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI19_palindrome"
+ },
+ {
+  "id": "NOI19_pilot",
+  "title": "Pilot",
+  "olympiad": "Singapore NOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI19_pilot"
+ },
+ {
+  "id": "NOI19_riggedroads",
+  "title": "Rigged Roads",
+  "olympiad": "Singapore NOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI19_riggedroads"
+ },
+ {
+  "id": "NOI19_shuffle",
+  "title": "Shuffle",
+  "olympiad": "Singapore NOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI19_shuffle"
+ },
+ {
+  "id": "NOI19_squarerect",
+  "title": "Square or Rectangle?",
+  "olympiad": "Singapore NOI",
+  "year": 2019,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI19_squarerect"
+ },
+ {
+  "id": "NOI18_citymapping",
+  "title": "City Mapping",
+  "olympiad": "Singapore NOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI18_citymapping"
+ },
+ {
+  "id": "NOI18_collectmushrooms",
+  "title": "Collecting Mushrooms",
+  "olympiad": "Singapore NOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI18_collectmushrooms"
+ },
+ {
+  "id": "NOI18_island",
+  "title": "Island",
+  "olympiad": "Singapore NOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI18_island"
+ },
+ {
+  "id": "NOI18_journey",
+  "title": "Journey",
+  "olympiad": "Singapore NOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI18_journey"
+ },
+ {
+  "id": "NOI18_knapsack",
+  "title": "Knapsack",
+  "olympiad": "Singapore NOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI18_knapsack"
+ },
+ {
+  "id": "NOI18_lightningrod",
+  "title": "Lightning Rod",
+  "olympiad": "Singapore NOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI18_lightningrod"
+ },
+ {
+  "id": "NOI18_safety",
+  "title": "Safety",
+  "olympiad": "Singapore NOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI18_safety"
+ },
+ {
+  "id": "NOI18_snail",
+  "title": "Snail",
+  "olympiad": "Singapore NOI",
+  "year": 2018,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI18_snail"
+ },
+ {
+  "id": "NOI17_bestplace",
+  "title": "Best Place",
+  "olympiad": "Singapore NOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI17_bestplace"
+ },
+ {
+  "id": "NOI17_hotspot",
+  "title": "Hotspot",
+  "olympiad": "Singapore NOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI17_hotspot"
+ },
+ {
+  "id": "NOI17_pokemonmaster",
+  "title": "I want to be the very best too!",
+  "olympiad": "Singapore NOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI17_pokemonmaster"
+ },
+ {
+  "id": "NOI17_rmq",
+  "title": "RMQ",
+  "olympiad": "Singapore NOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI17_rmq"
+ },
+ {
+  "id": "NOI17_roadsideadverts",
+  "title": "Roadside Advertisements",
+  "olympiad": "Singapore NOI",
+  "year": 2017,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI17_roadsideadverts"
+ },
+ {
+  "id": "NOI14_cats",
+  "title": "CATS",
+  "olympiad": "Singapore NOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI14_cats"
+ },
+ {
+  "id": "NOI14_obelisk",
+  "title": "OBELISK",
+  "olympiad": "Singapore NOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI14_obelisk"
+ },
+ {
+  "id": "NOI14_orchard",
+  "title": "Orchard",
+  "olympiad": "Singapore NOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI14_orchard"
+ },
+ {
+  "id": "NOI14_sightseeing",
+  "title": "Sightseeing",
+  "olympiad": "Singapore NOI",
+  "year": 2014,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI14_sightseeing"
+ },
+ {
+  "id": "NOI13_ferries",
+  "title": "Ferries",
+  "olympiad": "Singapore NOI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI13_ferries"
+ },
+ {
+  "id": "NOI13_gw",
+  "title": "Global Warming",
+  "olympiad": "Singapore NOI",
+  "year": 2013,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI13_gw"
+ },
+ {
+  "id": "NOI12_forensic",
+  "title": "Forensic",
+  "olympiad": "Singapore NOI",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI12_forensic"
+ },
+ {
+  "id": "NOI12_modsum",
+  "title": "Modsum",
+  "olympiad": "Singapore NOI",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI12_modsum"
+ },
+ {
+  "id": "NOI12_pancake",
+  "title": "Pancake",
+  "olympiad": "Singapore NOI",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI12_pancake"
+ },
+ {
+  "id": "NOI12_walking",
+  "title": "Walking",
+  "olympiad": "Singapore NOI",
+  "year": 2012,
+  "type": "Batch",
+  "url": "https://oj.uz/problem/view/NOI12_walking"
  },
  {
   "id": "USACO_1467",
