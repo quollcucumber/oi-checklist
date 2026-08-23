@@ -1402,7 +1402,8 @@
   "olympiad": "CEOI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI22_abracadabra"
+  "url": "https://oj.uz/problem/view/CEOI22_abracadabra",
+  "dmoj": "ceoi22p1"
  },
  {
   "id": "CEOI22_drawing",
@@ -1410,7 +1411,8 @@
   "olympiad": "CEOI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI22_drawing"
+  "url": "https://oj.uz/problem/view/CEOI22_drawing",
+  "dmoj": "ceoi22p4"
  },
  {
   "id": "CEOI22_homework",
@@ -1418,7 +1420,8 @@
   "olympiad": "CEOI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI22_homework"
+  "url": "https://oj.uz/problem/view/CEOI22_homework",
+  "dmoj": "ceoi22p2"
  },
  {
   "id": "CEOI22_measures",
@@ -1426,7 +1429,8 @@
   "olympiad": "CEOI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI22_measures"
+  "url": "https://oj.uz/problem/view/CEOI22_measures",
+  "dmoj": "ceoi22p5"
  },
  {
   "id": "CEOI22_parking",
@@ -1434,7 +1438,8 @@
   "olympiad": "CEOI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI22_parking"
+  "url": "https://oj.uz/problem/view/CEOI22_parking",
+  "dmoj": "ceoi22p6"
  },
  {
   "id": "CEOI22_prize",
@@ -1442,7 +1447,8 @@
   "olympiad": "CEOI",
   "year": 2022,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/CEOI22_prize"
+  "url": "https://oj.uz/problem/view/CEOI22_prize",
+  "dmoj": "ceoi22p3"
  },
  {
   "id": "CEOI21_diversity",
@@ -1545,6 +1551,7 @@
   "year": 2019,
   "type": "Batch",
   "url": "https://oj.uz/problem/view/CEOI19_amusementpark",
+  "dmoj": "ceoi19p4",
   "cf": "1193/A"
  },
  {
@@ -1562,6 +1569,7 @@
   "year": 2019,
   "type": "Batch",
   "url": "https://oj.uz/problem/view/CEOI19_cubeword",
+  "dmoj": "ceoi19p3",
   "cf": "1192/C"
  },
  {
@@ -1571,6 +1579,7 @@
   "year": 2019,
   "type": "Batch",
   "url": "https://oj.uz/problem/view/CEOI19_diameter",
+  "dmoj": "ceoi19p2",
   "cf": "1192/B"
  },
  {
@@ -1580,6 +1589,7 @@
   "year": 2019,
   "type": "Batch",
   "url": "https://oj.uz/problem/view/CEOI19_magictree",
+  "dmoj": "ceoi19p5",
   "cf": "1193/B"
  },
  {
@@ -1589,6 +1599,7 @@
   "year": 2019,
   "type": "Batch",
   "url": "https://oj.uz/problem/view/CEOI19_scissors",
+  "dmoj": "ceoi19p6",
   "cf": "1193/C"
  },
  {
@@ -1606,6 +1617,7 @@
   "year": 2019,
   "type": "Batch",
   "url": "https://oj.uz/problem/view/CEOI19_skyscrapers",
+  "dmoj": "ceoi19p1",
   "cf": "1192/A"
  },
  {
@@ -1622,7 +1634,8 @@
   "olympiad": "CEOI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI18_clo"
+  "url": "https://oj.uz/problem/view/CEOI18_clo",
+  "dmoj": "ceoi18p1"
  },
  {
   "id": "CEOI18_fib",
@@ -1630,7 +1643,8 @@
   "olympiad": "CEOI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI18_fib"
+  "url": "https://oj.uz/problem/view/CEOI18_fib",
+  "dmoj": "ceoi18p4"
  },
  {
   "id": "CEOI18_glo",
@@ -1638,7 +1652,8 @@
   "olympiad": "CEOI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI18_glo"
+  "url": "https://oj.uz/problem/view/CEOI18_glo",
+  "dmoj": "ceoi18p2"
  },
  {
   "id": "CEOI18_lot",
@@ -1646,7 +1661,8 @@
   "olympiad": "CEOI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI18_lot"
+  "url": "https://oj.uz/problem/view/CEOI18_lot",
+  "dmoj": "ceoi18p3"
  },
  {
   "id": "CEOI18_toy",
@@ -1654,7 +1670,8 @@
   "olympiad": "CEOI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI18_toy"
+  "url": "https://oj.uz/problem/view/CEOI18_toy",
+  "dmoj": "ceoi18p5"
  },
  {
   "id": "CEOI18_tri",
@@ -1670,7 +1687,8 @@
   "olympiad": "CEOI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI17_building"
+  "url": "https://oj.uz/problem/view/CEOI17_building",
+  "dmoj": "ceoi17p4"
  },
  {
   "id": "CEOI17_chase",
@@ -1678,7 +1696,8 @@
   "olympiad": "CEOI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI17_chase"
+  "url": "https://oj.uz/problem/view/CEOI17_chase",
+  "dmoj": "ceoi17p6"
  },
  {
   "id": "CEOI17_mousetrap",
@@ -1686,7 +1705,8 @@
   "olympiad": "CEOI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI17_mousetrap"
+  "url": "https://oj.uz/problem/view/CEOI17_mousetrap",
+  "dmoj": "ceoi17p3"
  },
  {
   "id": "CEOI17_mul",
@@ -1710,7 +1730,8 @@
   "olympiad": "CEOI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI17_oneway"
+  "url": "https://oj.uz/problem/view/CEOI17_oneway",
+  "dmoj": "ceoi17p1"
  },
  {
   "id": "CEOI17_palindromic",
@@ -1718,7 +1739,8 @@
   "olympiad": "CEOI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI17_palindromic"
+  "url": "https://oj.uz/problem/view/CEOI17_palindromic",
+  "dmoj": "ceoi17p5"
  },
  {
   "id": "CEOI17_sure",
@@ -1726,7 +1748,8 @@
   "olympiad": "CEOI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI17_sure"
+  "url": "https://oj.uz/problem/view/CEOI17_sure",
+  "dmoj": "ceoi17p2"
  },
  {
   "id": "CEOI16_icc",
@@ -1742,7 +1765,8 @@
   "olympiad": "CEOI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI16_kangaroo"
+  "url": "https://oj.uz/problem/view/CEOI16_kangaroo",
+  "dmoj": "ceoi16p2"
  },
  {
   "id": "CEOI16_match",
@@ -1750,7 +1774,8 @@
   "olympiad": "CEOI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI16_match"
+  "url": "https://oj.uz/problem/view/CEOI16_match",
+  "dmoj": "ceoi16p4"
  },
  {
   "id": "CEOI16_popeala",
@@ -1758,7 +1783,8 @@
   "olympiad": "CEOI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI16_popeala"
+  "url": "https://oj.uz/problem/view/CEOI16_popeala",
+  "dmoj": "ceoi16p5"
  },
  {
   "id": "CEOI16_router",
@@ -2006,7 +2032,8 @@
   "olympiad": "CEOI",
   "year": 2009,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/CEOI09_harbingers"
+  "url": "https://oj.uz/problem/view/CEOI09_harbingers",
+  "dmoj": "ceoi09p2"
  },
  {
   "id": "CEOI09_tri",
@@ -2998,7 +3025,8 @@
   "olympiad": "COCI",
   "year": 2026,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI26_pet"
+  "url": "https://oj.uz/problem/view/COCI26_pet",
+  "dmoj": "coci25c5p3"
  },
  {
   "id": "COCI26_skare",
@@ -3022,7 +3050,8 @@
   "olympiad": "COCI",
   "year": 2026,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI26_slaganje"
+  "url": "https://oj.uz/problem/view/COCI26_slaganje",
+  "dmoj": "coci25c5p4"
  },
  {
   "id": "COCI26_struktura",
@@ -3030,7 +3059,8 @@
   "olympiad": "COCI",
   "year": 2026,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI26_struktura"
+  "url": "https://oj.uz/problem/view/COCI26_struktura",
+  "dmoj": "coci25c5p5"
  },
  {
   "id": "COCI26_tezina",
@@ -3102,7 +3132,8 @@
   "olympiad": "COCI",
   "year": 2025,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI25_harmonija"
+  "url": "https://oj.uz/problem/view/COCI25_harmonija",
+  "dmoj": "coci25c1p3"
  },
  {
   "id": "COCI25_kist",
@@ -3166,7 +3197,8 @@
   "olympiad": "COCI",
   "year": 2025,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI25_rima"
+  "url": "https://oj.uz/problem/view/COCI25_rima",
+  "dmoj": "coci25c1p1"
  },
  {
   "id": "COCI25_tornjevi",
@@ -3182,7 +3214,8 @@
   "olympiad": "COCI",
   "year": 2025,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI25_zagi"
+  "url": "https://oj.uz/problem/view/COCI25_zagi",
+  "dmoj": "coci25c1p5"
  },
  {
   "id": "COCI22_autici",
@@ -3190,7 +3223,8 @@
   "olympiad": "COCI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI22_autici"
+  "url": "https://oj.uz/problem/view/COCI22_autici",
+  "dmoj": "coci21c4p1"
  },
  {
   "id": "COCI22_autobus",
@@ -3198,7 +3232,8 @@
   "olympiad": "COCI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI22_autobus"
+  "url": "https://oj.uz/problem/view/COCI22_autobus",
+  "dmoj": "coci21c4p2"
  },
  {
   "id": "COCI22_dijamant",
@@ -3206,7 +3241,8 @@
   "olympiad": "COCI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI22_dijamant"
+  "url": "https://oj.uz/problem/view/COCI22_dijamant",
+  "dmoj": "coci21c5p2"
  },
  {
   "id": "COCI22_fliper",
@@ -3214,7 +3250,8 @@
   "olympiad": "COCI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI22_fliper"
+  "url": "https://oj.uz/problem/view/COCI22_fliper",
+  "dmoj": "coci21c5p3"
  },
  {
   "id": "COCI22_izbori",
@@ -3222,7 +3259,8 @@
   "olympiad": "COCI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI22_izbori"
+  "url": "https://oj.uz/problem/view/COCI22_izbori",
+  "dmoj": "coci21c4p3"
  },
  {
   "id": "COCI22_kemija",
@@ -3230,7 +3268,8 @@
   "olympiad": "COCI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI22_kemija"
+  "url": "https://oj.uz/problem/view/COCI22_kemija",
+  "dmoj": "coci21c5p1"
  },
  {
   "id": "COCI22_med",
@@ -3238,7 +3277,8 @@
   "olympiad": "COCI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI22_med"
+  "url": "https://oj.uz/problem/view/COCI22_med",
+  "dmoj": "coci21c6p1"
  },
  {
   "id": "COCI22_naboj",
@@ -3246,7 +3286,8 @@
   "olympiad": "COCI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI22_naboj"
+  "url": "https://oj.uz/problem/view/COCI22_naboj",
+  "dmoj": "coci21c6p3"
  },
  {
   "id": "COCI22_palindromi",
@@ -3254,7 +3295,8 @@
   "olympiad": "COCI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI22_palindromi"
+  "url": "https://oj.uz/problem/view/COCI22_palindromi",
+  "dmoj": "coci21c6p4"
  },
  {
   "id": "COCI22_parkovi",
@@ -3262,7 +3304,8 @@
   "olympiad": "COCI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI22_parkovi"
+  "url": "https://oj.uz/problem/view/COCI22_parkovi",
+  "dmoj": "coci21c4p4"
  },
  {
   "id": "COCI22_radio",
@@ -3270,7 +3313,8 @@
   "olympiad": "COCI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI22_radio"
+  "url": "https://oj.uz/problem/view/COCI22_radio",
+  "dmoj": "coci21c5p4"
  },
  {
   "id": "COCI22_sarenlist",
@@ -3278,7 +3322,8 @@
   "olympiad": "COCI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI22_sarenlist"
+  "url": "https://oj.uz/problem/view/COCI22_sarenlist",
+  "dmoj": "coci21c4p5"
  },
  {
   "id": "COCI22_superpozicija",
@@ -3294,7 +3339,8 @@
   "olympiad": "COCI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI22_usmjeravanje"
+  "url": "https://oj.uz/problem/view/COCI22_usmjeravanje",
+  "dmoj": "coci21c5p5"
  },
  {
   "id": "COCI22_zemljiste",
@@ -3302,7 +3348,8 @@
   "olympiad": "COCI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI22_zemljiste"
+  "url": "https://oj.uz/problem/view/COCI22_zemljiste",
+  "dmoj": "coci21c6p2"
  },
  {
   "id": "COCI21_akcija",
@@ -3310,7 +3357,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_akcija"
+  "url": "https://oj.uz/problem/view/COCI21_akcija",
+  "dmoj": "coci21c3p3"
  },
  {
   "id": "COCI21_alias",
@@ -3318,7 +3366,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_alias"
+  "url": "https://oj.uz/problem/view/COCI21_alias",
+  "dmoj": "coci20c6p2"
  },
  {
   "id": "COCI21_anagramistica",
@@ -3326,7 +3375,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_anagramistica"
+  "url": "https://oj.uz/problem/view/COCI21_anagramistica",
+  "dmoj": "coci20c6p3"
  },
  {
   "id": "COCI21_bold",
@@ -3334,7 +3384,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_bold"
+  "url": "https://oj.uz/problem/view/COCI21_bold",
+  "dmoj": "coci20c6p1"
  },
  {
   "id": "COCI21_cijanobakterije",
@@ -3342,7 +3393,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_cijanobakterije"
+  "url": "https://oj.uz/problem/view/COCI21_cijanobakterije",
+  "dmoj": "coci21c3p2"
  },
  {
   "id": "COCI21_ekoeko",
@@ -3350,7 +3402,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_ekoeko"
+  "url": "https://oj.uz/problem/view/COCI21_ekoeko",
+  "dmoj": "coci21c3p4"
  },
  {
   "id": "COCI21_geometrija",
@@ -3358,7 +3411,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_geometrija"
+  "url": "https://oj.uz/problem/view/COCI21_geometrija",
+  "dmoj": "coci20c6p4"
  },
  {
   "id": "COCI21_hiperkocka",
@@ -3366,7 +3420,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_hiperkocka"
+  "url": "https://oj.uz/problem/view/COCI21_hiperkocka",
+  "dmoj": "coci21c2p3"
  },
  {
   "id": "COCI21_hop",
@@ -3374,7 +3429,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_hop"
+  "url": "https://oj.uz/problem/view/COCI21_hop",
+  "dmoj": "coci20c4p3"
  },
  {
   "id": "COCI21_index",
@@ -3382,7 +3438,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_index"
+  "url": "https://oj.uz/problem/view/COCI21_index",
+  "dmoj": "coci20c6p5"
  },
  {
   "id": "COCI21_janjetina",
@@ -3390,7 +3447,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_janjetina"
+  "url": "https://oj.uz/problem/view/COCI21_janjetina",
+  "dmoj": "coci20c4p4"
  },
  {
   "id": "COCI21_kamencici",
@@ -3398,7 +3456,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_kamencici"
+  "url": "https://oj.uz/problem/view/COCI21_kamencici",
+  "dmoj": "coci21c1p2"
  },
  {
   "id": "COCI21_kaucuk",
@@ -3406,7 +3465,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_kaucuk"
+  "url": "https://oj.uz/problem/view/COCI21_kaucuk",
+  "dmoj": "coci21c2p1"
  },
  {
   "id": "COCI21_kucice",
@@ -3414,7 +3474,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_kucice"
+  "url": "https://oj.uz/problem/view/COCI21_kucice",
+  "dmoj": "coci21c3p5"
  },
  {
   "id": "COCI21_kutije",
@@ -3422,7 +3483,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_kutije"
+  "url": "https://oj.uz/problem/view/COCI21_kutije",
+  "dmoj": "coci21c2p2"
  },
  {
   "id": "COCI21_lampice",
@@ -3430,7 +3492,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_lampice"
+  "url": "https://oj.uz/problem/view/COCI21_lampice",
+  "dmoj": "coci21c3p1"
  },
  {
   "id": "COCI21_ljeto",
@@ -3438,7 +3501,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_ljeto"
+  "url": "https://oj.uz/problem/view/COCI21_ljeto",
+  "dmoj": "coci21c1p1"
  },
  {
   "id": "COCI21_logicari",
@@ -3446,7 +3510,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_logicari"
+  "url": "https://oj.uz/problem/view/COCI21_logicari",
+  "dmoj": "coci21c1p3"
  },
  {
   "id": "COCI21_magenta",
@@ -3454,7 +3519,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_magenta"
+  "url": "https://oj.uz/problem/view/COCI21_magenta",
+  "dmoj": "coci20c5p3"
  },
  {
   "id": "COCI21_magneti",
@@ -3462,7 +3528,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_magneti"
+  "url": "https://oj.uz/problem/view/COCI21_magneti",
+  "dmoj": "coci21c2p4"
  },
  {
   "id": "COCI21_osumnjiceni",
@@ -3470,7 +3537,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_osumnjiceni"
+  "url": "https://oj.uz/problem/view/COCI21_osumnjiceni",
+  "dmoj": "coci21c2p5"
  },
  {
   "id": "COCI21_patkice2",
@@ -3478,7 +3546,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_patkice2"
+  "url": "https://oj.uz/problem/view/COCI21_patkice2",
+  "dmoj": "coci20c4p5"
  },
  {
   "id": "COCI21_pizza",
@@ -3486,7 +3555,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_pizza"
+  "url": "https://oj.uz/problem/view/COCI21_pizza",
+  "dmoj": "coci20c4p1"
  },
  {
   "id": "COCI21_planine",
@@ -3494,7 +3564,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_planine"
+  "url": "https://oj.uz/problem/view/COCI21_planine",
+  "dmoj": "coci20c5p4"
  },
  {
   "id": "COCI21_po",
@@ -3502,7 +3573,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_po"
+  "url": "https://oj.uz/problem/view/COCI21_po",
+  "dmoj": "coci20c5p2"
  },
  {
   "id": "COCI21_set",
@@ -3510,7 +3582,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_set"
+  "url": "https://oj.uz/problem/view/COCI21_set",
+  "dmoj": "coci21c1p4"
  },
  {
   "id": "COCI21_sifra",
@@ -3526,7 +3599,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_sjeckanje"
+  "url": "https://oj.uz/problem/view/COCI21_sjeckanje",
+  "dmoj": "coci20c5p5"
  },
  {
   "id": "COCI21_vepar",
@@ -3534,7 +3608,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_vepar"
+  "url": "https://oj.uz/problem/view/COCI21_vepar",
+  "dmoj": "coci20c4p2"
  },
  {
   "id": "COCI21_volontiranje",
@@ -3542,7 +3617,8 @@
   "olympiad": "COCI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI21_volontiranje"
+  "url": "https://oj.uz/problem/view/COCI21_volontiranje",
+  "dmoj": "coci21c1p5"
  },
  {
   "id": "COCI20_bajka",
@@ -3550,7 +3626,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_bajka"
+  "url": "https://oj.uz/problem/view/COCI20_bajka",
+  "dmoj": "coci20c1p2"
  },
  {
   "id": "COCI20_birmingham",
@@ -3558,7 +3635,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_birmingham"
+  "url": "https://oj.uz/problem/view/COCI20_birmingham",
+  "dmoj": "coci19c6p2"
  },
  {
   "id": "COCI20_crtanje",
@@ -3566,7 +3644,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_crtanje"
+  "url": "https://oj.uz/problem/view/COCI20_crtanje",
+  "dmoj": "coci20c2p1"
  },
  {
   "id": "COCI20_datum",
@@ -3574,7 +3653,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_datum"
+  "url": "https://oj.uz/problem/view/COCI20_datum",
+  "dmoj": "coci19c6p1"
  },
  {
   "id": "COCI20_emacs",
@@ -3582,7 +3662,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_emacs"
+  "url": "https://oj.uz/problem/view/COCI20_emacs",
+  "dmoj": "coci19c5p1"
  },
  {
   "id": "COCI20_euklid",
@@ -3590,7 +3671,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_euklid"
+  "url": "https://oj.uz/problem/view/COCI20_euklid",
+  "dmoj": "coci20c2p3"
  },
  {
   "id": "COCI20_histogram",
@@ -3598,7 +3680,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_histogram"
+  "url": "https://oj.uz/problem/view/COCI20_histogram",
+  "dmoj": "coci20c1p3"
  },
  {
   "id": "COCI20_holding",
@@ -3606,7 +3689,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_holding"
+  "url": "https://oj.uz/problem/view/COCI20_holding",
+  "dmoj": "coci19c4p3"
  },
  {
   "id": "COCI20_klasika",
@@ -3614,7 +3698,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_klasika"
+  "url": "https://oj.uz/problem/view/COCI20_klasika",
+  "dmoj": "coci19c4p4"
  },
  {
   "id": "COCI20_knjige",
@@ -3622,7 +3707,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_knjige"
+  "url": "https://oj.uz/problem/view/COCI20_knjige",
+  "dmoj": "coci20c3p1"
  },
  {
   "id": "COCI20_konstrukcija",
@@ -3630,7 +3716,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_konstrukcija"
+  "url": "https://oj.uz/problem/view/COCI20_konstrukcija",
+  "dmoj": "coci19c6p3"
  },
  {
   "id": "COCI20_matching",
@@ -3638,7 +3725,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_matching"
+  "url": "https://oj.uz/problem/view/COCI20_matching",
+  "dmoj": "coci19c5p3"
  },
  {
   "id": "COCI20_nivelle",
@@ -3646,7 +3734,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_nivelle"
+  "url": "https://oj.uz/problem/view/COCI20_nivelle",
+  "dmoj": "coci19c4p5"
  },
  {
   "id": "COCI20_odasiljaci",
@@ -3654,7 +3743,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_odasiljaci"
+  "url": "https://oj.uz/problem/view/COCI20_odasiljaci",
+  "dmoj": "coci20c2p2"
  },
  {
   "id": "COCI20_papricice",
@@ -3662,7 +3752,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_papricice"
+  "url": "https://oj.uz/problem/view/COCI20_papricice",
+  "dmoj": "coci20c1p4"
  },
  {
   "id": "COCI20_patkice",
@@ -3670,7 +3761,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_patkice"
+  "url": "https://oj.uz/problem/view/COCI20_patkice",
+  "dmoj": "coci20c1p1"
  },
  {
   "id": "COCI20_politicari",
@@ -3678,7 +3770,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_politicari"
+  "url": "https://oj.uz/problem/view/COCI20_politicari",
+  "dmoj": "coci19c5p2"
  },
  {
   "id": "COCI20_psk",
@@ -3686,7 +3779,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_psk"
+  "url": "https://oj.uz/problem/view/COCI20_psk",
+  "dmoj": "coci19c4p1"
  },
  {
   "id": "COCI20_putovanje",
@@ -3694,7 +3788,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_putovanje"
+  "url": "https://oj.uz/problem/view/COCI20_putovanje",
+  "dmoj": "coci19c5p4"
  },
  {
   "id": "COCI20_satellti",
@@ -3702,7 +3797,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_satellti"
+  "url": "https://oj.uz/problem/view/COCI20_satellti",
+  "dmoj": "coci20c3p3"
  },
  {
   "id": "COCI20_selotejp",
@@ -3710,7 +3806,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_selotejp"
+  "url": "https://oj.uz/problem/view/COCI20_selotejp",
+  "dmoj": "coci20c3p4"
  },
  {
   "id": "COCI20_sjekira",
@@ -3718,7 +3815,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_sjekira"
+  "url": "https://oj.uz/problem/view/COCI20_sjekira",
+  "dmoj": "coci20c2p4"
  },
  {
   "id": "COCI20_skandi",
@@ -3726,7 +3824,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_skandi"
+  "url": "https://oj.uz/problem/view/COCI20_skandi",
+  "dmoj": "coci19c6p4"
  },
  {
   "id": "COCI20_specijacija",
@@ -3734,7 +3833,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_specijacija"
+  "url": "https://oj.uz/problem/view/COCI20_specijacija",
+  "dmoj": "coci20c3p5"
  },
  {
   "id": "COCI20_spiderman",
@@ -3742,7 +3842,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_spiderman"
+  "url": "https://oj.uz/problem/view/COCI20_spiderman",
+  "dmoj": "coci19c4p2"
  },
  {
   "id": "COCI20_svjetlo",
@@ -3750,7 +3851,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_svjetlo"
+  "url": "https://oj.uz/problem/view/COCI20_svjetlo",
+  "dmoj": "coci20c2p5"
  },
  {
   "id": "COCI20_tenis",
@@ -3758,7 +3860,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_tenis"
+  "url": "https://oj.uz/problem/view/COCI20_tenis",
+  "dmoj": "coci20c1p5"
  },
  {
   "id": "COCI20_trener",
@@ -3766,7 +3869,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_trener"
+  "url": "https://oj.uz/problem/view/COCI20_trener",
+  "dmoj": "coci19c6p5"
  },
  {
   "id": "COCI20_vlak",
@@ -3774,7 +3878,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_vlak"
+  "url": "https://oj.uz/problem/view/COCI20_vlak",
+  "dmoj": "coci20c3p2"
  },
  {
   "id": "COCI20_zapina",
@@ -3782,7 +3887,8 @@
   "olympiad": "COCI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI20_zapina"
+  "url": "https://oj.uz/problem/view/COCI20_zapina",
+  "dmoj": "coci19c5p5"
  },
  {
   "id": "COCI19_acm",
@@ -3790,7 +3896,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_acm"
+  "url": "https://oj.uz/problem/view/COCI19_acm",
+  "dmoj": "coci19c2p1"
  },
  {
   "id": "COCI19_akvizna",
@@ -3806,7 +3913,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_checker"
+  "url": "https://oj.uz/problem/view/COCI19_checker",
+  "dmoj": "coci19c2p3"
  },
  {
   "id": "COCI19_drvca",
@@ -3814,7 +3922,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_drvca"
+  "url": "https://oj.uz/problem/view/COCI19_drvca",
+  "dmoj": "coci19c3p3"
  },
  {
   "id": "COCI19_dzumbus",
@@ -3822,7 +3931,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_dzumbus"
+  "url": "https://oj.uz/problem/view/COCI19_dzumbus",
+  "dmoj": "coci19c1p3"
  },
  {
   "id": "COCI19_elder",
@@ -3830,7 +3940,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_elder"
+  "url": "https://oj.uz/problem/view/COCI19_elder",
+  "dmoj": "coci18c4p1"
  },
  {
   "id": "COCI19_grudanje",
@@ -3838,7 +3949,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_grudanje"
+  "url": "https://oj.uz/problem/view/COCI19_grudanje",
+  "dmoj": "coci19c3p2"
  },
  {
   "id": "COCI19_ispit",
@@ -3846,7 +3958,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_ispit"
+  "url": "https://oj.uz/problem/view/COCI19_ispit",
+  "dmoj": "coci18c5p3"
  },
  {
   "id": "COCI19_jarvis",
@@ -3854,7 +3967,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_jarvis"
+  "url": "https://oj.uz/problem/view/COCI19_jarvis",
+  "dmoj": "coci18c5p2"
  },
  {
   "id": "COCI19_kisik",
@@ -3862,7 +3976,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_kisik"
+  "url": "https://oj.uz/problem/view/COCI19_kisik",
+  "dmoj": "coci18c4p3"
  },
  {
   "id": "COCI19_konj",
@@ -3870,7 +3985,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_konj"
+  "url": "https://oj.uz/problem/view/COCI19_konj",
+  "dmoj": "coci18c6p2"
  },
  {
   "id": "COCI19_lampice",
@@ -3878,7 +3994,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_lampice"
+  "url": "https://oj.uz/problem/view/COCI19_lampice",
+  "dmoj": "coci19c3p4"
  },
  {
   "id": "COCI19_lun",
@@ -3886,7 +4003,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_lun"
+  "url": "https://oj.uz/problem/view/COCI19_lun",
+  "dmoj": "coci18c6p1"
  },
  {
   "id": "COCI19_lutrija",
@@ -3894,7 +4012,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_lutrija"
+  "url": "https://oj.uz/problem/view/COCI19_lutrija",
+  "dmoj": "coci19c1p2"
  },
  {
   "id": "COCI19_mobitel",
@@ -3902,7 +4021,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_mobitel"
+  "url": "https://oj.uz/problem/view/COCI19_mobitel",
+  "dmoj": "coci18c6p5"
  },
  {
   "id": "COCI19_parametriziran",
@@ -3910,7 +4030,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_parametriziran"
+  "url": "https://oj.uz/problem/view/COCI19_parametriziran",
+  "dmoj": "coci18c5p4"
  },
  {
   "id": "COCI19_popcount",
@@ -3918,7 +4039,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_popcount"
+  "url": "https://oj.uz/problem/view/COCI19_popcount",
+  "dmoj": "coci19c2p4"
  },
  {
   "id": "COCI19_preokret",
@@ -3926,7 +4048,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_preokret"
+  "url": "https://oj.uz/problem/view/COCI19_preokret",
+  "dmoj": "coci19c3p1"
  },
  {
   "id": "COCI19_simfonija",
@@ -3934,7 +4057,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_simfonija"
+  "url": "https://oj.uz/problem/view/COCI19_simfonija",
+  "dmoj": "coci18c6p4"
  },
  {
   "id": "COCI19_slagalica",
@@ -3950,7 +4074,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_slagalica2"
+  "url": "https://oj.uz/problem/view/COCI19_slagalica2",
+  "dmoj": "coci18c4p4"
  },
  {
   "id": "COCI19_slicice",
@@ -3958,7 +4083,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_slicice"
+  "url": "https://oj.uz/problem/view/COCI19_slicice",
+  "dmoj": "coci18c6p3"
  },
  {
   "id": "COCI19_sob",
@@ -3966,7 +4092,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_sob"
+  "url": "https://oj.uz/problem/view/COCI19_sob",
+  "dmoj": "coci19c3p5"
  },
  {
   "id": "COCI19_titlovi",
@@ -3974,7 +4101,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_titlovi"
+  "url": "https://oj.uz/problem/view/COCI19_titlovi",
+  "dmoj": "coci18c5p1"
  },
  {
   "id": "COCI19_transport",
@@ -3982,7 +4110,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_transport"
+  "url": "https://oj.uz/problem/view/COCI19_transport",
+  "dmoj": "coci18c5p5"
  },
  {
   "id": "COCI19_trobojnica",
@@ -3990,7 +4119,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_trobojnica"
+  "url": "https://oj.uz/problem/view/COCI19_trobojnica",
+  "dmoj": "coci19c1p4"
  },
  {
   "id": "COCI19_trol",
@@ -3998,7 +4128,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_trol"
+  "url": "https://oj.uz/problem/view/COCI19_trol",
+  "dmoj": "coci19c1p1"
  },
  {
   "id": "COCI19_wand",
@@ -4006,7 +4137,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_wand"
+  "url": "https://oj.uz/problem/view/COCI19_wand",
+  "dmoj": "coci18c4p2"
  },
  {
   "id": "COCI19_zoo",
@@ -4014,7 +4146,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_zoo"
+  "url": "https://oj.uz/problem/view/COCI19_zoo",
+  "dmoj": "coci19c1p5"
  },
  {
   "id": "COCI19_zvijezda",
@@ -4022,7 +4155,8 @@
   "olympiad": "COCI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI19_zvijezda"
+  "url": "https://oj.uz/problem/view/COCI19_zvijezda",
+  "dmoj": "coci19c2p5"
  },
  {
   "id": "COCI18_alkemija",
@@ -4030,7 +4164,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_alkemija"
+  "url": "https://oj.uz/problem/view/COCI18_alkemija",
+  "dmoj": "coci17c6p2"
  },
  {
   "id": "COCI18_birokracija",
@@ -4038,7 +4173,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_birokracija"
+  "url": "https://oj.uz/problem/view/COCI18_birokracija",
+  "dmoj": "coci17c5p3"
  },
  {
   "id": "COCI18_cipele",
@@ -4046,7 +4182,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_cipele"
+  "url": "https://oj.uz/problem/view/COCI18_cipele",
+  "dmoj": "coci18c1p3"
  },
  {
   "id": "COCI18_clickbait",
@@ -4054,7 +4191,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_clickbait"
+  "url": "https://oj.uz/problem/view/COCI18_clickbait",
+  "dmoj": "coci17c7p4"
  },
  {
   "id": "COCI18_cover",
@@ -4062,7 +4200,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_cover"
+  "url": "https://oj.uz/problem/view/COCI18_cover",
+  "dmoj": "coci17c6p4"
  },
  {
   "id": "COCI18_deblo",
@@ -4070,7 +4209,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_deblo"
+  "url": "https://oj.uz/problem/view/COCI18_deblo",
+  "dmoj": "coci18c2p3"
  },
  {
   "id": "COCI18_dostavljac",
@@ -4078,7 +4218,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_dostavljac"
+  "url": "https://oj.uz/problem/view/COCI18_dostavljac",
+  "dmoj": "coci17c7p5"
  },
  {
   "id": "COCI18_go",
@@ -4086,7 +4227,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_go"
+  "url": "https://oj.uz/problem/view/COCI18_go",
+  "dmoj": "coci17c7p3"
  },
  {
   "id": "COCI18_karte",
@@ -4094,7 +4236,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_karte"
+  "url": "https://oj.uz/problem/view/COCI18_karte",
+  "dmoj": "coci17c5p4"
  },
  {
   "id": "COCI18_kocka",
@@ -4102,7 +4245,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_kocka"
+  "url": "https://oj.uz/problem/view/COCI18_kocka",
+  "dmoj": "coci18c2p2"
  },
  {
   "id": "COCI18_kotrljanje",
@@ -4110,7 +4254,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_kotrljanje"
+  "url": "https://oj.uz/problem/view/COCI18_kotrljanje",
+  "dmoj": "coci17c6p5"
  },
  {
   "id": "COCI18_magnus",
@@ -4118,7 +4263,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_magnus"
+  "url": "https://oj.uz/problem/view/COCI18_magnus",
+  "dmoj": "coci18c3p1"
  },
  {
   "id": "COCI18_maja",
@@ -4126,7 +4272,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_maja"
+  "url": "https://oj.uz/problem/view/COCI18_maja",
+  "dmoj": "coci18c2p4"
  },
  {
   "id": "COCI18_mate",
@@ -4134,7 +4281,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_mate"
+  "url": "https://oj.uz/problem/view/COCI18_mate",
+  "dmoj": "coci17c6p3"
  },
  {
   "id": "COCI18_nadan",
@@ -4142,7 +4290,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_nadan"
+  "url": "https://oj.uz/problem/view/COCI18_nadan",
+  "dmoj": "coci18c1p1"
  },
  {
   "id": "COCI18_nlo",
@@ -4150,7 +4299,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_nlo"
+  "url": "https://oj.uz/problem/view/COCI18_nlo",
+  "dmoj": "coci18c3p4"
  },
  {
   "id": "COCI18_olivander",
@@ -4158,7 +4308,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_olivander"
+  "url": "https://oj.uz/problem/view/COCI18_olivander",
+  "dmoj": "coci17c5p1"
  },
  {
   "id": "COCI18_pictionary",
@@ -4166,7 +4317,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_pictionary"
+  "url": "https://oj.uz/problem/view/COCI18_pictionary",
+  "dmoj": "coci17c5p5"
  },
  {
   "id": "COCI18_pismo",
@@ -4174,7 +4326,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_pismo"
+  "url": "https://oj.uz/problem/view/COCI18_pismo",
+  "dmoj": "coci18c3p2"
  },
  {
   "id": "COCI18_planinarenje",
@@ -4182,7 +4335,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_planinarenje"
+  "url": "https://oj.uz/problem/view/COCI18_planinarenje",
+  "dmoj": "coci17c5p6"
  },
  {
   "id": "COCI18_prakticni",
@@ -4190,7 +4344,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_prakticni"
+  "url": "https://oj.uz/problem/view/COCI18_prakticni",
+  "dmoj": "coci18c3p5"
  },
  {
   "id": "COCI18_preokret",
@@ -4198,7 +4353,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_preokret"
+  "url": "https://oj.uz/problem/view/COCI18_preokret",
+  "dmoj": "coci18c2p1"
  },
  {
   "id": "COCI18_priglavci",
@@ -4206,7 +4362,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_priglavci"
+  "url": "https://oj.uz/problem/view/COCI18_priglavci",
+  "dmoj": "coci17c7p6"
  },
  {
   "id": "COCI18_prosjek",
@@ -4214,7 +4371,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_prosjek"
+  "url": "https://oj.uz/problem/view/COCI18_prosjek",
+  "dmoj": "coci17c7p1"
  },
  {
   "id": "COCI18_sajam",
@@ -4222,7 +4380,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_sajam"
+  "url": "https://oj.uz/problem/view/COCI18_sajam",
+  "dmoj": "coci18c3p3"
  },
  {
   "id": "COCI18_spirale",
@@ -4230,7 +4389,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_spirale"
+  "url": "https://oj.uz/problem/view/COCI18_spirale",
+  "dmoj": "coci17c5p2"
  },
  {
   "id": "COCI18_strah",
@@ -4238,7 +4398,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_strah"
+  "url": "https://oj.uz/problem/view/COCI18_strah",
+  "dmoj": "coci18c1p4"
  },
  {
   "id": "COCI18_suncanje",
@@ -4246,7 +4407,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_suncanje"
+  "url": "https://oj.uz/problem/view/COCI18_suncanje",
+  "dmoj": "coci18c2p5"
  },
  {
   "id": "COCI18_teoreticar",
@@ -4254,7 +4416,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_teoreticar"
+  "url": "https://oj.uz/problem/view/COCI18_teoreticar",
+  "dmoj": "coci18c1p5"
  },
  {
   "id": "COCI18_timovi",
@@ -4262,7 +4425,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_timovi"
+  "url": "https://oj.uz/problem/view/COCI18_timovi",
+  "dmoj": "coci17c7p2"
  },
  {
   "id": "COCI18_vrtic",
@@ -4270,7 +4434,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_vrtic"
+  "url": "https://oj.uz/problem/view/COCI18_vrtic",
+  "dmoj": "coci17c6p6"
  },
  {
   "id": "COCI18_zamjena",
@@ -4278,7 +4443,8 @@
   "olympiad": "COCI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI18_zamjena"
+  "url": "https://oj.uz/problem/view/COCI18_zamjena",
+  "dmoj": "coci18c1p2"
  },
  {
   "id": "COCI17_aron",
@@ -4286,7 +4452,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_aron"
+  "url": "https://oj.uz/problem/view/COCI17_aron",
+  "dmoj": "coci17c3p1"
  },
  {
   "id": "COCI17_automobil",
@@ -4294,7 +4461,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_automobil"
+  "url": "https://oj.uz/problem/view/COCI17_automobil",
+  "dmoj": "coci17c4p3"
  },
  {
   "id": "COCI17_baza",
@@ -4302,7 +4470,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_baza"
+  "url": "https://oj.uz/problem/view/COCI17_baza",
+  "dmoj": "coci16c7p1"
  },
  {
   "id": "COCI17_bridz",
@@ -4310,7 +4479,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_bridz"
+  "url": "https://oj.uz/problem/view/COCI17_bridz",
+  "dmoj": "coci16c4p1"
  },
  {
   "id": "COCI17_ceste",
@@ -4318,7 +4488,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_ceste"
+  "url": "https://oj.uz/problem/view/COCI17_ceste",
+  "dmoj": "coci17c4p6"
  },
  {
   "id": "COCI17_cezar",
@@ -4334,7 +4505,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_deda"
+  "url": "https://oj.uz/problem/view/COCI17_deda",
+  "dmoj": "coci17c1p5"
  },
  {
   "id": "COCI17_dojave",
@@ -4342,7 +4514,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_dojave"
+  "url": "https://oj.uz/problem/view/COCI17_dojave",
+  "dmoj": "coci17c3p5"
  },
  {
   "id": "COCI17_doktor",
@@ -4350,7 +4523,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_doktor"
+  "url": "https://oj.uz/problem/view/COCI17_doktor",
+  "dmoj": "coci17c2p3"
  },
  {
   "id": "COCI17_garaza",
@@ -4358,7 +4532,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_garaza"
+  "url": "https://oj.uz/problem/view/COCI17_garaza",
+  "dmoj": "coci17c2p6"
  },
  {
   "id": "COCI17_gauss",
@@ -4366,7 +4541,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_gauss"
+  "url": "https://oj.uz/problem/view/COCI17_gauss",
+  "dmoj": "coci16c6p6"
  },
  {
   "id": "COCI17_hindeks",
@@ -4382,7 +4558,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_hokej"
+  "url": "https://oj.uz/problem/view/COCI17_hokej",
+  "dmoj": "coci17c1p4"
  },
  {
   "id": "COCI17_igra",
@@ -4390,7 +4567,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_igra"
+  "url": "https://oj.uz/problem/view/COCI17_igra",
+  "dmoj": "coci16c7p3"
  },
  {
   "id": "COCI17_izbori",
@@ -4398,7 +4576,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_izbori"
+  "url": "https://oj.uz/problem/view/COCI17_izbori",
+  "dmoj": "coci17c4p2"
  },
  {
   "id": "COCI17_kartomat",
@@ -4406,7 +4585,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_kartomat"
+  "url": "https://oj.uz/problem/view/COCI17_kartomat",
+  "dmoj": "coci16c4p2"
  },
  {
   "id": "COCI17_kas",
@@ -4414,7 +4594,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_kas"
+  "url": "https://oj.uz/problem/view/COCI17_kas",
+  "dmoj": "coci16c4p3"
  },
  {
   "id": "COCI17_klavir",
@@ -4422,7 +4603,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_klavir"
+  "url": "https://oj.uz/problem/view/COCI17_klavir",
+  "dmoj": "coci16c7p6"
  },
  {
   "id": "COCI17_kosnja",
@@ -4430,7 +4612,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_kosnja"
+  "url": "https://oj.uz/problem/view/COCI17_kosnja",
+  "dmoj": "coci17c2p1"
  },
  {
   "id": "COCI17_krov",
@@ -4438,7 +4621,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_krov"
+  "url": "https://oj.uz/problem/view/COCI17_krov",
+  "dmoj": "coci17c4p5"
  },
  {
   "id": "COCI17_lozinke",
@@ -4446,7 +4630,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_lozinke"
+  "url": "https://oj.uz/problem/view/COCI17_lozinke",
+  "dmoj": "coci17c1p3"
  },
  {
   "id": "COCI17_osmosmjerka",
@@ -4454,7 +4639,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_osmosmjerka"
+  "url": "https://oj.uz/problem/view/COCI17_osmosmjerka",
+  "dmoj": "coci16c4p6"
  },
  {
   "id": "COCI17_paralelogrami",
@@ -4462,7 +4648,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_paralelogrami"
+  "url": "https://oj.uz/problem/view/COCI17_paralelogrami",
+  "dmoj": "coci16c7p5"
  },
  {
   "id": "COCI17_pareto",
@@ -4470,7 +4657,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_pareto"
+  "url": "https://oj.uz/problem/view/COCI17_pareto",
+  "dmoj": "coci16c5p2"
  },
  {
   "id": "COCI17_plahte",
@@ -4478,7 +4666,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_plahte"
+  "url": "https://oj.uz/problem/view/COCI17_plahte",
+  "dmoj": "coci17c1p6"
  },
  {
   "id": "COCI17_poklon",
@@ -4494,7 +4683,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_poklon7"
+  "url": "https://oj.uz/problem/view/COCI17_poklon7",
+  "dmoj": "coci16c5p5"
  },
  {
   "id": "COCI17_portal",
@@ -4502,7 +4692,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_portal"
+  "url": "https://oj.uz/problem/view/COCI17_portal",
+  "dmoj": "coci17c3p4"
  },
  {
   "id": "COCI17_programiranje",
@@ -4510,7 +4701,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_programiranje"
+  "url": "https://oj.uz/problem/view/COCI17_programiranje",
+  "dmoj": "coci17c3p2"
  },
  {
   "id": "COCI17_rasvjeta",
@@ -4518,7 +4710,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_rasvjeta"
+  "url": "https://oj.uz/problem/view/COCI17_rasvjeta",
+  "dmoj": "coci17c4p1"
  },
  {
   "id": "COCI17_retro",
@@ -4526,7 +4719,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_retro"
+  "url": "https://oj.uz/problem/view/COCI17_retro",
+  "dmoj": "coci17c3p3"
  },
  {
   "id": "COCI17_rima",
@@ -4534,7 +4728,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_rima"
+  "url": "https://oj.uz/problem/view/COCI17_rima",
+  "dmoj": "coci16c4p5"
  },
  {
   "id": "COCI17_ronald",
@@ -4542,7 +4737,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_ronald"
+  "url": "https://oj.uz/problem/view/COCI17_ronald",
+  "dmoj": "coci16c5p4"
  },
  {
   "id": "COCI17_san",
@@ -4550,7 +4746,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_san"
+  "url": "https://oj.uz/problem/view/COCI17_san",
+  "dmoj": "coci17c2p4"
  },
  {
   "id": "COCI17_savrsen",
@@ -4566,7 +4763,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_sazetak"
+  "url": "https://oj.uz/problem/view/COCI17_sazetak",
+  "dmoj": "coci17c3p6"
  },
  {
   "id": "COCI17_sirni",
@@ -4574,7 +4772,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_sirni"
+  "url": "https://oj.uz/problem/view/COCI17_sirni",
+  "dmoj": "coci16c6p5"
  },
  {
   "id": "COCI17_telefoni",
@@ -4582,7 +4781,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_telefoni"
+  "url": "https://oj.uz/problem/view/COCI17_telefoni",
+  "dmoj": "coci16c6p2"
  },
  {
   "id": "COCI17_tetris",
@@ -4590,7 +4790,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_tetris"
+  "url": "https://oj.uz/problem/view/COCI17_tetris",
+  "dmoj": "coci17c1p2"
  },
  {
   "id": "COCI17_tuna",
@@ -4598,7 +4799,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_tuna"
+  "url": "https://oj.uz/problem/view/COCI17_tuna",
+  "dmoj": "coci16c5p1"
  },
  {
   "id": "COCI17_turnir",
@@ -4606,7 +4808,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_turnir"
+  "url": "https://oj.uz/problem/view/COCI17_turnir",
+  "dmoj": "coci16c6p3"
  },
  {
   "id": "COCI17_unija",
@@ -4614,7 +4817,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_unija"
+  "url": "https://oj.uz/problem/view/COCI17_unija",
+  "dmoj": "coci16c5p3"
  },
  {
   "id": "COCI17_usmjeri",
@@ -4622,7 +4826,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_usmjeri"
+  "url": "https://oj.uz/problem/view/COCI17_usmjeri",
+  "dmoj": "coci17c2p5"
  },
  {
   "id": "COCI17_uzastopni",
@@ -4630,7 +4835,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_uzastopni"
+  "url": "https://oj.uz/problem/view/COCI17_uzastopni",
+  "dmoj": "coci16c7p2"
  },
  {
   "id": "COCI17_vode",
@@ -4638,7 +4844,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_vode"
+  "url": "https://oj.uz/problem/view/COCI17_vode",
+  "dmoj": "coci17c4p4"
  },
  {
   "id": "COCI17_zigzag",
@@ -4646,7 +4853,8 @@
   "olympiad": "COCI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI17_zigzag"
+  "url": "https://oj.uz/problem/view/COCI17_zigzag",
+  "dmoj": "coci17c2p2"
  },
  {
   "id": "COCI16_burza",
@@ -4654,7 +4862,8 @@
   "olympiad": "COCI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI16_burza"
+  "url": "https://oj.uz/problem/view/COCI16_burza",
+  "dmoj": "coci16c2p6"
  },
  {
   "id": "COCI16_cezar",
@@ -4662,7 +4871,8 @@
   "olympiad": "COCI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI16_cezar"
+  "url": "https://oj.uz/problem/view/COCI16_cezar",
+  "dmoj": "coci16c1p3"
  },
  {
   "id": "COCI16_go",
@@ -4670,7 +4880,8 @@
   "olympiad": "COCI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI16_go"
+  "url": "https://oj.uz/problem/view/COCI16_go",
+  "dmoj": "coci16c2p1"
  },
  {
   "id": "COCI16_imena",
@@ -4678,7 +4889,8 @@
   "olympiad": "COCI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI16_imena"
+  "url": "https://oj.uz/problem/view/COCI16_imena",
+  "dmoj": "coci16c3p1"
  },
  {
   "id": "COCI16_jetpack",
@@ -4686,7 +4898,8 @@
   "olympiad": "COCI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI16_jetpack"
+  "url": "https://oj.uz/problem/view/COCI16_jetpack",
+  "dmoj": "coci16c1p2"
  },
  {
   "id": "COCI16_kralj",
@@ -4694,7 +4907,8 @@
   "olympiad": "COCI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI16_kralj"
+  "url": "https://oj.uz/problem/view/COCI16_kralj",
+  "dmoj": "coci16c1p5"
  },
  {
   "id": "COCI16_kronican",
@@ -4710,7 +4924,8 @@
   "olympiad": "COCI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI16_kvalitetni"
+  "url": "https://oj.uz/problem/view/COCI16_kvalitetni",
+  "dmoj": "coci16c3p4"
  },
  {
   "id": "COCI16_mag",
@@ -4718,7 +4933,8 @@
   "olympiad": "COCI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI16_mag"
+  "url": "https://oj.uz/problem/view/COCI16_mag",
+  "dmoj": "coci16c1p4"
  },
  {
   "id": "COCI16_meksikanac",
@@ -4726,7 +4942,8 @@
   "olympiad": "COCI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI16_meksikanac"
+  "url": "https://oj.uz/problem/view/COCI16_meksikanac",
+  "dmoj": "coci16c3p6"
  },
  {
   "id": "COCI16_nizin",
@@ -4734,7 +4951,8 @@
   "olympiad": "COCI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI16_nizin"
+  "url": "https://oj.uz/problem/view/COCI16_nizin",
+  "dmoj": "coci16c2p3"
  },
  {
   "id": "COCI16_pohlepko",
@@ -4742,7 +4960,8 @@
   "olympiad": "COCI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI16_pohlepko"
+  "url": "https://oj.uz/problem/view/COCI16_pohlepko",
+  "dmoj": "coci16c3p2"
  },
  {
   "id": "COCI16_prosjecni",
@@ -4758,7 +4977,8 @@
   "olympiad": "COCI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI16_tarifa"
+  "url": "https://oj.uz/problem/view/COCI16_tarifa",
+  "dmoj": "coci16c1p1"
  },
  {
   "id": "COCI16_tavan",
@@ -4766,7 +4986,8 @@
   "olympiad": "COCI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI16_tavan"
+  "url": "https://oj.uz/problem/view/COCI16_tavan",
+  "dmoj": "coci16c2p2"
  },
  {
   "id": "COCI16_vjestica",
@@ -4774,7 +4995,8 @@
   "olympiad": "COCI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI16_vjestica"
+  "url": "https://oj.uz/problem/view/COCI16_vjestica",
+  "dmoj": "coci16c1p6"
  },
  {
   "id": "COCI16_zamjene",
@@ -4782,7 +5004,8 @@
   "olympiad": "COCI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI16_zamjene"
+  "url": "https://oj.uz/problem/view/COCI16_zamjene",
+  "dmoj": "coci16c2p5"
  },
  {
   "id": "COCI16_zoltan",
@@ -4790,7 +5013,8 @@
   "olympiad": "COCI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI16_zoltan"
+  "url": "https://oj.uz/problem/view/COCI16_zoltan",
+  "dmoj": "coci16c3p5"
  },
  {
   "id": "COCI15_akcija",
@@ -4798,7 +5022,8 @@
   "olympiad": "COCI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI15_akcija"
+  "url": "https://oj.uz/problem/view/COCI15_akcija",
+  "dmoj": "coci15c1p2"
  },
  {
   "id": "COCI15_baloni",
@@ -4806,7 +5031,8 @@
   "olympiad": "COCI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI15_baloni"
+  "url": "https://oj.uz/problem/view/COCI15_baloni",
+  "dmoj": "coci15c1p3"
  },
  {
   "id": "COCI15_domino",
@@ -4814,7 +5040,8 @@
   "olympiad": "COCI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI15_domino"
+  "url": "https://oj.uz/problem/view/COCI15_domino",
+  "dmoj": "coci15c3p6"
  },
  {
   "id": "COCI15_drzava",
@@ -4830,7 +5057,8 @@
   "olympiad": "COCI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI15_esej"
+  "url": "https://oj.uz/problem/view/COCI15_esej",
+  "dmoj": "coci15c3p2"
  },
  {
   "id": "COCI15_geppetto",
@@ -4838,7 +5066,8 @@
   "olympiad": "COCI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI15_geppetto"
+  "url": "https://oj.uz/problem/view/COCI15_geppetto",
+  "dmoj": "coci15c2p2"
  },
  {
   "id": "COCI15_karte",
@@ -4846,7 +5075,8 @@
   "olympiad": "COCI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI15_karte"
+  "url": "https://oj.uz/problem/view/COCI15_karte",
+  "dmoj": "coci15c1p1"
  },
  {
   "id": "COCI15_marko",
@@ -4854,7 +5084,8 @@
   "olympiad": "COCI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI15_marko"
+  "url": "https://oj.uz/problem/view/COCI15_marko",
+  "dmoj": "coci15c2p1"
  },
  {
   "id": "COCI15_nekameleoni",
@@ -4862,7 +5093,8 @@
   "olympiad": "COCI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI15_nekameleoni"
+  "url": "https://oj.uz/problem/view/COCI15_nekameleoni",
+  "dmoj": "coci15c3p5"
  },
  {
   "id": "COCI15_pot",
@@ -4870,7 +5102,8 @@
   "olympiad": "COCI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI15_pot"
+  "url": "https://oj.uz/problem/view/COCI15_pot",
+  "dmoj": "coci15c3p1"
  },
  {
   "id": "COCI15_relativnost",
@@ -4878,7 +5111,8 @@
   "olympiad": "COCI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI15_relativnost"
+  "url": "https://oj.uz/problem/view/COCI15_relativnost",
+  "dmoj": "coci15c1p5"
  },
  {
   "id": "COCI15_savez",
@@ -4886,7 +5120,8 @@
   "olympiad": "COCI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI15_savez"
+  "url": "https://oj.uz/problem/view/COCI15_savez",
+  "dmoj": "coci15c2p4"
  },
  {
   "id": "COCI15_slon",
@@ -4894,7 +5129,8 @@
   "olympiad": "COCI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI15_slon"
+  "url": "https://oj.uz/problem/view/COCI15_slon",
+  "dmoj": "coci15c3p4"
  },
  {
   "id": "COCI15_topovi",
@@ -4902,7 +5138,8 @@
   "olympiad": "COCI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI15_topovi"
+  "url": "https://oj.uz/problem/view/COCI15_topovi",
+  "dmoj": "coci15c1p4"
  },
  {
   "id": "COCI15_uzastopni",
@@ -4910,7 +5147,8 @@
   "olympiad": "COCI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI15_uzastopni"
+  "url": "https://oj.uz/problem/view/COCI15_uzastopni",
+  "dmoj": "coci15c1p6"
  },
  {
   "id": "COCI15_vudu",
@@ -4918,7 +5156,8 @@
   "olympiad": "COCI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI15_vudu"
+  "url": "https://oj.uz/problem/view/COCI15_vudu",
+  "dmoj": "coci15c2p5"
  },
  {
   "id": "COCI14_bob",
@@ -4926,7 +5165,8 @@
   "olympiad": "COCI",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI14_bob"
+  "url": "https://oj.uz/problem/view/COCI14_bob",
+  "dmoj": "coci14c2p4"
  },
  {
   "id": "COCI14_mobitel",
@@ -4934,7 +5174,8 @@
   "olympiad": "COCI",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI14_mobitel"
+  "url": "https://oj.uz/problem/view/COCI14_mobitel",
+  "dmoj": "coci14c2p1"
  },
  {
   "id": "COCI14_prosjek",
@@ -4942,7 +5183,8 @@
   "olympiad": "COCI",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI14_prosjek"
+  "url": "https://oj.uz/problem/view/COCI14_prosjek",
+  "dmoj": "coci14c1p1"
  },
  {
   "id": "COCI14_studentsko",
@@ -4950,7 +5192,8 @@
   "olympiad": "COCI",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI14_studentsko"
+  "url": "https://oj.uz/problem/view/COCI14_studentsko",
+  "dmoj": "coci14c2p3"
  },
  {
   "id": "COCI14_utrka",
@@ -4958,7 +5201,8 @@
   "olympiad": "COCI",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/COCI14_utrka"
+  "url": "https://oj.uz/problem/view/COCI14_utrka",
+  "dmoj": "coci14c2p2"
  },
  {
   "id": "COI24_cern",
@@ -6366,7 +6610,8 @@
   "olympiad": "IOI",
   "year": 2026,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/IOI26_ballmachine"
+  "url": "https://oj.uz/problem/view/IOI26_ballmachine",
+  "dmoj": "ioi26p1"
  },
  {
   "id": "IOI26_bitstrings",
@@ -6390,7 +6635,8 @@
   "olympiad": "IOI",
   "year": 2026,
   "type": "Two steps",
-  "url": "https://oj.uz/problem/view/IOI26_classroom"
+  "url": "https://oj.uz/problem/view/IOI26_classroom",
+  "dmoj": "ioi26p4"
  },
  {
   "id": "IOI26_magic",
@@ -6406,7 +6652,8 @@
   "olympiad": "IOI",
   "year": 2026,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI26_magiccity"
+  "url": "https://oj.uz/problem/view/IOI26_magiccity",
+  "dmoj": "ioi26p5"
  },
  {
   "id": "IOI26_monuments",
@@ -6414,7 +6661,8 @@
   "olympiad": "IOI",
   "year": 2026,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI26_monuments"
+  "url": "https://oj.uz/problem/view/IOI26_monuments",
+  "dmoj": "ioi26p2"
  },
  {
   "id": "IOI26_partition",
@@ -6422,7 +6670,8 @@
   "olympiad": "IOI",
   "year": 2026,
   "type": "Two steps",
-  "url": "https://oj.uz/problem/view/IOI26_partition"
+  "url": "https://oj.uz/problem/view/IOI26_partition",
+  "dmoj": "ioi26p6"
  },
  {
   "id": "IOI26_tiling",
@@ -6430,7 +6679,8 @@
   "olympiad": "IOI",
   "year": 2026,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/IOI26_tiling"
+  "url": "https://oj.uz/problem/view/IOI26_tiling",
+  "dmoj": "ioi26p3"
  },
  {
   "id": "IOI25_festival",
@@ -6438,7 +6688,8 @@
   "olympiad": "IOI",
   "year": 2025,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI25_festival"
+  "url": "https://oj.uz/problem/view/IOI25_festival",
+  "dmoj": "ioi25p4"
  },
  {
   "id": "IOI25_migrations",
@@ -6446,7 +6697,8 @@
   "olympiad": "IOI",
   "year": 2025,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/IOI25_migrations"
+  "url": "https://oj.uz/problem/view/IOI25_migrations",
+  "dmoj": "ioi25p5"
  },
  {
   "id": "IOI25_obstacles",
@@ -6462,7 +6714,8 @@
   "olympiad": "IOI",
   "year": 2025,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/IOI25_souvenirs"
+  "url": "https://oj.uz/problem/view/IOI25_souvenirs",
+  "dmoj": "ioi25p1"
  },
  {
   "id": "IOI25_triples",
@@ -6470,7 +6723,8 @@
   "olympiad": "IOI",
   "year": 2025,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI25_triples"
+  "url": "https://oj.uz/problem/view/IOI25_triples",
+  "dmoj": "ioi25p2"
  },
  {
   "id": "IOI25_worldmap",
@@ -6478,7 +6732,8 @@
   "olympiad": "IOI",
   "year": 2025,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI25_worldmap"
+  "url": "https://oj.uz/problem/view/IOI25_worldmap",
+  "dmoj": "ioi25p3"
  },
  {
   "id": "IOI24_aplusb",
@@ -6494,7 +6749,8 @@
   "olympiad": "IOI",
   "year": 2024,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI24_hieroglyphs"
+  "url": "https://oj.uz/problem/view/IOI24_hieroglyphs",
+  "dmoj": "ioi24p4"
  },
  {
   "id": "IOI24_machine",
@@ -6510,7 +6766,8 @@
   "olympiad": "IOI",
   "year": 2024,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/IOI24_message"
+  "url": "https://oj.uz/problem/view/IOI24_message",
+  "dmoj": "ioi24p2"
  },
  {
   "id": "IOI24_mosaic",
@@ -6518,7 +6775,8 @@
   "olympiad": "IOI",
   "year": 2024,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI24_mosaic"
+  "url": "https://oj.uz/problem/view/IOI24_mosaic",
+  "dmoj": "ioi24p5"
  },
  {
   "id": "IOI24_nile",
@@ -6526,7 +6784,8 @@
   "olympiad": "IOI",
   "year": 2024,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI24_nile"
+  "url": "https://oj.uz/problem/view/IOI24_nile",
+  "dmoj": "ioi24p1"
  },
  {
   "id": "IOI24_pyramids",
@@ -6542,7 +6801,8 @@
   "olympiad": "IOI",
   "year": 2024,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/IOI24_sphinx"
+  "url": "https://oj.uz/problem/view/IOI24_sphinx",
+  "dmoj": "ioi24p6"
  },
  {
   "id": "IOI24_treasure",
@@ -6558,7 +6818,8 @@
   "olympiad": "IOI",
   "year": 2024,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI24_tree"
+  "url": "https://oj.uz/problem/view/IOI24_tree",
+  "dmoj": "ioi24p3"
  },
  {
   "id": "IOI23_aplusb",
@@ -6574,7 +6835,8 @@
   "olympiad": "IOI",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI23_beechtree"
+  "url": "https://oj.uz/problem/view/IOI23_beechtree",
+  "dmoj": "ioi23p4"
  },
  {
   "id": "IOI23_choreography",
@@ -6590,7 +6852,8 @@
   "olympiad": "IOI",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI23_closing"
+  "url": "https://oj.uz/problem/view/IOI23_closing",
+  "dmoj": "ioi23p1"
  },
  {
   "id": "IOI23_coreputer",
@@ -6622,7 +6885,8 @@
   "olympiad": "IOI",
   "year": 2023,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/IOI23_longesttrip"
+  "url": "https://oj.uz/problem/view/IOI23_longesttrip",
+  "dmoj": "ioi23p2"
  },
  {
   "id": "IOI23_overtaking",
@@ -6630,7 +6894,8 @@
   "olympiad": "IOI",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI23_overtaking"
+  "url": "https://oj.uz/problem/view/IOI23_overtaking",
+  "dmoj": "ioi23p5"
  },
  {
   "id": "IOI23_robot",
@@ -6638,7 +6903,8 @@
   "olympiad": "IOI",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI23_robot"
+  "url": "https://oj.uz/problem/view/IOI23_robot",
+  "dmoj": "ioi23p6"
  },
  {
   "id": "IOI23_soccer",
@@ -6646,7 +6912,8 @@
   "olympiad": "IOI",
   "year": 2023,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI23_soccer"
+  "url": "https://oj.uz/problem/view/IOI23_soccer",
+  "dmoj": "ioi23p3"
  },
  {
   "id": "IOI22_circuit",
@@ -6654,7 +6921,8 @@
   "olympiad": "IOI",
   "year": 2022,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/IOI22_circuit"
+  "url": "https://oj.uz/problem/view/IOI22_circuit",
+  "dmoj": "ioi22p4"
  },
  {
   "id": "IOI22_fish",
@@ -6662,7 +6930,8 @@
   "olympiad": "IOI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI22_fish"
+  "url": "https://oj.uz/problem/view/IOI22_fish",
+  "dmoj": "ioi22p1"
  },
  {
   "id": "IOI22_insects",
@@ -6670,7 +6939,8 @@
   "olympiad": "IOI",
   "year": 2022,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/IOI22_insects"
+  "url": "https://oj.uz/problem/view/IOI22_insects",
+  "dmoj": "ioi22p5"
  },
  {
   "id": "IOI22_islands",
@@ -6678,7 +6948,8 @@
   "olympiad": "IOI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI22_islands"
+  "url": "https://oj.uz/problem/view/IOI22_islands",
+  "dmoj": "ioi22p6"
  },
  {
   "id": "IOI22_prison",
@@ -6686,7 +6957,8 @@
   "olympiad": "IOI",
   "year": 2022,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI22_prison"
+  "url": "https://oj.uz/problem/view/IOI22_prison",
+  "dmoj": "ioi22p2"
  },
  {
   "id": "IOI22_towers",
@@ -6694,7 +6966,8 @@
   "olympiad": "IOI",
   "year": 2022,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/IOI22_towers"
+  "url": "https://oj.uz/problem/view/IOI22_towers",
+  "dmoj": "ioi22p3"
  },
  {
   "id": "IOI21_candies",
@@ -6702,7 +6975,8 @@
   "olympiad": "IOI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI21_candies"
+  "url": "https://oj.uz/problem/view/IOI21_candies",
+  "dmoj": "ioi21p1"
  },
  {
   "id": "IOI21_dna",
@@ -6710,7 +6984,8 @@
   "olympiad": "IOI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI21_dna"
+  "url": "https://oj.uz/problem/view/IOI21_dna",
+  "dmoj": "ioi21p4"
  },
  {
   "id": "IOI21_dungeons",
@@ -6718,7 +6993,8 @@
   "olympiad": "IOI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI21_dungeons"
+  "url": "https://oj.uz/problem/view/IOI21_dungeons",
+  "dmoj": "ioi21p5"
  },
  {
   "id": "IOI21_keys",
@@ -6726,7 +7002,8 @@
   "olympiad": "IOI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI21_keys"
+  "url": "https://oj.uz/problem/view/IOI21_keys",
+  "dmoj": "ioi21p2"
  },
  {
   "id": "IOI21_parks",
@@ -6734,7 +7011,8 @@
   "olympiad": "IOI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI21_parks"
+  "url": "https://oj.uz/problem/view/IOI21_parks",
+  "dmoj": "ioi21p3"
  },
  {
   "id": "IOI21_registers",
@@ -6742,7 +7020,8 @@
   "olympiad": "IOI",
   "year": 2021,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI21_registers"
+  "url": "https://oj.uz/problem/view/IOI21_registers",
+  "dmoj": "ioi21p6"
  },
  {
   "id": "IOI20_biscuits",
@@ -6750,7 +7029,8 @@
   "olympiad": "IOI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI20_biscuits"
+  "url": "https://oj.uz/problem/view/IOI20_biscuits",
+  "dmoj": "ioi20p4"
  },
  {
   "id": "IOI20_gift",
@@ -6774,7 +7054,8 @@
   "olympiad": "IOI",
   "year": 2020,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/IOI20_mushrooms"
+  "url": "https://oj.uz/problem/view/IOI20_mushrooms",
+  "dmoj": "ioi20p5"
  },
  {
   "id": "IOI20_plants",
@@ -6782,7 +7063,8 @@
   "olympiad": "IOI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI20_plants"
+  "url": "https://oj.uz/problem/view/IOI20_plants",
+  "dmoj": "ioi20p1"
  },
  {
   "id": "IOI20_routers",
@@ -6806,7 +7088,8 @@
   "olympiad": "IOI",
   "year": 2020,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/IOI20_stations"
+  "url": "https://oj.uz/problem/view/IOI20_stations",
+  "dmoj": "ioi20p6"
  },
  {
   "id": "IOI20_supertrees",
@@ -6814,7 +7097,8 @@
   "olympiad": "IOI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI20_supertrees"
+  "url": "https://oj.uz/problem/view/IOI20_supertrees",
+  "dmoj": "ioi20p2"
  },
  {
   "id": "IOI20_tickets",
@@ -6822,7 +7106,8 @@
   "olympiad": "IOI",
   "year": 2020,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI20_tickets"
+  "url": "https://oj.uz/problem/view/IOI20_tickets",
+  "dmoj": "ioi20p3"
  },
  {
   "id": "IOI19_cycle",
@@ -6846,7 +7131,8 @@
   "olympiad": "IOI",
   "year": 2019,
   "type": "Output Only",
-  "url": "https://oj.uz/problem/view/IOI19_line"
+  "url": "https://oj.uz/problem/view/IOI19_line",
+  "dmoj": "ioi19p4"
  },
  {
   "id": "IOI19_packing",
@@ -6862,7 +7148,8 @@
   "olympiad": "IOI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI19_rect"
+  "url": "https://oj.uz/problem/view/IOI19_rect",
+  "dmoj": "ioi19p3"
  },
  {
   "id": "IOI19_shoes",
@@ -6870,7 +7157,8 @@
   "olympiad": "IOI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI19_shoes"
+  "url": "https://oj.uz/problem/view/IOI19_shoes",
+  "dmoj": "ioi19p1"
  },
  {
   "id": "IOI19_split",
@@ -6878,7 +7166,8 @@
   "olympiad": "IOI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI19_split"
+  "url": "https://oj.uz/problem/view/IOI19_split",
+  "dmoj": "ioi19p2"
  },
  {
   "id": "IOI19_transfer",
@@ -6894,7 +7183,8 @@
   "olympiad": "IOI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI19_vision"
+  "url": "https://oj.uz/problem/view/IOI19_vision",
+  "dmoj": "ioi19p5"
  },
  {
   "id": "IOI19_walk",
@@ -6902,7 +7192,8 @@
   "olympiad": "IOI",
   "year": 2019,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI19_walk"
+  "url": "https://oj.uz/problem/view/IOI19_walk",
+  "dmoj": "ioi19p6"
  },
  {
   "id": "IOI18_combo",
@@ -6910,7 +7201,8 @@
   "olympiad": "IOI",
   "year": 2018,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/IOI18_combo"
+  "url": "https://oj.uz/problem/view/IOI18_combo",
+  "dmoj": "ioi18p1"
  },
  {
   "id": "IOI18_doll",
@@ -6918,7 +7210,8 @@
   "olympiad": "IOI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI18_doll"
+  "url": "https://oj.uz/problem/view/IOI18_doll",
+  "dmoj": "ioi18p4"
  },
  {
   "id": "IOI18_highway",
@@ -6926,7 +7219,8 @@
   "olympiad": "IOI",
   "year": 2018,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/IOI18_highway"
+  "url": "https://oj.uz/problem/view/IOI18_highway",
+  "dmoj": "ioi18p5"
  },
  {
   "id": "IOI18_meetings",
@@ -6934,7 +7228,8 @@
   "olympiad": "IOI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI18_meetings"
+  "url": "https://oj.uz/problem/view/IOI18_meetings",
+  "dmoj": "ioi18p6"
  },
  {
   "id": "IOI18_seats",
@@ -6942,7 +7237,8 @@
   "olympiad": "IOI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI18_seats"
+  "url": "https://oj.uz/problem/view/IOI18_seats",
+  "dmoj": "ioi18p2"
  },
  {
   "id": "IOI18_werewolf",
@@ -6950,7 +7246,8 @@
   "olympiad": "IOI",
   "year": 2018,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI18_werewolf"
+  "url": "https://oj.uz/problem/view/IOI18_werewolf",
+  "dmoj": "ioi18p3"
  },
  {
   "id": "IOI17_books",
@@ -6958,7 +7255,8 @@
   "olympiad": "IOI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI17_books"
+  "url": "https://oj.uz/problem/view/IOI17_books",
+  "dmoj": "ioi17p6"
  },
  {
   "id": "IOI17_coins",
@@ -6990,7 +7288,8 @@
   "olympiad": "IOI",
   "year": 2017,
   "type": "Output Only",
-  "url": "https://oj.uz/problem/view/IOI17_nowruz"
+  "url": "https://oj.uz/problem/view/IOI17_nowruz",
+  "dmoj": "ioi17p1"
  },
  {
   "id": "IOI17_prize",
@@ -6998,7 +7297,8 @@
   "olympiad": "IOI",
   "year": 2017,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/IOI17_prize"
+  "url": "https://oj.uz/problem/view/IOI17_prize",
+  "dmoj": "ioi17p4"
  },
  {
   "id": "IOI17_simurgh",
@@ -7006,7 +7306,8 @@
   "olympiad": "IOI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI17_simurgh"
+  "url": "https://oj.uz/problem/view/IOI17_simurgh",
+  "dmoj": "ioi17p5"
  },
  {
   "id": "IOI17_train",
@@ -7014,7 +7315,8 @@
   "olympiad": "IOI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI17_train"
+  "url": "https://oj.uz/problem/view/IOI17_train",
+  "dmoj": "ioi17p3"
  },
  {
   "id": "IOI17_wiring",
@@ -7022,7 +7324,8 @@
   "olympiad": "IOI",
   "year": 2017,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI17_wiring"
+  "url": "https://oj.uz/problem/view/IOI17_wiring",
+  "dmoj": "ioi17p2"
  },
  {
   "id": "IOI16_aliens",
@@ -7030,7 +7333,8 @@
   "olympiad": "IOI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI16_aliens"
+  "url": "https://oj.uz/problem/view/IOI16_aliens",
+  "dmoj": "ioi16p6"
  },
  {
   "id": "IOI16_dna",
@@ -7054,7 +7358,8 @@
   "olympiad": "IOI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI16_messy"
+  "url": "https://oj.uz/problem/view/IOI16_messy",
+  "dmoj": "ioi16p5"
  },
  {
   "id": "IOI16_molecules",
@@ -7062,7 +7367,8 @@
   "olympiad": "IOI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI16_molecules"
+  "url": "https://oj.uz/problem/view/IOI16_molecules",
+  "dmoj": "ioi16p1"
  },
  {
   "id": "IOI16_paint",
@@ -7070,7 +7376,8 @@
   "olympiad": "IOI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI16_paint"
+  "url": "https://oj.uz/problem/view/IOI16_paint",
+  "dmoj": "ioi16p4"
  },
  {
   "id": "IOI16_railroad",
@@ -7078,7 +7385,8 @@
   "olympiad": "IOI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI16_railroad"
+  "url": "https://oj.uz/problem/view/IOI16_railroad",
+  "dmoj": "ioi16p2"
  },
  {
   "id": "IOI16_reverse",
@@ -7094,7 +7402,8 @@
   "olympiad": "IOI",
   "year": 2016,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI16_shortcut"
+  "url": "https://oj.uz/problem/view/IOI16_shortcut",
+  "dmoj": "ioi16p3"
  },
  {
   "id": "IOI16_tetris",
@@ -7110,7 +7419,8 @@
   "olympiad": "IOI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI15_boxes"
+  "url": "https://oj.uz/problem/view/IOI15_boxes",
+  "dmoj": "ioi15p1"
  },
  {
   "id": "IOI15_horses",
@@ -7118,7 +7428,8 @@
   "olympiad": "IOI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI15_horses"
+  "url": "https://oj.uz/problem/view/IOI15_horses",
+  "dmoj": "ioi15p4"
  },
  {
   "id": "IOI15_scales",
@@ -7126,7 +7437,8 @@
   "olympiad": "IOI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI15_scales"
+  "url": "https://oj.uz/problem/view/IOI15_scales",
+  "dmoj": "ioi15p2"
  },
  {
   "id": "IOI15_sorting",
@@ -7134,7 +7446,8 @@
   "olympiad": "IOI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI15_sorting"
+  "url": "https://oj.uz/problem/view/IOI15_sorting",
+  "dmoj": "ioi15p5"
  },
  {
   "id": "IOI15_teams",
@@ -7142,7 +7455,8 @@
   "olympiad": "IOI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI15_teams"
+  "url": "https://oj.uz/problem/view/IOI15_teams",
+  "dmoj": "ioi15p3"
  },
  {
   "id": "IOI15_towns",
@@ -7150,7 +7464,8 @@
   "olympiad": "IOI",
   "year": 2015,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI15_towns"
+  "url": "https://oj.uz/problem/view/IOI15_towns",
+  "dmoj": "ioi15p6"
  },
  {
   "id": "IOI14_friend",
@@ -7158,7 +7473,8 @@
   "olympiad": "IOI",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI14_friend"
+  "url": "https://oj.uz/problem/view/IOI14_friend",
+  "dmoj": "ioi14p5"
  },
  {
   "id": "IOI14_game",
@@ -7166,7 +7482,8 @@
   "olympiad": "IOI",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI14_game"
+  "url": "https://oj.uz/problem/view/IOI14_game",
+  "dmoj": "ioi14p3"
  },
  {
   "id": "IOI14_gondola",
@@ -7174,7 +7491,8 @@
   "olympiad": "IOI",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI14_gondola"
+  "url": "https://oj.uz/problem/view/IOI14_gondola",
+  "dmoj": "ioi14p4"
  },
  {
   "id": "IOI14_holiday",
@@ -7182,7 +7500,8 @@
   "olympiad": "IOI",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI14_holiday"
+  "url": "https://oj.uz/problem/view/IOI14_holiday",
+  "dmoj": "ioi14p6"
  },
  {
   "id": "IOI14_rail",
@@ -7190,7 +7509,8 @@
   "olympiad": "IOI",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI14_rail"
+  "url": "https://oj.uz/problem/view/IOI14_rail",
+  "dmoj": "ioi14p1"
  },
  {
   "id": "IOI14_wall",
@@ -7198,7 +7518,8 @@
   "olympiad": "IOI",
   "year": 2014,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI14_wall"
+  "url": "https://oj.uz/problem/view/IOI14_wall",
+  "dmoj": "ioi14p2"
  },
  {
   "id": "IOI13_artclass",
@@ -7214,7 +7535,8 @@
   "olympiad": "IOI",
   "year": 2013,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI13_cave"
+  "url": "https://oj.uz/problem/view/IOI13_cave",
+  "dmoj": "ioi13p4"
  },
  {
   "id": "IOI13_dreaming",
@@ -7222,7 +7544,8 @@
   "olympiad": "IOI",
   "year": 2013,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI13_dreaming"
+  "url": "https://oj.uz/problem/view/IOI13_dreaming",
+  "dmoj": "ioi13p1"
  },
  {
   "id": "IOI13_game",
@@ -7230,7 +7553,8 @@
   "olympiad": "IOI",
   "year": 2013,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI13_game"
+  "url": "https://oj.uz/problem/view/IOI13_game",
+  "dmoj": "ioi13p6"
  },
  {
   "id": "IOI13_robots",
@@ -7238,7 +7562,8 @@
   "olympiad": "IOI",
   "year": 2013,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI13_robots"
+  "url": "https://oj.uz/problem/view/IOI13_robots",
+  "dmoj": "ioi13p5"
  },
  {
   "id": "IOI13_wombats",
@@ -7246,7 +7571,8 @@
   "olympiad": "IOI",
   "year": 2013,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI13_wombats"
+  "url": "https://oj.uz/problem/view/IOI13_wombats",
+  "dmoj": "ioi13p3"
  },
  {
   "id": "IOI12_city",
@@ -7254,7 +7580,8 @@
   "olympiad": "IOI",
   "year": 2012,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI12_city"
+  "url": "https://oj.uz/problem/view/IOI12_city",
+  "dmoj": "ioi12p4"
  },
  {
   "id": "IOI12_rings",
@@ -7262,7 +7589,8 @@
   "olympiad": "IOI",
   "year": 2012,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI12_rings"
+  "url": "https://oj.uz/problem/view/IOI12_rings",
+  "dmoj": "ioi12p2"
  },
  {
   "id": "IOI12_scrivener",
@@ -7270,7 +7598,8 @@
   "olympiad": "IOI",
   "year": 2012,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI12_scrivener"
+  "url": "https://oj.uz/problem/view/IOI12_scrivener",
+  "dmoj": "ioi12p3"
  },
  {
   "id": "IOI12_supper",
@@ -7278,7 +7607,8 @@
   "olympiad": "IOI",
   "year": 2012,
   "type": "Two steps",
-  "url": "https://oj.uz/problem/view/IOI12_supper"
+  "url": "https://oj.uz/problem/view/IOI12_supper",
+  "dmoj": "ioi12p5"
  },
  {
   "id": "IOI12_tournament",
@@ -7286,7 +7616,8 @@
   "olympiad": "IOI",
   "year": 2012,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI12_tournament"
+  "url": "https://oj.uz/problem/view/IOI12_tournament",
+  "dmoj": "ioi12p6"
  },
  {
   "id": "IOI11_crocodile",
@@ -7294,7 +7625,8 @@
   "olympiad": "IOI",
   "year": 2011,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI11_crocodile"
+  "url": "https://oj.uz/problem/view/IOI11_crocodile",
+  "dmoj": "ioi11p4"
  },
  {
   "id": "IOI11_elephants",
@@ -7302,7 +7634,8 @@
   "olympiad": "IOI",
   "year": 2011,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI11_elephants"
+  "url": "https://oj.uz/problem/view/IOI11_elephants",
+  "dmoj": "ioi11p5"
  },
  {
   "id": "IOI11_garden",
@@ -7310,7 +7643,8 @@
   "olympiad": "IOI",
   "year": 2011,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI11_garden"
+  "url": "https://oj.uz/problem/view/IOI11_garden",
+  "dmoj": "ioi11p1"
  },
  {
   "id": "IOI11_parrots",
@@ -7318,7 +7652,8 @@
   "olympiad": "IOI",
   "year": 2011,
   "type": "Two steps",
-  "url": "https://oj.uz/problem/view/IOI11_parrots"
+  "url": "https://oj.uz/problem/view/IOI11_parrots",
+  "dmoj": "ioi11p6"
  },
  {
   "id": "IOI11_race",
@@ -7326,7 +7661,8 @@
   "olympiad": "IOI",
   "year": 2011,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI11_race"
+  "url": "https://oj.uz/problem/view/IOI11_race",
+  "dmoj": "ioi11p2"
  },
  {
   "id": "IOI11_ricehub",
@@ -7334,7 +7670,8 @@
   "olympiad": "IOI",
   "year": 2011,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI11_ricehub"
+  "url": "https://oj.uz/problem/view/IOI11_ricehub",
+  "dmoj": "ioi11p3"
  },
  {
   "id": "IOI10_cluedo",
@@ -7342,7 +7679,8 @@
   "olympiad": "IOI",
   "year": 2010,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/IOI10_cluedo"
+  "url": "https://oj.uz/problem/view/IOI10_cluedo",
+  "dmoj": "ioi10p1"
  },
  {
   "id": "IOI10_hottercolder",
@@ -7350,7 +7688,8 @@
   "olympiad": "IOI",
   "year": 2010,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI10_hottercolder"
+  "url": "https://oj.uz/problem/view/IOI10_hottercolder",
+  "dmoj": "ioi10p2"
  },
  {
   "id": "IOI10_languages",
@@ -7366,7 +7705,8 @@
   "olympiad": "IOI",
   "year": 2010,
   "type": "Output Only",
-  "url": "https://oj.uz/problem/view/IOI10_maze"
+  "url": "https://oj.uz/problem/view/IOI10_maze",
+  "dmoj": "ioi10p7"
  },
  {
   "id": "IOI10_memory",
@@ -7374,7 +7714,8 @@
   "olympiad": "IOI",
   "year": 2010,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/IOI10_memory"
+  "url": "https://oj.uz/problem/view/IOI10_memory",
+  "dmoj": "ioi10p5"
  },
  {
   "id": "IOI10_quality",
@@ -7382,7 +7723,8 @@
   "olympiad": "IOI",
   "year": 2010,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI10_quality"
+  "url": "https://oj.uz/problem/view/IOI10_quality",
+  "dmoj": "ioi10p3"
  },
  {
   "id": "IOI10_saveit",
@@ -7406,7 +7748,8 @@
   "olympiad": "IOI",
   "year": 2009,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI09_archery"
+  "url": "https://oj.uz/problem/view/IOI09_archery",
+  "dmoj": "ioi09p1"
  },
  {
   "id": "IOI09_garage",
@@ -7414,7 +7757,8 @@
   "olympiad": "IOI",
   "year": 2009,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI09_garage"
+  "url": "https://oj.uz/problem/view/IOI09_garage",
+  "dmoj": "ioi09p5"
  },
  {
   "id": "IOI09_hiring",
@@ -7422,7 +7766,8 @@
   "olympiad": "IOI",
   "year": 2009,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI09_hiring"
+  "url": "https://oj.uz/problem/view/IOI09_hiring",
+  "dmoj": "ioi09p2"
  },
  {
   "id": "IOI09_mecho",
@@ -7430,7 +7775,8 @@
   "olympiad": "IOI",
   "year": 2009,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI09_mecho"
+  "url": "https://oj.uz/problem/view/IOI09_mecho",
+  "dmoj": "ioi09p6"
  },
  {
   "id": "IOI09_poi",
@@ -7438,7 +7784,8 @@
   "olympiad": "IOI",
   "year": 2009,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI09_poi"
+  "url": "https://oj.uz/problem/view/IOI09_poi",
+  "dmoj": "ioi09p3"
  },
  {
   "id": "IOI09_raisins",
@@ -7446,7 +7793,8 @@
   "olympiad": "IOI",
   "year": 2009,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI09_raisins"
+  "url": "https://oj.uz/problem/view/IOI09_raisins",
+  "dmoj": "ioi09p4"
  },
  {
   "id": "IOI09_regions",
@@ -7454,7 +7802,8 @@
   "olympiad": "IOI",
   "year": 2009,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/IOI09_regions"
+  "url": "https://oj.uz/problem/view/IOI09_regions",
+  "dmoj": "ioi09p7"
  },
  {
   "id": "IOI09_salesman",
@@ -7462,7 +7811,8 @@
   "olympiad": "IOI",
   "year": 2009,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI09_salesman"
+  "url": "https://oj.uz/problem/view/IOI09_salesman",
+  "dmoj": "ioi09p8"
  },
  {
   "id": "IOI08_fish",
@@ -7470,7 +7820,8 @@
   "olympiad": "IOI",
   "year": 2008,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI08_fish"
+  "url": "https://oj.uz/problem/view/IOI08_fish",
+  "dmoj": "ioi08p3"
  },
  {
   "id": "IOI08_islands",
@@ -7478,7 +7829,8 @@
   "olympiad": "IOI",
   "year": 2008,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI08_islands"
+  "url": "https://oj.uz/problem/view/IOI08_islands",
+  "dmoj": "ioi08p2"
  },
  {
   "id": "IOI08_linear_garden",
@@ -7494,7 +7846,8 @@
   "olympiad": "IOI",
   "year": 2008,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI08_printer"
+  "url": "https://oj.uz/problem/view/IOI08_printer",
+  "dmoj": "ioi08p1"
  },
  {
   "id": "IOI08_pyramid_base",
@@ -7502,7 +7855,8 @@
   "olympiad": "IOI",
   "year": 2008,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI08_pyramid_base"
+  "url": "https://oj.uz/problem/view/IOI08_pyramid_base",
+  "dmoj": "ioi08p6"
  },
  {
   "id": "IOI08_teleporters",
@@ -7510,7 +7864,8 @@
   "olympiad": "IOI",
   "year": 2008,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI08_teleporters"
+  "url": "https://oj.uz/problem/view/IOI08_teleporters",
+  "dmoj": "ioi08p4"
  },
  {
   "id": "IOI07_aliens",
@@ -7518,7 +7873,8 @@
   "olympiad": "IOI",
   "year": 2007,
   "type": "Interactive",
-  "url": "https://oj.uz/problem/view/IOI07_aliens"
+  "url": "https://oj.uz/problem/view/IOI07_aliens",
+  "dmoj": "ioi07p1"
  },
  {
   "id": "IOI07_flood",
@@ -7526,7 +7882,8 @@
   "olympiad": "IOI",
   "year": 2007,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI07_flood"
+  "url": "https://oj.uz/problem/view/IOI07_flood",
+  "dmoj": "ioi07p2"
  },
  {
   "id": "IOI07_miners",
@@ -7534,7 +7891,8 @@
   "olympiad": "IOI",
   "year": 2007,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI07_miners"
+  "url": "https://oj.uz/problem/view/IOI07_miners",
+  "dmoj": "ioi07p4"
  },
  {
   "id": "IOI07_pairs",
@@ -7542,7 +7900,8 @@
   "olympiad": "IOI",
   "year": 2007,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI07_pairs"
+  "url": "https://oj.uz/problem/view/IOI07_pairs",
+  "dmoj": "ioi07p5"
  },
  {
   "id": "IOI07_sails",
@@ -7550,7 +7909,8 @@
   "olympiad": "IOI",
   "year": 2007,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI07_sails"
+  "url": "https://oj.uz/problem/view/IOI07_sails",
+  "dmoj": "ioi07p3"
  },
  {
   "id": "IOI07_training",
@@ -7558,7 +7918,8 @@
   "olympiad": "IOI",
   "year": 2007,
   "type": "Batch",
-  "url": "https://oj.uz/problem/view/IOI07_training"
+  "url": "https://oj.uz/problem/view/IOI07_training",
+  "dmoj": "ioi07p6"
  },
  {
   "id": "IOI03_reverse",
@@ -8894,7 +9255,8 @@
   "olympiad": "JOI Open",
   "year": 2023,
   "type": "Batch",
-  "url": "https://atcoder.jp/contests/joiopen2023/tasks/joiopen2023_a"
+  "url": "https://atcoder.jp/contests/joiopen2023/tasks/joiopen2023_a",
+  "dmoj": "joi23op1"
  },
  {
   "id": "joiopen2023_b",
@@ -8902,7 +9264,8 @@
   "olympiad": "JOI Open",
   "year": 2023,
   "type": "Batch",
-  "url": "https://atcoder.jp/contests/joiopen2023/tasks/joiopen2023_b"
+  "url": "https://atcoder.jp/contests/joiopen2023/tasks/joiopen2023_b",
+  "dmoj": "joi23op2"
  },
  {
   "id": "joiopen2023_c",
@@ -8910,7 +9273,8 @@
   "olympiad": "JOI Open",
   "year": 2023,
   "type": "Batch",
-  "url": "https://atcoder.jp/contests/joiopen2023/tasks/joiopen2023_c"
+  "url": "https://atcoder.jp/contests/joiopen2023/tasks/joiopen2023_c",
+  "dmoj": "joi23op3"
  },
  {
   "id": "joiopen2022_a",
@@ -8918,7 +9282,8 @@
   "olympiad": "JOI Open",
   "year": 2022,
   "type": "Batch",
-  "url": "https://atcoder.jp/contests/joiopen2022/tasks/joiopen2022_a"
+  "url": "https://atcoder.jp/contests/joiopen2022/tasks/joiopen2022_a",
+  "dmoj": "joi22op1"
  },
  {
   "id": "joiopen2022_b",
@@ -8926,7 +9291,8 @@
   "olympiad": "JOI Open",
   "year": 2022,
   "type": "Batch",
-  "url": "https://atcoder.jp/contests/joiopen2022/tasks/joiopen2022_b"
+  "url": "https://atcoder.jp/contests/joiopen2022/tasks/joiopen2022_b",
+  "dmoj": "joi22op2"
  },
  {
   "id": "joiopen2022_c",
@@ -8934,7 +9300,8 @@
   "olympiad": "JOI Open",
   "year": 2022,
   "type": "Batch",
-  "url": "https://atcoder.jp/contests/joiopen2022/tasks/joiopen2022_c"
+  "url": "https://atcoder.jp/contests/joiopen2022/tasks/joiopen2022_c",
+  "dmoj": "joi22op3"
  },
  {
   "id": "joiopen2021_a",
@@ -8942,7 +9309,8 @@
   "olympiad": "JOI Open",
   "year": 2021,
   "type": "Batch",
-  "url": "https://atcoder.jp/contests/joiopen2021/tasks/joiopen2021_a"
+  "url": "https://atcoder.jp/contests/joiopen2021/tasks/joiopen2021_a",
+  "dmoj": "joi21op1"
  },
  {
   "id": "joiopen2021_b",
@@ -8950,7 +9318,8 @@
   "olympiad": "JOI Open",
   "year": 2021,
   "type": "Batch",
-  "url": "https://atcoder.jp/contests/joiopen2021/tasks/joiopen2021_b"
+  "url": "https://atcoder.jp/contests/joiopen2021/tasks/joiopen2021_b",
+  "dmoj": "joi21op2"
  },
  {
   "id": "joiopen2021_c",
@@ -8966,7 +9335,8 @@
   "olympiad": "JOI Open",
   "year": 2020,
   "type": "Batch",
-  "url": "https://atcoder.jp/contests/joiopen2020/tasks/joiopen2020_a"
+  "url": "https://atcoder.jp/contests/joiopen2020/tasks/joiopen2020_a",
+  "dmoj": "joi20op1"
  },
  {
   "id": "joiopen2020_b",
@@ -8974,7 +9344,8 @@
   "olympiad": "JOI Open",
   "year": 2020,
   "type": "Batch",
-  "url": "https://atcoder.jp/contests/joiopen2020/tasks/joiopen2020_b"
+  "url": "https://atcoder.jp/contests/joiopen2020/tasks/joiopen2020_b",
+  "dmoj": "joi20op2"
  },
  {
   "id": "joiopen2020_c",
@@ -8982,7 +9353,8 @@
   "olympiad": "JOI Open",
   "year": 2020,
   "type": "Batch",
-  "url": "https://atcoder.jp/contests/joiopen2020/tasks/joiopen2020_c"
+  "url": "https://atcoder.jp/contests/joiopen2020/tasks/joiopen2020_c",
+  "dmoj": "joi20op3"
  },
  {
   "id": "apio_code",
