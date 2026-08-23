@@ -1,8 +1,12 @@
 import type { StatusMap } from '../types'
+import type { JudgeKey } from './judges'
 
 const STATUS_KEY = 'oi-checklist:statuses'
 const CF_HANDLE_KEY = 'oi-checklist:cf-handle'
+const HANDLES_KEY = 'oi-checklist:handles'
 const THEME_KEY = 'oi-checklist:theme'
+
+export type HandleMap = Partial<Record<JudgeKey, string>>
 
 export function loadStatuses(): StatusMap {
   try {
@@ -16,12 +20,19 @@ export function saveStatuses(statuses: StatusMap) {
   localStorage.setItem(STATUS_KEY, JSON.stringify(statuses))
 }
 
-export function loadCfHandle(): string {
-  return localStorage.getItem(CF_HANDLE_KEY) ?? ''
+export function loadHandles(): HandleMap {
+  try {
+    const handles = JSON.parse(localStorage.getItem(HANDLES_KEY) ?? '{}') as HandleMap
+    const legacyCf = localStorage.getItem(CF_HANDLE_KEY)
+    if (legacyCf && !handles.codeforces) handles.codeforces = legacyCf
+    return handles
+  } catch {
+    return {}
+  }
 }
 
-export function saveCfHandle(handle: string) {
-  localStorage.setItem(CF_HANDLE_KEY, handle)
+export function saveHandles(handles: HandleMap) {
+  localStorage.setItem(HANDLES_KEY, JSON.stringify(handles))
 }
 
 export function loadTheme(): 'dark' | 'light' {
@@ -35,15 +46,17 @@ export function saveTheme(theme: 'dark' | 'light') {
 }
 
 export function exportData(): string {
-  return JSON.stringify({ statuses: loadStatuses(), cfHandle: loadCfHandle() }, null, 2)
+  return JSON.stringify({ statuses: loadStatuses(), handles: loadHandles() }, null, 2)
 }
 
 export function importData(json: string): StatusMap {
-  const parsed = JSON.parse(json) as { statuses?: StatusMap; cfHandle?: string }
+  const parsed = JSON.parse(json) as { statuses?: StatusMap; handles?: HandleMap; cfHandle?: string }
   if (!parsed.statuses || typeof parsed.statuses !== 'object') {
     throw new Error('Invalid file: missing "statuses"')
   }
   saveStatuses(parsed.statuses)
-  if (typeof parsed.cfHandle === 'string') saveCfHandle(parsed.cfHandle)
+  const handles = parsed.handles ?? {}
+  if (typeof parsed.cfHandle === 'string' && !handles.codeforces) handles.codeforces = parsed.cfHandle
+  saveHandles(handles)
   return parsed.statuses
 }
