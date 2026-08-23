@@ -30,6 +30,14 @@ const JOI_ROUNDS = [
 
 const USACO_DIVISIONS = { Bronze: 0, Silver: 1, Gold: 2, Platinum: 3 };
 
+// DMOJ mirror groups: parse problem names and match dataset problems by year + title.
+const DMOJ_PATTERNS = [
+  { group: "IOI", olympiad: "IOI", re: /^IOI '(\d{2}) P\d+ - (.+)$/ },
+  { group: "CEOI", olympiad: "CEOI", re: /^CEOI '(\d{2}) P\d+ - (.+)$/ },
+  { group: "JOI", olympiad: "JOI Open", re: /^JOI '(\d{2}) Open P\d+ - (.+)$/ },
+  { group: "COCI", olympiad: "COCI", re: /^COCI '(\d{2}) Contest \d+ #\d+ (.+)$/ },
+];
+
 // Codeforces mirror contests of olympiads in our dataset (contest id -> olympiad/year).
 const CF_MIRRORS = [
   { contestId: 1192, olympiad: "CEOI", year: 2019 },
@@ -182,6 +190,43 @@ async function fetchCnoi() {
   return problems;
 }
 
+// Attach DMOJ problem codes for DMOJ account sync by matching mirror names.
+async function attachDmoj(problems) {
+  const byKey = new Map();
+  for (const p of problems) {
+    byKey.set(`${p.olympiad}|${p.year}|${normalize(p.title)}`, p);
+    // JOI titles are "日本語 (English)" — index the English part too.
+    const en = p.title.match(/\(([^()]+)\)\s*$/);
+    if (en) byKey.set(`${p.olympiad}|${p.year}|${normalize(en[1])}`, p);
+  }
+  let page = 1;
+  let hasMore = true;
+  let linked = 0;
+  while (hasMore) {
+    const data = JSON.parse(await fetchText(`https://dmoj.ca/api/v2/problems?page=${page}`)).data;
+    hasMore = data.has_more;
+    page++;
+    for (const obj of data.objects) {
+      const pattern = DMOJ_PATTERNS.find((pat) => pat.group === obj.group);
+      if (!pattern) continue;
+      const m = obj.name.match(pattern.re);
+      if (!m) continue;
+      const year = yearFrom2Digit(m[1]);
+      // COCI seasons span two years, so also try the following year.
+      for (const y of [year, year + 1]) {
+        const match = byKey.get(`${pattern.olympiad}|${y}|${normalize(m[2])}`);
+        if (match && !match.dmoj) {
+          match.dmoj = obj.code;
+          linked++;
+          break;
+        }
+      }
+    }
+    await sleep(400);
+  }
+  console.log(`DMOJ-linked: ${linked} problems`);
+}
+
 async function main() {
   const problems = [];
   for (const src of SOURCES) {
@@ -211,6 +256,8 @@ async function main() {
   problems.push(...(await fetchFario()));
   problems.push(...(await fetchUsaco()));
   problems.push(...(await fetchCnoi()));
+
+  await attachDmoj(problems);
 
   // Attach Codeforces problem ids by matching titles within known mirror contests.
   const cfData = await (await fetch("https://codeforces.com/api/problemset.problems")).json();

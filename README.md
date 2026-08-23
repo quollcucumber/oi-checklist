@@ -15,8 +15,10 @@ and **CNOI** (2150 problems), with data sourced from [oj.uz](https://oj.uz),
 - Click a problem to cycle its status: unsolved → in progress → solved
 - Per-olympiad and overall progress bars, grouped by year
 - Search and "hide solved" filtering
-- Link a **Codeforces** account: one click marks problems solved on official CF mirror
-  contests (e.g. CEOI 2019/2020, Baltic OI 2020) via the public Codeforces API
+- Link **Codeforces**, **oj.uz**, or **DMOJ** accounts: one click marks problems you've solved
+  there — Codeforces via its public API (official CF mirror contests), oj.uz via your public
+  profile page (also marks attempted-but-unsolved problems as in-progress), and DMOJ via its
+  public API (matched IOI/CEOI/COCI/JOI Open mirrors)
 - Dark mode
 - Progress is stored in `localStorage`; export/import as JSON to move between devices
 - Optional **accounts + cloud sync** via Supabase (see below): sign up with email/password and
@@ -57,10 +59,11 @@ node scripts/build-dataset.mjs
 
 ## Notes
 
-- oj.uz has no public API and its authenticated pages sit behind a Cloudflare challenge, so
-  direct oj.uz account sync isn't possible from a static frontend; problem statuses for
-  oj.uz-only problems are toggled manually.
 - The Codeforces sync only auto-marks problems that have an official CF mirror (`cf` field in
-  the dataset).
+  the dataset), and the DMOJ sync only those with a matched DMOJ mirror (`dmoj` field).
+- oj.uz and DMOJ don't send CORS headers, so those syncs fall back to public CORS proxies
+  when a direct browser fetch fails.
+- qoj.ac (Cloudflare bot protection, no API) and orac2.info (no public profiles) can't be
+  synced from a static frontend.
 - JOI problems link to the official AtCoder archive; older JOI Final titles are
   Japanese-only there.
