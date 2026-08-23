@@ -4,7 +4,8 @@ import type { Problem, StatusMap } from './types'
 import { STATUS_CYCLE } from './types'
 import OlympiadSection from './components/OlympiadSection'
 import ProgressBar from './components/ProgressBar'
-import CfSync from './components/CfSync'
+import JudgeSync from './components/JudgeSync'
+import { JUDGES, type JudgeKey, type JudgeResult } from './lib/judges'
 import Account from './components/Account'
 import type { Session } from '@supabase/supabase-js'
 import {
@@ -17,12 +18,13 @@ import {
 import {
   exportData,
   importData,
-  loadCfHandle,
+  loadHandles,
   loadStatuses,
   loadTheme,
-  saveCfHandle,
+  saveHandles,
   saveStatuses,
   saveTheme,
+  type HandleMap,
 } from './lib/storage'
 
 const problems = problemsData as Problem[]
@@ -51,7 +53,7 @@ export default function App() {
   const [theme, setTheme] = useState<'dark' | 'light'>(loadTheme)
   const [search, setSearch] = useState('')
   const [hideSolved, setHideSolved] = useState(false)
-  const [cfHandle, setCfHandle] = useState(loadCfHandle)
+  const [handles, setHandles] = useState<HandleMap>(loadHandles)
   const [session, setSession] = useState<Session | null>(null)
   const [syncState, setSyncState] = useState<'idle' | 'syncing' | 'synced' | 'error'>('idle')
   const fileInput = useRef<HTMLInputElement>(null)
@@ -115,26 +117,34 @@ export default function App() {
   }, [statuses])
 
   useEffect(() => {
-    saveCfHandle(cfHandle)
-  }, [cfHandle])
+    saveHandles(handles)
+  }, [handles])
 
   const toggle = (id: string) => {
     setStatuses((prev) => ({ ...prev, [id]: STATUS_CYCLE[prev[id] ?? 'unsolved'] }))
   }
 
-  const applyCfSolved = (solved: Set<string>): number => {
-    let marked = 0
+  const applyJudgeResult = (judge: JudgeKey, result: JudgeResult) => {
+    const matcher = JUDGES.find((j) => j.key === judge)?.matcher
+    let solved = 0
+    let attempted = 0
+    if (!matcher) return { solved, attempted }
     setStatuses((prev) => {
       const next = { ...prev }
       for (const p of problems) {
-        if (p.cf && solved.has(p.cf) && next[p.id] !== 'solved') {
+        const key = matcher(p)
+        if (!key) continue
+        if (result.solved.has(key) && next[p.id] !== 'solved') {
           next[p.id] = 'solved'
-          marked++
+          solved++
+        } else if (result.attempted.has(key) && (next[p.id] ?? 'unsolved') === 'unsolved') {
+          next[p.id] = 'in-progress'
+          attempted++
         }
       }
       return next
     })
-    return marked
+    return { solved, attempted }
   }
 
   const filtered = useMemo(() => {
@@ -166,7 +176,7 @@ export default function App() {
   const handleImport = async (file: File) => {
     try {
       setStatuses(importData(await file.text()))
-      setCfHandle(loadCfHandle())
+      setHandles(loadHandles())
     } catch (e) {
       alert(e instanceof Error ? e.message : 'Import failed')
     }
@@ -239,7 +249,7 @@ export default function App() {
               Hide solved
             </label>
           </div>
-          <CfSync handle={cfHandle} onHandleChange={setCfHandle} onSynced={applyCfSolved} />
+          <JudgeSync handles={handles} onHandlesChange={setHandles} onSynced={applyJudgeResult} />
         </div>
 
         <p className="text-sm text-gray-500 dark:text-gray-400">
@@ -252,8 +262,8 @@ export default function App() {
           <span className="rounded bg-emerald-100 px-1.5 py-0.5 text-emerald-900 dark:bg-emerald-500/20 dark:text-emerald-300">
             solved
           </span>
-          . Linking a Codeforces handle auto-marks problems with official CF mirrors. Progress is saved in your
-          browser.
+          . Link a Codeforces, oj.uz, or DMOJ handle to auto-mark problems you've solved there. Progress is
+          saved in your browser.
         </p>
 
         {OLYMPIADS.map(({ key, fullName }) => {

@@ -9,6 +9,8 @@ export interface Problem {
   group?: string
   /** Codeforces problem id ("contestId/index") when a CF mirror exists. */
   cf?: string
+  /** DMOJ problem code when a DMOJ mirror exists. */
+  dmoj?: string
 }
 
 export type Status = 'unsolved' | 'in-progress' | 'solved'
