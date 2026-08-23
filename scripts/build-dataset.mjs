@@ -13,11 +13,19 @@ const SOURCES = [
   { search: "APIO", olympiad: "APIO", name: "Asia-Pacific Informatics Olympiad", re: /^APIO(\d{2})_/ },
   { search: "CEOI", olympiad: "CEOI", name: "Central European Olympiad in Informatics", re: /^CEOI(\d{2})_/ },
   { search: "BOI", olympiad: "Baltic OI", name: "Baltic Olympiad in Informatics", re: /^BOI(\d{2})_/ },
-  { search: "JOI", olympiad: "JOI", name: "Japanese Olympiad in Informatics", re: /^JOI(\d{2})_/ },
   { search: "eJOI", olympiad: "eJOI", name: "European Junior Olympiad in Informatics", re: /^eJOI(\d{2})_/ },
   { search: "COI", olympiad: "COI", name: "Croatian Olympiad in Informatics", re: /^COI(\d{2})_/ },
   { search: "COCI", olympiad: "COCI", name: "Croatian Open Competition in Informatics", re: /^COCI(\d{2})_/ },
   { search: "EGOI", olympiad: "EGOI", name: "European Girls' Olympiad in Informatics", re: /^EGOI(\d{2})_/ },
+  { search: "IZhO", olympiad: "IZhO", name: "International Zhautykov Olympiad", re: /^IZhO(\d{2})_/ },
+  { search: "NOI", olympiad: "Singapore NOI", name: "Singapore National Olympiad in Informatics", re: /^NOI(\d{2})_/ },
+];
+
+// AtCoder contest id -> JOI round (the full JOI archive lives on AtCoder).
+const JOI_ROUNDS = [
+  { olympiad: "JOI Final", re: /^joi(\d{4})(?:ho|final)$/ },
+  { olympiad: "JOI Spring Camp", re: /^joi(?:sc|sp)(\d{4})(?:-day\d)?$/ },
+  { olympiad: "JOI Open", re: /^joiopen(\d{4})[a-z]?$/ },
 ];
 
 const USACO_DIVISIONS = { Bronze: 0, Silver: 1, Gold: 2, Platinum: 3 };
@@ -92,6 +100,56 @@ async function fetchUsaco() {
   return problems;
 }
 
+// JOI Final / Spring Camp / Open problems from the AtCoder archive,
+// via the AtCoder Problems (kenkoooo) metadata API.
+async function fetchJoi() {
+  const all = JSON.parse(await fetchText("https://kenkoooo.com/atcoder/resources/problems.json"));
+  const problems = [];
+  for (const p of all) {
+    for (const round of JOI_ROUNDS) {
+      const m = p.contest_id.match(round.re);
+      if (!m) continue;
+      problems.push({
+        id: p.id,
+        title: p.name,
+        olympiad: round.olympiad,
+        year: Number(m[1]),
+        type: "Batch",
+        url: `https://atcoder.jp/contests/${p.contest_id}/tasks/${p.id}`,
+      });
+    }
+  }
+  for (const round of JOI_ROUNDS) {
+    console.log(`${round.olympiad}: ${problems.filter((p) => p.olympiad === round.olympiad).length} problems`);
+  }
+  return problems;
+}
+
+// FARIO problems from the ORAC archive (orac2.info).
+async function fetchFario() {
+  const html = await fetchText("https://orac2.info/hub/fario/");
+  const problems = [];
+  const setRe = /class="set-title[^"]*">FARIO (\d{4})<\/span>|<a href="\/problem\/(\d+)\/">([^<]+)<\/a>/g;
+  let year = null;
+  let m;
+  while ((m = setRe.exec(html))) {
+    if (m[1]) {
+      year = Number(m[1]);
+    } else if (year) {
+      problems.push({
+        id: `FARIO_${m[2]}`,
+        title: decodeEntities(m[3]),
+        olympiad: "FARIO",
+        year,
+        type: "Batch",
+        url: `https://orac2.info/problem/${m[2]}/`,
+      });
+    }
+  }
+  console.log(`FARIO: ${problems.length} problems`);
+  return problems;
+}
+
 // Chinese NOI problems from the LibreOJ archive (tag 90 = NOI).
 async function fetchCnoi() {
   const problems = [];
@@ -149,6 +207,8 @@ async function main() {
     console.log(`${src.olympiad}: ${problems.filter((p) => p.olympiad === src.olympiad).length} problems`);
   }
 
+  problems.push(...(await fetchJoi()));
+  problems.push(...(await fetchFario()));
   problems.push(...(await fetchUsaco()));
   problems.push(...(await fetchCnoi()));
 
@@ -168,7 +228,7 @@ async function main() {
   }
 
   const groupRank = (p) => USACO_DIVISIONS[p.group] ?? 0;
-  const idNum = (p) => Number(p.id.match(/^(?:USACO|CNOI)_(\d+)$/)?.[1] ?? 0);
+  const idNum = (p) => Number(p.id.match(/^(?:USACO|CNOI|FARIO)_(\d+)$/)?.[1] ?? 0);
   problems.sort(
     (a, b) =>
       a.olympiad.localeCompare(b.olympiad) ||
