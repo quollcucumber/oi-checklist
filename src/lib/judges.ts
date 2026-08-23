@@ -19,18 +19,18 @@ const DMOJ_PROXIES = [direct, jina, corsproxy, allorigins]
 
 async function fetchViaProxy(url: string, proxies: Proxy[]): Promise<string> {
   let lastError: Error | null = null
-  let notFound = false
   for (const proxy of proxies) {
     try {
       const res = await fetch(proxy(url))
-      if (res.status === 404) notFound = true
+      // A 404 relayed by any proxy means the resource itself is missing.
+      if (res.status === 404) throw new Error('HTTP 404')
       if (!res.ok) throw new Error(`HTTP ${res.status}`)
       return await res.text()
     } catch (e) {
       lastError = e instanceof Error ? e : new Error(String(e))
+      if (isNotFound(lastError)) throw lastError
     }
   }
-  if (notFound) throw new Error('HTTP 404')
   throw lastError ?? new Error('Fetch failed')
 }
 
@@ -86,7 +86,12 @@ export async function fetchDmojResult(handle: string): Promise<JudgeResult> {
   if (start === -1 || end === -1) throw new Error(`DMOJ user "${handle}" not found`)
   const data = JSON.parse(text.slice(start, end + 1)) as DmojUserResponse
   const codes = data.data?.object?.solved_problems
-  if (!codes) throw new Error(data.error?.message ?? `DMOJ user "${handle}" not found`)
+  if (!codes) {
+    const msg = data.error?.message
+    // DMOJ's raw 404 message is "page/object not found".
+    if (!msg || msg.includes('not found')) throw new Error(`DMOJ user "${handle}" not found`)
+    throw new Error(msg)
+  }
   return { solved: new Set(codes), attempted: new Set() }
 }
 
