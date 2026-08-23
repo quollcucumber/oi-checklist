@@ -62,7 +62,7 @@ node scripts/build-dataset.mjs
 - The Codeforces sync only auto-marks problems that have an official CF mirror (`cf` field in
   the dataset), and the DMOJ sync only those with a matched DMOJ mirror (`dmoj` field).
 - oj.uz and DMOJ don't send CORS headers, so those syncs fall back to public CORS proxies
-  when a direct browser fetch fails.
+  (corsproxy.io, r.jina.ai, allorigins.win) when a direct browser fetch fails.
 - qoj.ac (Cloudflare bot protection, no API) and orac2.info (no public profiles) can't be
   synced from a static frontend.
 - JOI problems link to the official AtCoder archive; older JOI Final titles are
