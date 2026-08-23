@@ -34,6 +34,8 @@ const OLYMPIADS: { key: string; fullName: string }[] = [
   { key: 'APIO', fullName: 'Asia-Pacific Informatics Olympiad' },
   { key: 'CEOI', fullName: 'Central European Olympiad in Informatics' },
   { key: 'Baltic OI', fullName: 'Baltic Olympiad in Informatics' },
+  { key: 'Balkan OI', fullName: 'Balkan Olympiad in Informatics' },
+  { key: 'Info(1)Cup', fullName: 'Info(1)Cup International Contest' },
   { key: 'JOI Final', fullName: 'Japanese Olympiad in Informatics — Final Round' },
   { key: 'JOI Spring Camp', fullName: 'Japanese Olympiad in Informatics — Spring Camp' },
   { key: 'JOI Open', fullName: 'Japanese Olympiad in Informatics — Open Contest' },
@@ -45,7 +47,11 @@ const OLYMPIADS: { key: string; fullName: string }[] = [
   { key: 'COCI', fullName: 'Croatian Open Competition in Informatics' },
   { key: 'EGOI', fullName: "European Girls' Olympiad in Informatics" },
   { key: 'USACO', fullName: 'USA Computing Olympiad' },
+  { key: 'CCC', fullName: 'Canadian Computing Competition' },
+  { key: 'CCO', fullName: 'Canadian Computing Olympiad' },
   { key: 'CNOI', fullName: 'China National Olympiad in Informatics' },
+  { key: 'POI', fullName: 'Polish Olympiad in Informatics' },
+  { key: 'INOI', fullName: 'Iranian National Olympiad in Informatics' },
 ]
 
 export default function App() {

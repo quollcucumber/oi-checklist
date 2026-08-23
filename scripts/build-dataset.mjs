@@ -19,6 +19,9 @@ const SOURCES = [
   { search: "EGOI", olympiad: "EGOI", name: "European Girls' Olympiad in Informatics", re: /^EGOI(\d{2})_/ },
   { search: "IZhO", olympiad: "IZhO", name: "International Zhautykov Olympiad", re: /^IZhO(\d{2})_/ },
   { search: "NOI", olympiad: "Singapore NOI", name: "Singapore National Olympiad in Informatics", re: /^NOI(\d{2})_/ },
+  { search: "balkan", olympiad: "Balkan OI", name: "Balkan Olympiad in Informatics", re: /^balkan(\d{2})_/i },
+  { search: "INOI", olympiad: "INOI", name: "Iranian National Olympiad in Informatics", re: /^INOI(\d{2})_/ },
+  { search: "info1cup", olympiad: "Info(1)Cup", name: "Info(1)Cup International Contest", re: /^info1cup(\d{2})_/ },
 ];
 
 // AtCoder contest id -> JOI round (the full JOI archive lives on AtCoder).
@@ -28,7 +31,9 @@ const JOI_ROUNDS = [
   { olympiad: "JOI Open", re: /^joiopen(\d{4})[a-z]?$/ },
 ];
 
-const USACO_DIVISIONS = { Bronze: 0, Silver: 1, Gold: 2, Platinum: 3 };
+const GROUP_ORDER = { Bronze: 0, Silver: 1, Gold: 2, Platinum: 3, I: 0, II: 1, III: 2, Junior: 0, Senior: 1 };
+
+const POI_STAGES = { 1: "I", 2: "II", 3: "III" };
 
 // DMOJ mirror groups: parse problem names and match dataset problems by year + title.
 const DMOJ_PATTERNS = [
@@ -190,6 +195,74 @@ async function fetchCnoi() {
   return problems;
 }
 
+// Polish OI problems from the szkopul.edu.pl archive. Edition N finals are
+// held in spring of year 1993+N (edition I was the 1993/94 school year).
+async function fetchPoi() {
+  const problems = [];
+  let page = 1;
+  let pages = 1;
+  while (page <= pages) {
+    const html = await fetchText(`https://szkopul.edu.pl/problemset/?origin=oi&page=${page}`);
+    pages = maxPage(html);
+    for (const row of html.split("<tbody>").pop().split("<tr>")) {
+      const link = row.match(/\/problemset\/problem\/([\w-]+)\/site\/\s*"?\s*>\s*(.*?)\s*<\/a>/s);
+      if (!link) continue;
+      const edition = row.match(/\?origin=oi_(\d+)"/);
+      if (!edition) continue;
+      const stage = row.match(/\?origin=oi_e(\d)"/);
+      problems.push({
+        id: `POI_${link[1]}`,
+        title: decodeEntities(link[2]),
+        olympiad: "POI",
+        year: 1993 + Number(edition[1]),
+        type: "Batch",
+        group: stage ? POI_STAGES[Number(stage[1])] : undefined,
+        url: `https://szkopul.edu.pl/problemset/problem/${link[1]}/site/`,
+      });
+    }
+    page++;
+    await sleep(400);
+  }
+  console.log(`POI: ${problems.length} problems`);
+  return problems;
+}
+
+// CCC and CCO problems straight from the DMOJ archive (also enables DMOJ sync).
+const DMOJ_GROUPS = [
+  { group: "CCC", olympiad: "CCC", re: /^CCC '(\d{2}) ([JS])\d+ - (.+)$/, divisions: { J: "Junior", S: "Senior" } },
+  { group: "CCO", olympiad: "CCO", re: /^CCO '(\d{2}) P\d+ - (.+)$/ },
+];
+
+async function fetchDmojGroup({ group, olympiad, re, divisions }) {
+  const problems = [];
+  let page = 1;
+  let hasMore = true;
+  while (hasMore) {
+    const data = JSON.parse(
+      await fetchText(`https://dmoj.ca/api/v2/problems?group=${group}&page=${page}`)
+    ).data;
+    hasMore = data.has_more;
+    page++;
+    for (const obj of data.objects) {
+      const m = obj.name.match(re);
+      if (!m) continue;
+      problems.push({
+        id: obj.code,
+        title: m[3] ?? m[2],
+        olympiad,
+        year: yearFrom2Digit(m[1]),
+        type: "Batch",
+        group: divisions ? divisions[m[2]] : undefined,
+        url: `https://dmoj.ca/problem/${obj.code}`,
+        dmoj: obj.code,
+      });
+    }
+    await sleep(400);
+  }
+  console.log(`${olympiad}: ${problems.length} problems`);
+  return problems;
+}
+
 // Attach DMOJ problem codes for DMOJ account sync by matching mirror names.
 async function attachDmoj(problems) {
   const byKey = new Map();
@@ -256,6 +329,8 @@ async function main() {
   problems.push(...(await fetchFario()));
   problems.push(...(await fetchUsaco()));
   problems.push(...(await fetchCnoi()));
+  problems.push(...(await fetchPoi()));
+  for (const g of DMOJ_GROUPS) problems.push(...(await fetchDmojGroup(g)));
 
   await attachDmoj(problems);
 
@@ -274,7 +349,7 @@ async function main() {
     console.log(`CF-linked: ${problems.filter((p) => p.cf).length} problems`);
   }
 
-  const groupRank = (p) => USACO_DIVISIONS[p.group] ?? 0;
+  const groupRank = (p) => GROUP_ORDER[p.group] ?? 0;
   const idNum = (p) => Number(p.id.match(/^(?:USACO|CNOI|FARIO)_(\d+)$/)?.[1] ?? 0);
   problems.sort(
     (a, b) =>
