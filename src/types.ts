@@ -5,6 +5,8 @@ export interface Problem {
   year: number
   type: string
   url: string
+  /** Sub-division within a year (e.g. USACO Bronze/Silver/Gold/Platinum). */
+  group?: string
   /** Codeforces problem id ("contestId/index") when a CF mirror exists. */
   cf?: string
 }

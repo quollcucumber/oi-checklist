@@ -5,6 +5,15 @@ import { STATUS_CYCLE } from './types'
 import OlympiadSection from './components/OlympiadSection'
 import ProgressBar from './components/ProgressBar'
 import CfSync from './components/CfSync'
+import Account from './components/Account'
+import type { Session } from '@supabase/supabase-js'
+import {
+  fetchRemoteStatuses,
+  mergeStatuses,
+  pushRemoteStatuses,
+  supabase,
+  syncEnabled,
+} from './lib/supabase'
 import {
   exportData,
   importData,
@@ -27,6 +36,9 @@ const OLYMPIADS: { key: string; fullName: string }[] = [
   { key: 'eJOI', fullName: 'European Junior Olympiad in Informatics' },
   { key: 'COI', fullName: 'Croatian Olympiad in Informatics' },
   { key: 'COCI', fullName: 'Croatian Open Competition in Informatics' },
+  { key: 'EGOI', fullName: "European Girls' Olympiad in Informatics" },
+  { key: 'USACO', fullName: 'USA Computing Olympiad' },
+  { key: 'CNOI', fullName: 'China National Olympiad in Informatics' },
 ]
 
 export default function App() {
@@ -35,7 +47,58 @@ export default function App() {
   const [search, setSearch] = useState('')
   const [hideSolved, setHideSolved] = useState(false)
   const [cfHandle, setCfHandle] = useState(loadCfHandle)
+  const [session, setSession] = useState<Session | null>(null)
+  const [syncState, setSyncState] = useState<'idle' | 'syncing' | 'synced' | 'error'>('idle')
   const fileInput = useRef<HTMLInputElement>(null)
+  const pushTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
+  const remoteLoaded = useRef(false)
+
+  useEffect(() => {
+    if (!syncEnabled) return
+    supabase()
+      .auth.getSession()
+      .then(({ data }) => setSession(data.session))
+    const { data: sub } = supabase().auth.onAuthStateChange((_event, s) => {
+      setSession(s)
+      if (!s) remoteLoaded.current = false
+    })
+    return () => sub.subscription.unsubscribe()
+  }, [])
+
+  // On login: merge remote + local statuses (keeping the more advanced status), then push back.
+  useEffect(() => {
+    if (!session || remoteLoaded.current) return
+    remoteLoaded.current = true
+    const userId = session.user.id
+    setSyncState('syncing')
+    fetchRemoteStatuses(userId)
+      .then((remote) => {
+        setStatuses((local) => {
+          const merged = mergeStatuses(local, remote)
+          pushRemoteStatuses(userId, merged)
+            .then(() => setSyncState('synced'))
+            .catch(() => setSyncState('error'))
+          return merged
+        })
+      })
+      .catch(() => setSyncState('error'))
+  }, [session])
+
+  // Debounced push of status changes while logged in.
+  useEffect(() => {
+    if (!session || !remoteLoaded.current) return
+    const userId = session.user.id
+    if (pushTimer.current) clearTimeout(pushTimer.current)
+    setSyncState('syncing')
+    pushTimer.current = setTimeout(() => {
+      pushRemoteStatuses(userId, statuses)
+        .then(() => setSyncState('synced'))
+        .catch(() => setSyncState('error'))
+    }, 800)
+    return () => {
+      if (pushTimer.current) clearTimeout(pushTimer.current)
+    }
+  }, [statuses, session])
 
   useEffect(() => {
     document.documentElement.classList.toggle('dark', theme === 'dark')
@@ -113,6 +176,7 @@ export default function App() {
             <ProgressBar solved={solvedTotal} inProgress={inProgressTotal} total={problems.length} />
           </div>
           <div className="flex flex-wrap items-center gap-2">
+            {syncEnabled && <Account session={session} syncState={syncState} />}
             <button
               type="button"
               onClick={handleExport}
@@ -206,6 +270,19 @@ export default function App() {
           Problem data from{' '}
           <a href="https://oj.uz" target="_blank" rel="noreferrer" className="underline hover:text-gray-600">
             oj.uz
+          </a>
+          ,{' '}
+          <a
+            href="https://usaco.org"
+            target="_blank"
+            rel="noreferrer"
+            className="underline hover:text-gray-600"
+          >
+            usaco.org
+          </a>
+          , and{' '}
+          <a href="https://loj.ac" target="_blank" rel="noreferrer" className="underline hover:text-gray-600">
+            loj.ac
           </a>
           {' · '}Inspired by{' '}
           <a

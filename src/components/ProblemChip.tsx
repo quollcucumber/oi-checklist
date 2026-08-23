@@ -22,6 +22,7 @@ const STATUS_LABELS: Record<Status, string> = {
 }
 
 export default function ProblemChip({ problem, status, onToggle }: Props) {
+  const host = new URL(problem.url).hostname
   return (
     <div
       className={`group inline-flex items-center gap-1.5 rounded-md px-2.5 py-1.5 text-sm transition-colors ${STATUS_STYLES[status]}`}
@@ -38,9 +39,9 @@ export default function ProblemChip({ problem, status, onToggle }: Props) {
         href={problem.url}
         target="_blank"
         rel="noreferrer"
-        title={`Open ${problem.id} on oj.uz`}
+        title={`Open ${problem.id} on ${host}`}
         className="text-gray-400 opacity-60 transition-opacity hover:text-blue-500 group-hover:opacity-100 dark:text-gray-500"
-        aria-label={`Open ${problem.title} on oj.uz`}
+        aria-label={`Open ${problem.title} on ${host}`}
       >
         <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
           <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
